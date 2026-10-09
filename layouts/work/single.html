@@ -30,25 +30,29 @@
                         </div>
                     </div>
 
-                    <div class="articles-container">
-                        <ul>
-                            {{ range .Params.ko.articles }}
-                                <li>
-                                    <a href="{{ .url }}">{{ .title }}</a>
-                                </li>
-                            {{ end }}
-                        </ul>
-                    </div>
+                {{ if .Params.ko.articles }}
+                <div class="articles-container">
+                    <ul>
+                        {{ range .Params.ko.articles }}
+                            <li>
+                                <a href="{{ .url }}">{{ .title }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                </div>
+                {{ end }}
 
-                    <div class="critics-container">
-                        <ul>
-                            {{ range .Params.ko.critics }}
-                                <li>
-                                    <a href="{{ .url }}">{{ .title }}</a>
-                                </li>
-                            {{ end }}
-                        </ul>
-                    </div>
+                {{ if .Params.ko.critics }}
+                <div class="critics-container">
+                    <ul>
+                        {{ range .Params.ko.critics }}
+                            <li>
+                                <a href="{{ .url }}">{{ .title }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                </div>
+                {{ end }}
                 </div>
                 <div class="right">
                     {{ range .Params.ko.images }}
