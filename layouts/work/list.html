@@ -9,7 +9,7 @@
                         {{ range sort (where .Site.RegularPages "Section" "work") ".Params.ko.startDate" "desc" }}
                             <a href="{{ .RelPermalink }}">
                                 <li>
-                                    <div class="title">{{ .Params.ko.title }} {{ .Params.en.title}}</div>
+                                    <div class="title">  {{ .Params.ko.title }}{{ if ne .Params.ko.title .Params.en.title }} {{ .Params.en.title }}{{ end }}</div>
                                     <div class="type" data-lang="ko">{{ .Params.ko.workType }}</div>
                                     <div class="type" data-lang="en">{{ .Params.en.workType }}</div>
                                     <div class="venue" data-lang="ko">{{ .Params.ko.venue }}</div>

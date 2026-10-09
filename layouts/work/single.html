@@ -7,7 +7,9 @@
                 <div class="left">
                     <div class="top-container">
                         <div>
-                            <p class="title">{{ .Params.ko.title }} {{ .Params.en.title }}</p>
+                            <p class="title">
+                                    {{ .Params.ko.title }}{{ if ne .Params.ko.title .Params.en.title }} {{ .Params.en.title }}{{ end }}
+                            </p>
                             <p class="workType" data-lang="ko">{{ .Params.ko.workType }}</p>
                             <p class="workType" data-lang="en">{{ .Params.en.workType }}</p>    
                             <p class="date">
