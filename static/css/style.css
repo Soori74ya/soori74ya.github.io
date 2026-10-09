@@ -285,7 +285,7 @@ a {
     width: 100%;
     display: flex;
     flex-direction: column;
-    height: calc(var(--height) - var(--nav-height) - 45px);
+    height: calc(var(--height) - var(--nav-height));
     overflow-y: scroll;
     padding-bottom: 30px;
     scrollbar-width: none;
