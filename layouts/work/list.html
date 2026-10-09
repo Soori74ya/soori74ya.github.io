@@ -6,7 +6,7 @@
                 {{ partial "nav.html" . }}
                 <main>
                     <ul>
-                        {{ range sort (where .Site.RegularPages "Section" "work") "Date" "desc" }}
+                        {{ range sort (where .Site.RegularPages "Section" "work") ".Params.ko.startDate" "desc" }}
                             <a href="{{ .RelPermalink }}">
                                 <li>
                                     <div class="title">{{ .Params.ko.title }} {{ .Params.en.title}}</div>
