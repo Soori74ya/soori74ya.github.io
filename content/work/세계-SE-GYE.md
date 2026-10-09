@@ -55,22 +55,20 @@ en:
   endDate: 2026-03-15
   venue: Gallery 1, B1, Seo-Seoul Museum of Art
   credit: |-
-    컨셉,안무 : 황수현
-    조안무 : 강호정
-    퍼포머 : 강한나, 김주영, 문형수, 서윤영, 신정민, 유도현, 이재아, 정나원
-    조명 슈퍼바이저 : 공연화
-    사운드 : 카입
-    무대감독 : 이유성
+    Choreography/Concept : Hwang Soohyun
+    Assistant Choreography : Kang Hojung
+    Cast : Kang Hanna, Kim Juyeong , Moon Hyungsoo, Suh Yoonyoung, Shin Jeongmin, Yoo Dohyun, Lee Jaeah, Jeong Nawon
+    Lighting Supervisor : Kong Yeonhwa
+    Sound : Kayip
+    Stage Director: Lee yusung
 
-    서울시립 서서울미술관 커미션
-    기획·제작 이성민
-    제작·운영 곽소민, 김수나, 박수정, 이소영, 이지연, 임다울, 이도현
-    조명 공연화, 김세현, 신유미, 박지원
-    음향 김성욱, 이원석, 전희주
-    무대 이도엽, 이유성, 김지수, 김진태, 손성현
-    사진 이지영, 이동웅, 서울시립 서서울미술관
-
-    주최 서울시립미술관
+    Commissioned by Seo-Seoul Museum of Art
+    Curator and Producer : Sungmin Lee
+    Production and Operations: Somin Kwak, Soona Kim, Soojeong Park, So Young Lee, Jiyoun Lee, Daul Rheem, Dohyun Lee
+    Lighting Team: Kong Younwha, Sehyeon Kim, Yoomi Shin, Jiwon Park
+    Sound Technical Team: Seonguk Kim, Wonseok Lee, Huiju Jeon
+    Stage Technical Team: Do Yup Lee, Yusung Lee, Jisu Kim, Jintae Kim, Sunghyun Son
+    Photography: Jiyoung Lee, Dongwoong Lee, Seo-Seoul Museum of Art
   production: ''
   description: 《SE GYE》 deals with invisible objects such as air currents and energy. Bodies flowing along the space in the art museum coordinate the flow of materials and invisible senses in an unstable environment, and, amid them, audience members come to ponder on a world beyond familiar topography.
   articles:
