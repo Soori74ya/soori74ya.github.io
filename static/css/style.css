@@ -58,6 +58,7 @@ body {
     background: white;
 }
 
+
 .container {
     position: relative;
     box-sizing: border-box;
@@ -190,6 +191,8 @@ a {
     background: none;
     border: none;     
     padding: 0;
+    color: black !important;
+    text-decoration: none;
 }
 
 .container nav .lang-button:hover {
