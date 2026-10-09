@@ -1,0 +1,28 @@
+<html lang="en">
+    <html lang="en">
+        {{ partial "head.html" . }}
+        <body>
+            <div class="container work">
+                {{ partial "nav.html" . }}
+                <main>
+                    <ul>
+                        {{ range sort (where .Site.RegularPages "Section" "work") "Date" "desc" }}
+                            <a href="{{ .RelPermalink }}">
+                                <li>
+                                    <div class="title">{{ .Params.ko.title }} {{ .Params.en.title}}</div>
+                                    <div class="type" data-lang="ko">{{ .Params.ko.workType }}</div>
+                                    <div class="type" data-lang="en">{{ .Params.en.workType }}</div>
+                                    <div class="venue" data-lang="ko">{{ .Params.ko.venue }}</div>
+                                    <div class="venue" data-lang="en">{{ .Params.en.venue }}</div>
+                                    <div class="year">
+                                        {{ time.Format "2006" .Params.ko.startDate }}
+                                    </div>
+                                </li>
+                            </a>
+                        {{ end }}
+                    </ul>
+                </main>
+            </div>
+        </body>
+    </html>
+</html>
