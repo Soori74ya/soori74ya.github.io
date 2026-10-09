@@ -3,8 +3,7 @@ backend:
   repo: Soori74ya/soori74ya.github.io
   branch: main
   base_url: https://sveltia-cms-auth.hwang-soohyun.workers.dev
-# backend:
-#   name: test-repo
+
 logo:
   src: ../assets/logo.jpg
   show_in_header: true
@@ -37,7 +36,7 @@ collections:
     files:
       - name: biography
         label: Biography
-        file: content/biography/biography.md
+        file: content/biography.md
         fields:
           - name: experience
             label: 경력
@@ -114,32 +113,32 @@ collections:
         type: date
         required: true
         i18n: duplicate
-        
+
       - name: endDate
         label: 종료 날짜
         widget: datetime
         type: date
         required: true
         i18n: duplicate
-        
+
       - name: venue
         label: 공연 장소
         widget: string
         required: false
         i18n: duplicate
-        
+
       - name: credit
         label: 크레딧
         widget: richtext
         required: false
         i18n: duplicate
-        
+
       - name: production
         label: 제작, 주최 및 후원
         widget: text
         required: false
         i18n: duplicate
-       
+
       - name: description
         label: 작품 내용
         widget: richtext
@@ -180,32 +179,34 @@ collections:
 
   - name: news
     label: News
-    folder: /content/news
-    create: true
-    fields:
-      - name: start_date
-        label: 시작 날짜
-        widget: datetime
-        format: YYYY-MM-DD
-        required: true
+    files:
+      - name: news
+        label: News
+        file: content/news.md
+        fields:
+          - name: start_date
+            label: 시작 날짜
+            widget: datetime
+            format: YYYY-MM-DD
+            required: true
 
-      - name: end_date
-        label: 종료 날짜
-        widget: datetime
-        format: YYYY-MM-DD
-        required: false
+          - name: end_date
+            label: 종료 날짜
+            widget: datetime
+            format: YYYY-MM-DD
+            required: false
 
-      - name: title
-        label: 제목
-        widget: string
-        required: true
+          - name: title
+            label: 제목
+            widget: string
+            required: true
 
-      - name: venue
-        label: 장소
-        widget: string
-        required: false
+          - name: venue
+            label: 장소
+            widget: string
+            required: false
 
-      - name: link
-        label: 참조 링크
-        widget: string
-        required: false
+          - name: link
+            label: 참조 링크
+            widget: string
+            required: false
