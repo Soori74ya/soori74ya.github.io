@@ -22,7 +22,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
+      hardWraps: false
   highlight:
     guessSyntax: true
     lineNumbersInTable: false

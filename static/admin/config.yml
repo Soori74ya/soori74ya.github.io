@@ -126,18 +126,18 @@ collections:
         widget: string
         required: false
         i18n: duplicate
+      
+      - name: production
+        label: 제작, 주최 및 후원
+        widget: text
+        required: false
+        i18n: duplicate
 
       - name: credit
         label: 크레딧
         widget: richtext
         required: false
         i18n: true
-
-      - name: production
-        label: 제작, 주최 및 후원
-        widget: text
-        required: false
-        i18n: duplicate
 
       - name: description
         label: 작품 내용
