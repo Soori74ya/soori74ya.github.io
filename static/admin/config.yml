@@ -43,49 +43,49 @@ collections:
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
-              - { name: title, label: 내용, widget: string }
+              - { name: description, label: 내용, widget: string }
 
           - name: awards
             label: 수상
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
-              - { name: title, label: 내용, widget: string }
+              - { name: description, label: 내용, widget: string }
 
           - name: residencies
             label: 레지던시
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
-              - { name: title, label: 내용, widget: string }
+              - { name: description, label: 내용, widget: string }
 
           - name: education_workshops
             label: 교육 및 워크숍
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
-              - { name: title, label: 내용, widget: string }
+              - { name: description, label: 내용, widget: string }
 
           - name: choreography
             label: 안무작
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
-              - { name: title, label: 내용, widget: string }
+              - { name: description, label: 내용, widget: string }
 
           - name: collaborations
             label: 협업 및 협력 프로젝트
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
-              - { name: title, label: 내용, widget: string }
+              - { name: description, label: 내용, widget: string }
 
           - name: performances
             label: 출연작
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
-              - { name: title, label: 내용, widget: string }
+              - { name: description, label: 내용, widget: string }
 
   - name: work
     label: Work
@@ -184,29 +184,33 @@ collections:
         label: News
         file: content/news.md
         fields:
-          - name: start_date
-            label: 시작 날짜
-            widget: datetime
-            format: YYYY-MM-DD
-            required: true
+          - name: news
+            label: 뉴스 목록
+            widget: list
+            fields:
+              - name: start_date
+                label: 시작 날짜
+                widget: datetime
+                format: YYYY-MM-DD
+                required: true
 
-          - name: end_date
-            label: 종료 날짜
-            widget: datetime
-            format: YYYY-MM-DD
-            required: false
+              - name: end_date
+                label: 종료 날짜
+                widget: datetime
+                format: YYYY-MM-DD
+                required: false
 
-          - name: title
-            label: 제목
-            widget: string
-            required: true
+              - name: title
+                label: 제목
+                widget: string
+                required: true
 
-          - name: venue
-            label: 장소
-            widget: string
-            required: false
+              - name: venue
+                label: 장소
+                widget: string
+                required: false
 
-          - name: link
-            label: 참조 링크
-            widget: string
-            required: false
+              - name: link
+                label: 링크
+                widget: string
+                required: false
