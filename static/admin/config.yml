@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: KaywonKUMA/kaywonkuma.github.io
+  repo: Soori74ya/soori74ya.github.io
   branch: main
   base_url: https://sveltia-cms-auth.hwang-soohyun.workers.dev
 # backend:
