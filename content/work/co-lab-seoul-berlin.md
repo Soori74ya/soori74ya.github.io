@@ -1,6 +1,6 @@
 ---
 ko:
-  title: Co-Lab : Seoul-Berlin
+  title: "Co-Lab : Seoul-Berlin"
   workType: Collaborative Work
   startDate: 2012-01-19
   venue: 아르코소극장
@@ -14,11 +14,11 @@ ko:
     조명: 공연화
 
     후원: 한국문화예술위원회
- critics:
-    - title: <2012 한팩 라이징스타> 첫 번째 편 리뷰 : 차세대 안무가 3인을 만나다
+  critics:
+    - title: "<2012 한팩 라이징스타> 첫 번째 편 리뷰 : 차세대 안무가 3인을 만나다"
       url: https://www.artscene.co.kr/1061
 en:
-  title: Co-Lab : Seoul-Berlin
+  title: "Co-Lab : Seoul-Berlin"
   workType: Collaborative Work
   startDate: 2012-01-19
   venue: Arko Arts Theater Small Theater
@@ -32,7 +32,7 @@ en:
     Lighting: Kong Younhwa
 
     Supported by: Arts Council Korea
- critics:
-    - title: <2012 한팩 라이징스타> 첫 번째 편 리뷰 : 차세대 안무가 3인을 만나다
+  critics:
+    - title: "<2012 한팩 라이징스타> 첫 번째 편 리뷰 : 차세대 안무가 3인을 만나다"
       url: https://www.artscene.co.kr/1061
 ---
