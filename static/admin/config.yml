@@ -31,6 +31,97 @@ media_libraries:
           optimize: true
 
 collections:
+  - name: work
+    label: Work
+    folder: /content/work
+    create: true
+    i18n: true
+    media_folder: "{{media_folder}}/work/{{slug}}"
+    public_folder: "{{public_folder}}/work/{{slug}}"
+    fields:
+      - name: title
+        label: 제목
+        widget: string
+        required: true
+        i18n: true
+
+      - name: workType
+        label: 작업 유형
+        widget: string
+        required: true
+        i18n: duplicate
+
+      - name: startDate
+        label: 시작 날짜
+        widget: datetime
+        type: date
+        required: true
+        i18n: duplicate
+
+      - name: endDate
+        label: 종료 날짜
+        widget: datetime
+        type: date
+        required: false
+        i18n: duplicate
+
+      - name: venue
+        label: 공연 장소
+        widget: string
+        required: false
+        i18n: true
+      
+      - name: production
+        label: 제작, 주최 및 후원
+        widget: text
+        required: false
+        i18n: true
+
+      - name: credit
+        label: 크레딧
+        widget: richtext
+        required: false
+        i18n: true
+
+      - name: description
+        label: 작품 내용
+        widget: richtext
+        required: false
+        i18n: true
+
+      - name: articles
+        label: 기사
+        widget: list
+        required: false
+        fields:
+          - name: title
+            label: 제목
+            widget: string
+
+          - name: url
+            label: 링크
+            widget: string
+
+      - name: critics
+        label: 비평
+        widget: list
+        required: false
+        fields:
+          - name: title
+            label: 제목
+            widget: string
+
+          - name: url
+            label: 링크
+            widget: string
+
+      - name: images
+        label: 이미지
+        widget: file
+        multiple: true
+        required: false
+        
+  
   - name: biography
     label: Biography
     files:
@@ -124,93 +215,3 @@ collections:
                 label: 링크
                 widget: string
                 required: false
-                
-  - name: work
-    label: Work
-    folder: /content/work
-    create: true
-    i18n: true
-    media_folder: "{{media_folder}}/work/{{slug}}"
-    public_folder: "{{public_folder}}/work/{{slug}}"
-    fields:
-      - name: title
-        label: 제목
-        widget: string
-        required: true
-        i18n: true
-
-      - name: workType
-        label: 작업 유형
-        widget: string
-        required: true
-        i18n: duplicate
-
-      - name: startDate
-        label: 시작 날짜
-        widget: datetime
-        type: date
-        required: true
-        i18n: duplicate
-
-      - name: endDate
-        label: 종료 날짜
-        widget: datetime
-        type: date
-        required: false
-        i18n: duplicate
-
-      - name: venue
-        label: 공연 장소
-        widget: string
-        required: false
-        i18n: true
-      
-      - name: production
-        label: 제작, 주최 및 후원
-        widget: text
-        required: false
-        i18n: true
-
-      - name: credit
-        label: 크레딧
-        widget: richtext
-        required: false
-        i18n: true
-
-      - name: description
-        label: 작품 내용
-        widget: richtext
-        required: false
-        i18n: true
-
-      - name: articles
-        label: 기사
-        widget: list
-        required: false
-        fields:
-          - name: title
-            label: 제목
-            widget: string
-
-          - name: url
-            label: 링크
-            widget: string
-
-      - name: critics
-        label: 비평
-        widget: list
-        required: false
-        fields:
-          - name: title
-            label: 제목
-            widget: string
-
-          - name: url
-            label: 링크
-            widget: string
-
-      - name: images
-        label: 이미지
-        widget: file
-        multiple: true
-        required: false
