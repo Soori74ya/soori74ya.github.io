@@ -118,7 +118,7 @@ collections:
         label: 종료 날짜
         widget: datetime
         type: date
-        required: true
+        required: false
         i18n: duplicate
 
       - name: venue

@@ -8,12 +8,12 @@
                     <div class="top-container">
                         <div>
                             <p class="title">
-                                    {{ .Params.ko.title }}{{ if ne .Params.ko.title .Params.en.title }} {{ .Params.en.title }}{{ end }}
+                                {{ .Params.ko.title }}{{ if ne .Params.ko.title .Params.en.title }} {{ .Params.en.title }}{{ end }}
                             </p>
                             <p class="workType" data-lang="ko">{{ .Params.ko.workType }}</p>
                             <p class="workType" data-lang="en">{{ .Params.en.workType }}</p>    
                             <p class="date">
-                                {{ time .Params.ko.startDate | time.Format "2006.01.02" }}-{{ time .Params.ko.endDate | time.Format "02" }}
+                                {{ time .Params.ko.startDate | time.Format "2006.01.02" }}{{ with .Params.ko.endDate }}{{ if ne ($.Params.ko.startDate | time.Format "2006.01.02") (time.Format "2006.01.02" .) }}-{{ time.Format "02" . }}{{ end }}{{ end }}
                             </p>
                             <p class="venue" data-lang="ko">{{ .Params.ko.venue }}</p>
                             <p class="venue" data-lang="en">{{ .Params.en.venue }}</p>
