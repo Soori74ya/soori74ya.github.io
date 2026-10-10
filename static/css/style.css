@@ -380,6 +380,18 @@ a {
         height: auto;
         overflow-y: visible;
     }
+    
+    .container.work ul li {
+        grid-template-columns: 1fr auto;
+    }
+
+    .container.work ul li .type {
+        display: none;
+    }
+    
+    .container.work ul li .venue {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 580px) {
