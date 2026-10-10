@@ -21,7 +21,17 @@ ko:
       url: https://www.artscene.co.kr/1715
     - title: 익숙하고 낯선 몸을 경유한 윤리적 탐구 《나는 그 사람이 느끼는 것을 생각한다》 - 인디언밥
       url: https://indienbob.tistory.com/1141
-  images: []
+  images:
+    - /assets/work/i-sense-what-they-feel/가로1_MMCA 제공.webp
+    - /assets/work/i-sense-what-they-feel/가로2_MMCA 제공.webp
+    - /assets/work/i-sense-what-they-feel/가로3_MMCA 제공.webp
+    - /assets/work/i-sense-what-they-feel/가로4_MMCA 제공.webp
+    - /assets/work/i-sense-what-they-feel/가로5_변방연극제 제공, 한민주.webp
+    - /assets/work/i-sense-what-they-feel/가로6_변방연극제 제공, 한민주.webp
+    - /assets/work/i-sense-what-they-feel/세로1_변방연극제 제공, 한민주.webp
+    - /assets/work/i-sense-what-they-feel/세로1_조현우.webp
+    - /assets/work/i-sense-what-they-feel/세로2_조현우.webp
+    - /assets/work/i-sense-what-they-feel/세로4_조현우.webp
 en:
   title: I Sense What They Feel
   workType: Live Performance
