@@ -34,20 +34,6 @@ ko:
       url: https://www.artscene.co.kr/2095
     - title: 춤웹진 김혜라 무용평론가
       url: http://www.koreadance.kr/board/board_view.php?view_id=742&board_name=review&page=
-  images:
-    - /assets/works/세계-SE-GYE/가로1_최형락.webp
-    - /assets/works/세계-SE-GYE/가로2_최형락.webp
-    - /assets/works/세계-SE-GYE/세로1_이동웅.webp
-    - /assets/works/세계-SE-GYE/세로2_이동웅.webp
-    - /assets/works/세계-SE-GYE/세로3_이지영.webp
-    - /assets/works/세계-SE-GYE/가로3_최형락.webp
-    - /assets/works/세계-SE-GYE/세로4_최형락.webp
-    - /assets/works/세계-SE-GYE/가로4_이동웅.webp
-    - /assets/works/세계-SE-GYE/가로5_최형락.webp
-    - /assets/works/세계-SE-GYE/가로6_최형락.webp
-    - /assets/works/세계-SE-GYE/가로7_이동웅.webp
-    - /assets/works/세계-SE-GYE/가로8_최형락.webp
-    - /assets/works/세계-SE-GYE/가로9_최형락.webp
 en:
   title: SE GYE
   workType: Live Performance
@@ -81,18 +67,4 @@ en:
       url: https://www.artscene.co.kr/2095
     - title: 춤웹진 김혜라 무용평론가
       url: http://www.koreadance.kr/board/board_view.php?view_id=742&board_name=review&page=
-  images:
-    - /assets/works/세계-SE-GYE/가로1_최형락.webp
-    - /assets/works/세계-SE-GYE/가로2_최형락.webp
-    - /assets/works/세계-SE-GYE/세로1_이동웅.webp
-    - /assets/works/세계-SE-GYE/세로2_이동웅.webp
-    - /assets/works/세계-SE-GYE/세로3_이지영.webp
-    - /assets/works/세계-SE-GYE/가로3_최형락.webp
-    - /assets/works/세계-SE-GYE/세로4_최형락.webp
-    - /assets/works/세계-SE-GYE/가로4_이동웅.webp
-    - /assets/works/세계-SE-GYE/가로5_최형락.webp
-    - /assets/works/세계-SE-GYE/가로6_최형락.webp
-    - /assets/works/세계-SE-GYE/가로7_이동웅.webp
-    - /assets/works/세계-SE-GYE/가로8_최형락.webp
-    - /assets/works/세계-SE-GYE/가로9_최형락.webp
 ---
