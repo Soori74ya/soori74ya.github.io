@@ -48,7 +48,17 @@ ko:
       url: https://www.mk.co.kr/news/culture/10865689
     - title: Zzz 리뷰
       url: https://docs.google.com/document/d/1Fflm_b6NPp2guTBrNYTiiOSn0ZBEb2XuIeHtH40twy0/edit?usp=sharing
-  images: []
+  images:
+    - /assets/work/zzz/가로1_오석근.webp
+    - /assets/work/zzz/가로10_오석근.webp
+    - /assets/work/zzz/가로2_서울문화재단 제공.webp
+    - /assets/work/zzz/가로3_서울문화재단 제공.webp
+    - /assets/work/zzz/가로4_서울문화재단 제공.webp
+    - /assets/work/zzz/가로5_오석근.webp
+    - /assets/work/zzz/가로6_서울문화재단 제공.webp
+    - /assets/work/zzz/가로7_서울문화재단 제공.webp
+    - /assets/work/zzz/가로8_서울문화재단 제공.webp
+    - /assets/work/zzz/가로9_오석근.webp
 en:
   title: Zzz
   workType: Live Performance
