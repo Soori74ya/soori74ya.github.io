@@ -6,8 +6,6 @@ ko:
   endDate: 2020-07-12
   venue: 예술의 전당 자유소극장
   production: 국립현대무용단
-  description: |-
-    《검정감각360》은 2019년 초연된 《검정감각》의 확장판으로, 안무가 황수현은 이번 공연에서 소리의 울림과 자취를 통해 공간의 깊이와 무게, 밀도, 텍스처의 층위를 더하고자 한다. 관객은 눈을 감은 퍼포머의 시선으로 무대 공간을 감지하고, 이때 눈이 아니라 피부에 닿는 미세한 촉각 자극으로 감응하는 공연을 제안받는다. 안무가는 극장 공간에 퍼지는 소리와 잔음, 진동을 통해 객석에 기묘한 멀미감이 번지도록 의도하였다. 여기서 관객은 익숙하지만 낯선 ‘검정감각’을 경험하게 된다.
   credit: |-
     콘셉트/안무: 황수현
     출연: 강호정, 나연우, 박유라, 황다솜
@@ -32,12 +30,24 @@ ko:
     그래픽디자인: LIFT-OFF
 
     제작: 국립현대무용단
+  description: 《검정감각360》은 2019년 초연된 《검정감각》의 확장판으로, 안무가 황수현은 이번 공연에서 소리의 울림과 자취를 통해 공간의 깊이와 무게, 밀도, 텍스처의 층위를 더하고자 한다. 관객은 눈을 감은 퍼포머의 시선으로 무대 공간을 감지하고, 이때 눈이 아니라 피부에 닿는 미세한 촉각 자극으로 감응하는 공연을 제안받는다. 안무가는 극장 공간에 퍼지는 소리와 잔음, 진동을 통해 객석에 기묘한 멀미감이 번지도록 의도하였다. 여기서 관객은 익숙하지만 낯선 ‘검정감각’을 경험하게 된다.
+  articles: []
   critics:
     - title: 춤웹진_김혜라
-      url: "http://www.koreadance.kr/board/board_view.php?view_id=443&board_name=review&page="
+      url: http://www.koreadance.kr/board/board_view.php?view_id=443&board_name=review&page=
     - title: 몸지_김남수
-      url: "https://docs.google.com/document/d/1F7qRr1RW5SrFOUwKSTj-fadLRvMMQ6D1BRZeIIYQAYk/edit?usp=sharing"
-
+      url: https://docs.google.com/document/d/1F7qRr1RW5SrFOUwKSTj-fadLRvMMQ6D1BRZeIIYQAYk/edit?usp=sharing
+  images:
+    - /assets/work/sense-of-darkness360/가로1.webp
+    - /assets/work/sense-of-darkness360/가로2.webp
+    - /assets/work/sense-of-darkness360/가로3.webp
+    - /assets/work/sense-of-darkness360/가로4.webp
+    - /assets/work/sense-of-darkness360/가로5.webp
+    - /assets/work/sense-of-darkness360/가로6.webp
+    - /assets/work/sense-of-darkness360/세로1.webp
+    - /assets/work/sense-of-darkness360/세로2.webp
+    - /assets/work/sense-of-darkness360/세로3.webp
+    - /assets/work/sense-of-darkness360/세로4.webp
 en:
   title: Sense of Darkness 360
   workType: Live Performance
@@ -45,8 +55,6 @@ en:
   endDate: 2020-07-12
   venue: Seoul Arts Center Jayu Theater
   production: Korea National Contemporary Dance Company
-  description: |-
-    《Sense of Darkness 360》 is an extended version of 《Sense of Darkness》, which premiered in 2019. In this new performance, choreographer Hwang Soohyun seeks to add layers of depth, weight, density, and texture to the performance space through the reverberations and traces of sound. The audience senses the stage space from the perspective of performers with their eyes closed, experiencing a performance in which perception occurs not through sight but through subtle tactile sensations on the skin. Through sound, lingering echoes, and vibrations spreading throughout the theater, the choreographer intends to create a peculiar sense of dizziness among the audience. Here, the audience experiences a sense that is familiar yet strange: the "sense of darkness."
   credit: |-
     Choreography: Hwang Soohyun
     Dance: Kang Hojung, Na Yeonwoo, Park Yura, Hwang Dasom
@@ -72,9 +80,10 @@ en:
     Graphic Design: LIFT-OFF
 
     Produced by Korea National Contemporary Dance Company
+  description: '《Sense of Darkness 360》 is an extended version of 《Sense of Darkness》, which premiered in 2019. In this new performance, choreographer Hwang Soohyun seeks to add layers of depth, weight, density, and texture to the performance space through the reverberations and traces of sound. The audience senses the stage space from the perspective of performers with their eyes closed, experiencing a performance in which perception occurs not through sight but through subtle tactile sensations on the skin. Through sound, lingering echoes, and vibrations spreading throughout the theater, the choreographer intends to create a peculiar sense of dizziness among the audience. Here, the audience experiences a sense that is familiar yet strange: the "sense of darkness."'
   critics:
     - title: 춤웹진_김혜라
-      url: "http://www.koreadance.kr/board/board_view.php?view_id=443&board_name=review&page="
+      url: http://www.koreadance.kr/board/board_view.php?view_id=443&board_name=review&page=
     - title: 몸지_김남수
-      url: "https://docs.google.com/document/d/1F7qRr1RW5SrFOUwKSTj-fadLRvMMQ6D1BRZeIIYQAYk/edit?usp=sharing"
+      url: https://docs.google.com/document/d/1F7qRr1RW5SrFOUwKSTj-fadLRvMMQ6D1BRZeIIYQAYk/edit?usp=sharing
 ---
