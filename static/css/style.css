@@ -357,6 +357,10 @@ a {
     border-bottom: var(--border);
 }
 
+.container.contact nav .lang-button {
+    display: none;
+}
+
 @media screen and (max-width: 1280px) {}
 
 @media screen and (max-width: 1280px) {}
