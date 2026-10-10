@@ -28,7 +28,17 @@ ko:
   critics:
     - title: 2020 음------ 리뷰
       url: https://docs.google.com/document/d/1jA1eMalP5OwFAahp89ZRKpl7DyXiad_uvtBFS1SIMhI/edit?usp=sharing
-  images: []
+  images:
+    - /assets/work/hmmmm/가로1.webp
+    - /assets/work/hmmmm/가로2.webp
+    - /assets/work/hmmmm/가로3.webp
+    - /assets/work/hmmmm/가로4.webp
+    - /assets/work/hmmmm/가로5.webp
+    - /assets/work/hmmmm/가로6.webp
+    - /assets/work/hmmmm/세로1.webp
+    - /assets/work/hmmmm/세로2.webp
+    - /assets/work/hmmmm/세로3.webp
+    - /assets/work/hmmmm/세로4.webp
 en:
   title: Hmmmm
   workType: Live Performance
