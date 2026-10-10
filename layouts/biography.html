@@ -15,9 +15,12 @@
                         {{ range .Params.experience }}
                             <li>
                                 <span class="year">{{ .year }}</span>
-                                <span class="description"
-                                    >{{ .description }}</span
-                                >
+                                <span class="description" data-lang="ko">
+                                    {{ .description_kr }}
+                                </span>
+                                <span class="description" data-lang="en">
+                                    {{ .description_en | default .description_kr }}
+                                </span>
                             </li>
                         {{ end }}
                     </ul>
@@ -30,9 +33,12 @@
                         {{ range .Params.awards }}
                             <li>
                                 <span class="year">{{ .year }}</span>
-                                <span class="description"
-                                    >{{ .description }}</span
-                                >
+                                <span class="description" data-lang="ko">
+                                    {{ .description_kr }}
+                                </span>
+                                <span class="description" data-lang="en">
+                                    {{ .description_en | default .description_kr }}
+                                </span>
                             </li>
                         {{ end }}
                     </ul>
@@ -45,9 +51,12 @@
                         {{ range .Params.residencies }}
                             <li>
                                 <span class="year">{{ .year }}</span>
-                                <span class="description"
-                                    >{{ .description }}</span
-                                >
+                                <span class="description" data-lang="ko">
+                                    {{ .description_kr }}
+                                </span>
+                                <span class="description" data-lang="en">
+                                    {{ .description_en | default .description_kr }}
+                                </span>
                             </li>
                         {{ end }}
                     </ul>
@@ -60,9 +69,12 @@
                         {{ range .Params.education_workshops }}
                             <li>
                                 <span class="year">{{ .year }}</span>
-                                <span class="description"
-                                    >{{ .description }}</span
-                                >
+                                <span class="description" data-lang="ko">
+                                    {{ .description_kr }}
+                                </span>
+                                <span class="description" data-lang="en">
+                                    {{ .description_en | default .description_kr }}
+                                </span>
                             </li>
                         {{ end }}
                     </ul>
@@ -75,9 +87,12 @@
                         {{ range .Params.choreography }}
                             <li>
                                 <span class="year">{{ .year }}</span>
-                                <span class="description"
-                                    >{{ .description }}</span
-                                >
+                                <span class="description" data-lang="ko">
+                                    {{ .description_kr }}
+                                </span>
+                                <span class="description" data-lang="en">
+                                    {{ .description_en | default .description_kr }}
+                                </span>
                             </li>
                         {{ end }}
                     </ul>
@@ -90,9 +105,12 @@
                         {{ range .Params.collaborations }}
                             <li>
                                 <span class="year">{{ .year }}</span>
-                                <span class="description"
-                                    >{{ .description }}</span
-                                >
+                                <span class="description" data-lang="ko">
+                                    {{ .description_kr }}
+                                </span>
+                                <span class="description" data-lang="en">
+                                    {{ .description_en | default .description_kr }}
+                                </span>
                             </li>
                         {{ end }}
                     </ul>
@@ -105,9 +123,12 @@
                         {{ range .Params.performances }}
                             <li>
                                 <span class="year">{{ .year }}</span>
-                                <span class="description"
-                                    >{{ .description }}</span
-                                >
+                                <span class="description" data-lang="ko">
+                                    {{ .description_kr }}
+                                </span>
+                                <span class="description" data-lang="en">
+                                    {{ .description_en | default .description_kr }}
+                                </span>
                             </li>
                         {{ end }}
                     </ul>
