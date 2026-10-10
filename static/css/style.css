@@ -252,14 +252,14 @@ a {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr auto;
     padding-block: var(--list-padding);
-    gap: 5px;
+    gap: 7px;
 }
 
 .container.news ul li {
     display: grid;
     grid-template-columns: 0.7fr 1fr 1fr;
     padding-block: var(--list-padding);
-    gap: 5px;
+    gap: 7px;
 }
 
 .container.work ul li div,
@@ -339,7 +339,6 @@ a {
     display: grid;
     grid-template-columns: clamp(75px, 18vw, 170px) auto;
     margin-bottom: var(--list-margin);
-    gap: 5px;
 }
 
 .container.biography .description {
