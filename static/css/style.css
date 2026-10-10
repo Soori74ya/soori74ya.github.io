@@ -339,6 +339,7 @@ a {
     display: grid;
     grid-template-columns: clamp(75px, 18vw, 170px) auto;
     margin-bottom: var(--list-margin);
+    gap: 7px;
 }
 
 .container.biography .description {
