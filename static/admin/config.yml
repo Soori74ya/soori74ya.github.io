@@ -142,7 +142,7 @@ collections:
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
-              - { name: description_ko, label: 국문 내용, widget: string }
+              - { name: description_kr, label: 국문 내용, widget: string }
               - { name: description_en, label: 영문 내용, widget: string }
 
           - name: awards
