@@ -24,9 +24,9 @@ media_libraries:
       transformations:
         raster_image:
           format: webp
-          quality: 80
-          width: 1200
-          height: 1200
+          quality: 85
+          width: 1600
+          height: 1600
         svg:
           optimize: true
 
@@ -87,6 +87,44 @@ collections:
               - { name: year, label: 년도, widget: string }
               - { name: description, label: 내용, widget: string }
 
+  - name: news
+    label: News
+    files:
+      - name: news
+        label: News
+        file: content/news.md
+        fields:
+          - name: news
+            label: 뉴스 목록
+            widget: list
+            fields:
+              - name: start_date
+                label: 시작 날짜
+                widget: datetime
+                format: YYYY-MM-DD
+                required: true
+
+              - name: end_date
+                label: 종료 날짜
+                widget: datetime
+                format: YYYY-MM-DD
+                required: false
+
+              - name: title
+                label: 제목
+                widget: string
+                required: true
+
+              - name: venue
+                label: 장소
+                widget: string
+                required: false
+
+              - name: link
+                label: 링크
+                widget: string
+                required: false
+                
   - name: work
     label: Work
     folder: /content/work
@@ -176,41 +214,3 @@ collections:
         widget: file
         multiple: true
         required: false
-
-  - name: news
-    label: News
-    files:
-      - name: news
-        label: News
-        file: content/news.md
-        fields:
-          - name: news
-            label: 뉴스 목록
-            widget: list
-            fields:
-              - name: start_date
-                label: 시작 날짜
-                widget: datetime
-                format: YYYY-MM-DD
-                required: true
-
-              - name: end_date
-                label: 종료 날짜
-                widget: datetime
-                format: YYYY-MM-DD
-                required: false
-
-              - name: title
-                label: 제목
-                widget: string
-                required: true
-
-              - name: venue
-                label: 장소
-                widget: string
-                required: false
-
-              - name: link
-                label: 링크
-                widget: string
-                required: false
