@@ -337,15 +337,14 @@ a {
 
 .container.biography section>ul>li {
     display: grid;
-    grid-template-columns: clamp(100px, 18vw, 180px) auto;
+    grid-template-columns: clamp(75px, 18vw, 180px) auto;
     margin-bottom: var(--list-margin);
     gap: 5px;
 }
 
 .container.biography .description {
-    white-space: nowrap;
+    white-space: wrap
     overflow: hidden;
-    text-overflow: ellipsis;
 }
 
 .biography-title {
