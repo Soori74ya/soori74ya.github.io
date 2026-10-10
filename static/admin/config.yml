@@ -124,11 +124,9 @@ collections:
   
   - name: biography
     label: Biography
-    i18n: true
     files:
       - name: biography
         label: Biography
-        i18n: true
         file: content/biography.md
         fields:
           - name: bio_kr
@@ -141,7 +139,6 @@ collections:
           
           - name: experience
             label: 경력
-            i18n: true
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
@@ -150,7 +147,6 @@ collections:
 
           - name: awards
             label: 수상
-            i18n: true
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
@@ -159,7 +155,6 @@ collections:
               
           - name: residencies
             label: 레지던시
-            i18n: true
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
@@ -168,7 +163,6 @@ collections:
 
           - name: education_workshops
             label: 교육 및 워크숍
-            i18n: true
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
@@ -177,7 +171,6 @@ collections:
               
           - name: choreography
             label: 안무작
-            i18n: true
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
@@ -187,7 +180,6 @@ collections:
           - name: collaborations
             label: 협업 및 협력 프로젝트
             widget: list
-            i18n: true
             fields:
               - { name: year, label: 년도, widget: string }
               - { name: description_kr, label: 국문 내용, widget: string }
