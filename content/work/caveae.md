@@ -72,7 +72,19 @@ ko:
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
     - title: 2023 caveae 리뷰
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
-  images: []
+  images:
+    - /assets/work/caveae/가로1.webp
+    - /assets/work/caveae/가로2.webp
+    - /assets/work/caveae/가로3.webp
+    - /assets/work/caveae/가로4.webp
+    - /assets/work/caveae/가로5.webp
+    - /assets/work/caveae/가로6.webp
+    - /assets/work/caveae/가로7.webp
+    - /assets/work/caveae/세로1.webp
+    - /assets/work/caveae/세로2.webp
+    - /assets/work/caveae/세로3.webp
+    - /assets/work/caveae/세로4.webp
+    - /assets/work/caveae/세로5.webp
 en:
   title: caveae
   workType: Live Performance
