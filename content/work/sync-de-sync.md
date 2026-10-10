@@ -31,7 +31,17 @@ ko:
       url: http://www.koreadance.kr/board/board_view.php?view_id=709&board_name=review&page=5
     - title: 씨네21 김신록 배우
       url: https://cine21.com/news/view/?mag_id=108340&fbclid=PAVERFWANHNfhleHRuA2FlbQIxMQABp8GL2AAW08qgRWoR94Fq3hXg4tx8DiTQ0C7JMJlQlASEfixJpbevuvcIs5Rg_aem_NAleLyLRFw22C5l2NUkwuw
-  images: []
+  images:
+    - /assets/work/sync-de-sync/가로1.webp
+    - /assets/work/sync-de-sync/가로2.webp
+    - /assets/work/sync-de-sync/가로3.webp
+    - /assets/work/sync-de-sync/가로4.webp
+    - /assets/work/sync-de-sync/가로5.webp
+    - /assets/work/sync-de-sync/세로1.webp
+    - /assets/work/sync-de-sync/세로2.webp
+    - /assets/work/sync-de-sync/세로3.webp
+    - /assets/work/sync-de-sync/세로4.webp
+    - /assets/work/sync-de-sync/세로5.webp
 en:
   title: Sync de Sync
   workType: Live Performance
