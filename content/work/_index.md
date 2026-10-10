@@ -1,5 +1,5 @@
 ---
-title: "work"
+title: "Work"
 url: "/work.html"
 outputs : 
   - "HTML"
