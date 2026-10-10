@@ -33,6 +33,7 @@
             `url("{{ .Site.BaseURL }}/assets/background/${mobile ? "세로" : "가로"}${random}.webp")`;
           document.body.style.backgroundRepeat = "no-repeat";
           document.body.style.backgroundPosition = "center";
+          document.body.style.backgroundSize = "cover";
         }
 
         document.addEventListener("DOMContentLoaded", () => {
