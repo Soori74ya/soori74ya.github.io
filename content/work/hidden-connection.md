@@ -26,17 +26,7 @@ ko:
     이러한 불확실성의 가능성 속에서 그녀가 주목하는 것은 개별 춤들이 만들어내는 감정 상태이다. 서로 다른 문화적 배경을 가진 이들이 배운 춤은 무용수 각자의 역사, 고유한 신체적 양상, 이미지들을 반영한다. 여기서 춤은 무엇을 표현하는가보다 수행자의 움직임에 초점을 맞추며, 그 움직임은 감각을 통해 감정을 발생시킨다. 이렇게 발생한 감정은 신체적으로 또는 심리적으로 공유되며, 서로 다른 상태에 놓인 춤들을 연결한다.
   articles: []
   critics: []
-  images:
-    - /assets/work/hidden-connection/가로1.webp
-    - /assets/work/hidden-connection/가로2.webp
-    - /assets/work/hidden-connection/가로3.webp
-    - /assets/work/hidden-connection/가로4.webp
-    - /assets/work/hidden-connection/가로5.webp
-    - /assets/work/hidden-connection/세로1.webp
-    - /assets/work/hidden-connection/세로2.webp
-    - /assets/work/hidden-connection/세로3.webp
-    - /assets/work/hidden-connection/세로4.webp
-    - /assets/work/hidden-connection/세로5.webp
+  images: []
 en:
   title: Hidden Connection
   workType: Live Performance

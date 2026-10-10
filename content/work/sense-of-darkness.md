@@ -22,17 +22,7 @@ ko:
   critics:
     - title: Sense of Darkness and Tongue Gymnastics - The Place. London - The Reviews Hub
       url: https://www.thereviewshub.com/sense-of-darkness-and-tongue-gymnastics-the-place-london/
-  images:
-    - /assets/work/sense-of-darkness/가로1_Festival of Korean Dance_ ⓒKIN YUM.webp
-    - /assets/work/sense-of-darkness/가로2_2019 SPAF _ ⓒ옥상훈.webp
-    - /assets/work/sense-of-darkness/가로3_2019 SPAF _ ⓒ옥상훈.webp
-    - /assets/work/sense-of-darkness/가로4_Festival of Korean Dance - Double Bill-0037.webp
-    - /assets/work/sense-of-darkness/가로5_2019 SPAF _ ⓒ옥상훈.webp
-    - /assets/work/sense-of-darkness/가로6_2019 SPAF _ ⓒ옥상훈.webp
-    - /assets/work/sense-of-darkness/가로7_2019 SPAF _ ⓒ옥상훈.webp
-    - /assets/work/sense-of-darkness/세로1_Festival of Korean Dance_ ⓒKIN YUM.webp
-    - /assets/work/sense-of-darkness/세로2_2019 SPAF _ ⓒ옥상훈.webp
-    - /assets/work/sense-of-darkness/세로3_2019 SPAF _ ⓒ옥상훈.webp
+  images: []
 en:
   title: Sense of Darkness
   workType: Live Performance

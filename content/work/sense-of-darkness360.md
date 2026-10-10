@@ -37,17 +37,7 @@ ko:
       url: http://www.koreadance.kr/board/board_view.php?view_id=443&board_name=review&page=
     - title: 몸지_김남수
       url: https://docs.google.com/document/d/1F7qRr1RW5SrFOUwKSTj-fadLRvMMQ6D1BRZeIIYQAYk/edit?usp=sharing
-  images:
-    - /assets/work/sense-of-darkness360/가로1.webp
-    - /assets/work/sense-of-darkness360/가로2.webp
-    - /assets/work/sense-of-darkness360/가로3.webp
-    - /assets/work/sense-of-darkness360/가로4.webp
-    - /assets/work/sense-of-darkness360/가로5.webp
-    - /assets/work/sense-of-darkness360/가로6.webp
-    - /assets/work/sense-of-darkness360/세로1.webp
-    - /assets/work/sense-of-darkness360/세로2.webp
-    - /assets/work/sense-of-darkness360/세로3.webp
-    - /assets/work/sense-of-darkness360/세로4.webp
+  images: []
 en:
   title: Sense of Darkness 360
   workType: Live Performance
