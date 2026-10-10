@@ -18,7 +18,17 @@ ko:
   critics:
     - title: '<2012 한팩 라이징스타> 첫 번째 편 리뷰 : 차세대 안무가 3인을 만나다'
       url: https://www.artscene.co.kr/1061
-  images: []
+  images:
+    - /assets/work/co-lab-seoul-berlin/가로1_옥상훈.webp
+    - /assets/work/co-lab-seoul-berlin/가로2_옥상훈.webp
+    - /assets/work/co-lab-seoul-berlin/가로3_김정엽.webp
+    - /assets/work/co-lab-seoul-berlin/가로4_옥상훈.webp
+    - /assets/work/co-lab-seoul-berlin/가로5_옥상훈.webp
+    - /assets/work/co-lab-seoul-berlin/세로1 옥상훈.webp
+    - /assets/work/co-lab-seoul-berlin/세로2_옥상훈.webp
+    - /assets/work/co-lab-seoul-berlin/세로3_옥상훈.webp
+    - /assets/work/co-lab-seoul-berlin/세로4_옥상훈.webp
+    - /assets/work/co-lab-seoul-berlin/세로5_옥상훈.webp
 en:
   title: 'Co-Lab : Seoul-Berlin'
   workType: Collaborative Work
