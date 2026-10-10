@@ -32,7 +32,17 @@ ko:
       url: https://www.artscene.co.kr/1675
     - title: 2018 우는 감각 - 박성혜 - 몸지
       url: https://docs.google.com/document/d/15XzMeIOX9SdE8LxXOmzXtvB-FeMOieih496uO_aOIUY/edit?usp=sharing
-  images: []
+  images:
+    - /assets/work/a-crying-sense/가로1.webp
+    - /assets/work/a-crying-sense/가로2.webp
+    - /assets/work/a-crying-sense/가로3.webp
+    - /assets/work/a-crying-sense/가로4.webp
+    - /assets/work/a-crying-sense/가로5.webp
+    - /assets/work/a-crying-sense/세로1.webp
+    - /assets/work/a-crying-sense/세로2.webp
+    - /assets/work/a-crying-sense/세로3.webp
+    - /assets/work/a-crying-sense/세로4.webp
+    - /assets/work/a-crying-sense/세로5.webp
 en:
   title: A Crying Sense
   workType: Live Performance
