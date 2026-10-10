@@ -24,7 +24,18 @@ ko:
       url: https://docs.google.com/document/d/1RV1bPtaLuQ6qU7OhBeiwddZD4z-YKmmZ1zfgIYb9yR8/edit?usp=sharing
     - title: 아트신 김민관
       url: https://www.artscene.co.kr/1564
-  images: []
+  images:
+    - /assets/work/stored-reality/가로1.webp
+    - /assets/work/stored-reality/가로2.webp
+    - /assets/work/stored-reality/가로3.webp
+    - /assets/work/stored-reality/가로4.webp
+    - /assets/work/stored-reality/가로5.webp
+    - /assets/work/stored-reality/가로6.webp
+    - /assets/work/stored-reality/가로7.webp
+    - /assets/work/stored-reality/가로8.webp
+    - /assets/work/stored-reality/세로1.webp
+    - /assets/work/stored-reality/세로2.webp
+    - /assets/work/stored-reality/세로3.webp
 en:
   title: Stored Reality
   workType: Live Performance
