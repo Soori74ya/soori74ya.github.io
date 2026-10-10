@@ -2,8 +2,8 @@
 ko:
   title: Face to Face
   workType: Collaborative Work
-  startDate: '2012'
-  endDate: 2012-01-01
+  startDate: 2012-05-01
+  endDate: 2012-05-01
   venue: 아르코 소극장
   production: ''
   credit: ''
@@ -14,8 +14,8 @@ ko:
 en:
   title: Face to Face
   workType: Collaborative Work
-  startDate: '2012'
-  endDate: 2012-01-01
+  startDate: 2012-05-01
+  endDate: 2012-05-01
   venue: Arko Arts Theater Small Theater
   production: ''
   credit: ''
