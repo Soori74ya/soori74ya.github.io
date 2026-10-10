@@ -21,7 +21,17 @@ ko:
       url: https://docs.google.com/document/d/19-19N8zfj1bMhSd-J-uX603tEns7xZfBME9EH7Sz_XY/edit?usp=sharing
     - title: 아트신_김민관
       url: https://www.artscene.co.kr/1620
-  images: []
+  images:
+    - /assets/work/i-want-to-cry-but-i'm-not-sad/가로1.webp
+    - /assets/work/i-want-to-cry-but-i'm-not-sad/가로2.webp
+    - /assets/work/i-want-to-cry-but-i'm-not-sad/가로3.webp
+    - /assets/work/i-want-to-cry-but-i'm-not-sad/가로4.webp
+    - /assets/work/i-want-to-cry-but-i'm-not-sad/가로5.webp
+    - /assets/work/i-want-to-cry-but-i'm-not-sad/가로6.webp
+    - /assets/work/i-want-to-cry-but-i'm-not-sad/세로1.webp
+    - /assets/work/i-want-to-cry-but-i'm-not-sad/세로2.webp
+    - /assets/work/i-want-to-cry-but-i'm-not-sad/세로3.webp
+    - /assets/work/i-want-to-cry-but-i'm-not-sad/세로5.webp
 en:
   title: I Want to Cry but I'm Not Sad
   workType: Live Performance
