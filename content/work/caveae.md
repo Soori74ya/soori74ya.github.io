@@ -5,12 +5,7 @@ ko:
   startDate: 2023-04-07
   endDate: 2023-04-09
   venue: 국립극장 해오름극장
-  production: |-
-    2023년 국립현대무용단 시즌프로그램 및 국립극장 2022–2023 레퍼토리시즌
-  description: |-
-    안무가 황수현은 신작 《카베에》에서 새로운 감각의 출현을 가능하게 하는 방식으로 극장이라는 환경을 주요하게 들여온다. 작품의 타이틀 ‘카베에(caveae)’는 구멍・동굴・객석과 같이 어둡고 움푹 패인 다수의 공동(cavity)을 의미하는 단어이다. 극장은 예술적 아이디어가 기입되는 감각적 세계이자 공동의 경험이 일어나는 사회적 세계가 언제나 중첩된 형태로 제시되는 공간이다. 이러한 공연 공간의 특수성을 탐구함으로써 안무가가 주목하고자 하는 바는 ‘공동’이 지시하는 이중의 국면, 즉 함께 있음과 비어 있음의 상태에서 발현되는 감각의 잠재성과 실재성이다.
-
-    《카베에》는 극장의 무대 위로 관객의 자리를 이동하고, 그 가운데 39인의 무용수가 참여하는 대규모 군무를 선보인다. 존재 각각이 지닌 고유한 리듬과 색채를 기반으로 고안된 군무는 그 연결과 조율 안에서 떨림과 열림, 울림을 일으키며 ‘공동’에 대한 감각의 지형을 펼쳐 낸다. 이러한 하모니가 창출하는 다공적이고 다성적인 공간성은 관객을 미지의 영역으로 안내하는 통로를 마련한다. 그 틈새에서 진동하는 몸의 감각을 통해, 가시적 영역 너머로 도약하는 시선의 가능성을 더듬어 볼 수 있는 공연이다.
+  production: 2023년 국립현대무용단 시즌프로그램 및 국립극장 2022–2023 레퍼토리시즌
   credit: |-
     콘셉트·안무·보이스디렉션: 황수현
     아티스틱 코디네이션: 박초아
@@ -49,42 +44,54 @@ ko:
     기획PD: 이상
     홍보: 고유진, 이정은
     컴퍼니매니저: 최지원
+  description: |-
+    안무가 황수현은 신작 《카베에》에서 새로운 감각의 출현을 가능하게 하는 방식으로 극장이라는 환경을 주요하게 들여온다. 작품의 타이틀 ‘카베에(caveae)’는 구멍・동굴・객석과 같이 어둡고 움푹 패인 다수의 공동(cavity)을 의미하는 단어이다. 극장은 예술적 아이디어가 기입되는 감각적 세계이자 공동의 경험이 일어나는 사회적 세계가 언제나 중첩된 형태로 제시되는 공간이다. 이러한 공연 공간의 특수성을 탐구함으로써 안무가가 주목하고자 하는 바는 ‘공동’이 지시하는 이중의 국면, 즉 함께 있음과 비어 있음의 상태에서 발현되는 감각의 잠재성과 실재성이다.
+
+    《카베에》는 극장의 무대 위로 관객의 자리를 이동하고, 그 가운데 39인의 무용수가 참여하는 대규모 군무를 선보인다. 존재 각각이 지닌 고유한 리듬과 색채를 기반으로 고안된 군무는 그 연결과 조율 안에서 떨림과 열림, 울림을 일으키며 ‘공동’에 대한 감각의 지형을 펼쳐 낸다. 이러한 하모니가 창출하는 다공적이고 다성적인 공간성은 관객을 미지의 영역으로 안내하는 통로를 마련한다. 그 틈새에서 진동하는 몸의 감각을 통해, 가시적 영역 너머로 도약하는 시선의 가능성을 더듬어 볼 수 있는 공연이다.
   articles:
     - title: 국립무용단 홈페이지
-      url: "https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info#"
+      url: https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info#
   critics:
     - title: 구멍난 몸, 드나드는 춤_하은빈_콜렉티브 널
-      url: "https://collectivenull.com/008-2/"
+      url: https://collectivenull.com/008-2/
     - title: 목소리와 말사이에서_하상현_콜렉티브 널
-      url: "https://collectivenull.com/007-2/"
+      url: https://collectivenull.com/007-2/
     - title: "'저기'의 감각으로 구성된 공동의 정치성, 유령들의 몸_조형빈_콜렉티브 널"
-      url: "https://collectivenull.com/006-2/"
+      url: https://collectivenull.com/006-2/
     - title: 소리-신체 어떤 결박_김민관_아트신
-      url: "https://www.artscene.co.kr/1901"
-    - title: "[제2회 K’ARTS 젊은 평론가상 전시/공연 부문 우수상] 청각적 무용 : 황수현 <카베에>, 안성수 <ROSE>_박주성"
-      url: "http://news.karts.ac.kr/?p=12959"
+      url: https://www.artscene.co.kr/1901
+    - title: '[제2회 K’ARTS 젊은 평론가상 전시/공연 부문 우수상] 청각적 무용 : 황수현 <카베에>, 안성수 <ROSE>_박주성'
+      url: http://news.karts.ac.kr/?p=12959
     - title: 원시적 노스탤지어를 위한 ‘해오름 프로젝트’_김혜라
-      url: "http://www.koreadance.kr/board/board_view.php?view_id=589&board_name=review&page="
-    - title: "감각이 일깨운 질문들: 국립현대무용단 <카베에>_윤단우_댄스포스트코리아"
-      url: "https://dancepostkorea.com/new/board/review/pfm_view.php?search_part=b_title&search_pfm=&page=1&b_idx=486"
+      url: http://www.koreadance.kr/board/board_view.php?view_id=589&board_name=review&page=
+    - title: '감각이 일깨운 질문들: 국립현대무용단 <카베에>_윤단우_댄스포스트코리아'
+      url: https://dancepostkorea.com/new/board/review/pfm_view.php?search_part=b_title&search_pfm=&page=1&b_idx=486
     - title: 낯선 무대에서 경험하는 공존의 방식… 국립현대무용단 ‘카베에’_류재민 기자_서울신문
-      url: "https://www.seoul.co.kr/news/life/performance/2023/04/11/20230411500002"
-    - title: "[공연리뷰] 경계를 넘어 낯섦을 향해 나아가는 감각의 여정_나수진_더프리뷰"
-      url: "http://www.thepreview.co.kr/news/articleView.html?idxno=9021"
+      url: https://www.seoul.co.kr/news/life/performance/2023/04/11/20230411500002
+    - title: '[공연리뷰] 경계를 넘어 낯섦을 향해 나아가는 감각의 여정_나수진_더프리뷰'
+      url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
     - title: 2023 caveae 리뷰
-      url: "http://www.thepreview.co.kr/news/articleView.html?idxno=9021"
+      url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
+  images:
+    - /assets/work/caveae/가로1.webp
+    - /assets/work/caveae/가로2.webp
+    - /assets/work/caveae/가로3.webp
+    - /assets/work/caveae/가로4.webp
+    - /assets/work/caveae/가로5.webp
+    - /assets/work/caveae/가로6.webp
+    - /assets/work/caveae/가로7.webp
+    - /assets/work/caveae/세로1.webp
+    - /assets/work/caveae/세로2.webp
+    - /assets/work/caveae/세로3.webp
+    - /assets/work/caveae/세로4.webp
+    - /assets/work/caveae/세로5.webp
 en:
   title: caveae
   workType: Live Performance
   startDate: 2023-04-07
   endDate: 2023-04-09
   venue: Haeoreum Grand Theater, National Theater of Korea
-  production: |-
-    Korea National Contemporary Dance Company Season 2023 & National Repertory Season 2022–2023
-  description: |-
-    In her new work 《caveae》, choreographer Hwang Soo Hyun foregrounds the theater as an environment capable of enabling the emergence of new sensations. The title, *caveae*, is the plural form of *cavea*, referring to multiple dark, hollow spaces such as holes, caves, and auditoriums. The theater is a space in which a sensory world inscribed with artistic ideas and a social world shaped by shared experience are always presented in an overlapping form. By exploring this particularity of performance space, Hwang focuses on the dual dimensions implied by the Korean word *gongdong*: being together (共同) and being empty (空洞), and on the potentiality and reality of the sensations that emerge from these states.
-
-    《caveae》 relocates the audience onto the theater stage and presents a large-scale group choreography performed by 39 dancers. Developed from the distinct rhythms and qualities of each individual, the choreography generates trembling, opening, and resonance through processes of connection and attunement, unfolding a sensory landscape of collectivity. The porous and polyphonic spatiality created by this harmony opens a passage into an unknown realm. Through bodily sensations vibrating within its gaps, the performance searches for the possibility of a gaze that might reach beyond the visible.
+  production: Korea National Contemporary Dance Company Season 2023 & National Repertory Season 2022–2023
   credit: |-
     Choreography · Voice Direction: Hwang Soohyun
     Artistic Coordination: Park Choah
@@ -123,28 +130,32 @@ en:
     Producer: Lee Sang
     Promotion: Ko Youjin, Lee Jeongeun
     Company Manager: Choi Jiwon
+  description: |-
+    In her new work 《caveae》, choreographer Hwang Soo Hyun foregrounds the theater as an environment capable of enabling the emergence of new sensations. The title, *caveae*, is the plural form of *cavea*, referring to multiple dark, hollow spaces such as holes, caves, and auditoriums. The theater is a space in which a sensory world inscribed with artistic ideas and a social world shaped by shared experience are always presented in an overlapping form. By exploring this particularity of performance space, Hwang focuses on the dual dimensions implied by the Korean word *gongdong*: being together (共同) and being empty (空洞), and on the potentiality and reality of the sensations that emerge from these states.
+
+    《caveae》 relocates the audience onto the theater stage and presents a large-scale group choreography performed by 39 dancers. Developed from the distinct rhythms and qualities of each individual, the choreography generates trembling, opening, and resonance through processes of connection and attunement, unfolding a sensory landscape of collectivity. The porous and polyphonic spatiality created by this harmony opens a passage into an unknown realm. Through bodily sensations vibrating within its gaps, the performance searches for the possibility of a gaze that might reach beyond the visible.
   articles:
     - title: 국립무용단 홈페이지
-      url: "https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info#"
+      url: https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info#
   critics:
     - title: 구멍난 몸, 드나드는 춤_하은빈_콜렉티브 널
-      url: "https://collectivenull.com/008-2/"
+      url: https://collectivenull.com/008-2/
     - title: 목소리와 말사이에서_하상현_콜렉티브 널
-      url: "https://collectivenull.com/007-2/"
+      url: https://collectivenull.com/007-2/
     - title: "'저기'의 감각으로 구성된 공동의 정치성, 유령들의 몸_조형빈_콜렉티브 널"
-      url: "https://collectivenull.com/006-2/"
+      url: https://collectivenull.com/006-2/
     - title: 소리-신체 어떤 결박_김민관_아트신
-      url: "https://www.artscene.co.kr/1901"
-    - title: "[제2회 K’ARTS 젊은 평론가상 전시/공연 부문 우수상] 청각적 무용 : 황수현 <카베에>, 안성수 <ROSE>_박주성"
-      url: "http://news.karts.ac.kr/?p=12959"
+      url: https://www.artscene.co.kr/1901
+    - title: '[제2회 K’ARTS 젊은 평론가상 전시/공연 부문 우수상] 청각적 무용 : 황수현 <카베에>, 안성수 <ROSE>_박주성'
+      url: http://news.karts.ac.kr/?p=12959
     - title: 원시적 노스탤지어를 위한 ‘해오름 프로젝트’_김혜라
-      url: "http://www.koreadance.kr/board/board_view.php?view_id=589&board_name=review&page="
-    - title: "감각이 일깨운 질문들: 국립현대무용단 <카베에>_윤단우_댄스포스트코리아"
-      url: "https://dancepostkorea.com/new/board/review/pfm_view.php?search_part=b_title&search_pfm=&page=1&b_idx=486"
+      url: http://www.koreadance.kr/board/board_view.php?view_id=589&board_name=review&page=
+    - title: '감각이 일깨운 질문들: 국립현대무용단 <카베에>_윤단우_댄스포스트코리아'
+      url: https://dancepostkorea.com/new/board/review/pfm_view.php?search_part=b_title&search_pfm=&page=1&b_idx=486
     - title: 낯선 무대에서 경험하는 공존의 방식… 국립현대무용단 ‘카베에’_류재민 기자_서울신문
-      url: "https://www.seoul.co.kr/news/life/performance/2023/04/11/20230411500002"
-    - title: "[공연리뷰] 경계를 넘어 낯섦을 향해 나아가는 감각의 여정_나수진_더프리뷰"
-      url: "http://www.thepreview.co.kr/news/articleView.html?idxno=9021"
+      url: https://www.seoul.co.kr/news/life/performance/2023/04/11/20230411500002
+    - title: '[공연리뷰] 경계를 넘어 낯섦을 향해 나아가는 감각의 여정_나수진_더프리뷰'
+      url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
     - title: 2023 caveae 리뷰
-      url: "http://www.thepreview.co.kr/news/articleView.html?idxno=9021"
+      url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
 ---
