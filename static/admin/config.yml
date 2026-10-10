@@ -131,13 +131,21 @@ collections:
         i18n: true
         file: content/biography.md
         fields:
+          - name: bio_kr
+            label: 국문 소개
+            widget: richtext
+
+          - name: bio_en
+            label: 영문 소개
+            widget: richtext
+          
           - name: experience
             label: 경력
             i18n: true
             widget: list
             fields:
               - { name: year, label: 년도, widget: string }
-              - { name: description_kr, label: 국문 내용, widget: string }
+              - { name: description_ko, label: 국문 내용, widget: string }
               - { name: description_en, label: 영문 내용, widget: string }
 
           - name: awards

@@ -7,7 +7,14 @@
                 <section class="biography-title">
                     <p>황수현 Hwang Soo Hyun</p>
                 </section>
-
+                
+                <section>
+                    <div>
+                        <span data-lang="ko">{{ .Params.bio_kr | markdownify }}</span>
+                        <span data-lang="en">{{ .Params.bio_en | markdownify }}</span>
+                    </div>
+                </section>
+                
                 <section>
                     <p>
                         <span data-lang="ko">경력</span>

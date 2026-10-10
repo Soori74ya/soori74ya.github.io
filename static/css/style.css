@@ -321,9 +321,9 @@ a {
     padding: 1em 0 1em 0;
 }
 
-.container.biography section>p:first-child {
+.container.biography section>*:first-child {
     padding-block: var(--list-padding);
-}
+} 
 
 .container.biography section {
     border-bottom: var(--border)

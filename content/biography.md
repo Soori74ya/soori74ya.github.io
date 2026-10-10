@@ -2,6 +2,26 @@
 title: Biography
 layout: biography
 
+bio_kr: |
+    황수현은 서울을 기반으로 활동하는 안무가이다. 그는 전문 무용수 활동을 거쳐 안무가로 전향한 이후, 춤 공연에 내재한 규범을 재검토하며 안무의 가능성을 탐구해 왔다. 작업 초기에는 ‘춤 보기’와 ‘춤 추기’ 사이에서 발생하는 감각의 차이에 주목해, 퍼포밍과 관람 행위 사이에서 작동하는 ‘경험하는 신체’가 가진 잠재성에 집중했다. 특히 극장 구조가 만들어내는 단일한 시각 중심의 관람 방식을 해체하거나 제한하는 안무를 통해 보이는 것의 너머를 상상하고 감각하도록 유도해 왔다. 이러한 관심은 사회적 흐름과 위계 구조 속에서 특정 몸의 감각이 점차 지워지거나 주변으로 밀려나는 상황, 즉 감각의 불균형에 대한 문제의식으로 확장되었다. 
+
+    “우리의 몸 감각 가운데 무엇이 사라지고 무엇이 남겨질까?”라는 질문을 토대로, 몸들이 서로의 감각에 어떻게 영향을 주고받으며 공동의 정서로 확장되는지를 실험해왔다. 이를 위해 무용수의 호흡 패턴, 구음, 진동,  운동감각에 기반한 미세한 움직임을 세밀하게 다루며, 관객이 타인의 몸 감각에 전이될 수 있는 조건을 구성하는 안무를 시도했다. 그 과정에서 공연은 현재 작동하는 공동의 감각을 드러내고, 몸과 몸이 만나 특정한 감각의 일시적 공동체를 형성하는데 집중했다.
+
+    최근에는 이러한 질문을 감각의 미래라는 맥락에서 다시 질문하며, 불균형과 어긋남, 다층적이고 다감각적인 세계에서 적응하는 가변적인 신체를 탐구하고 있다. 이 전환은 인간 사이에서 전이 되는 감각에 머물던 관심을 주변 환경과 비가시적 조건으로 확장하며, 서로 다른 감각들이 공존하는 상태에서 새로운 감각적 질서를 탐구하는 안무 실천으로 이어지고  있다.
+
+    주요 작품으로 《세계》(2026), 《Sync de Sync》(2025), 《Zzz》(2023), 《카베에》(2023) 등이 있다. 《음 ━━》으로 제27회 무용예술상 안무상(2021)을 수상했으며, 문화체육관광부장관 표창(2020)을 받았다. 《검정감각》으로는 한국춤비평가협회 ‘2019 베스트 작품상’을 수상했다.
+
+    
+bio_en: |
+    Hwang Soohyun is a choreographer based in Seoul. Since transitioning from a professional dancer to a choreographer, she has explored the possibilities of choreography by reconsidering the conventions inherent in dance performance. Her early work focused on the sensory differences between “watching dance” and “dancing,” examining the potential of the experiencing body at the intersection of performing and spectatorship. Through choreography that dismantles or restricts the singular, vision-centered mode of spectatorship shaped by the theater, she has invited audiences to imagine and sense beyond what is visible. This interest has expanded into a concern with sensory imbalance: situations in which the sensations of certain bodies are gradually erased or pushed to the margins within social currents and hierarchical structures.
+
+    Guided by the question, “Which of our bodily sensations will disappear, and which will remain?”, she has experimented with how bodies influence one another’s sensations and how these sensations develop into shared emotional states. Working closely with dancers’ breathing patterns, vocal sounds, vibrations, and subtle movements grounded in kinesthetic sensation, she has sought to choreograph conditions through which bodily sensations can be transmitted from performers to audiences. In this process, performance has focused on revealing a shared sense at work in the present and on forming temporary communities of sensation through encounters between bodies.        
+
+    More recently, she has revisited these questions in the context of the future of sensation, exploring imbalance, misalignment, and the mutable body as it adapts within a layered, multisensory world. This shift extends her attention from the transmission of sensations between people to the surrounding environment and invisible conditions. It has led to a choreographic practice that explores new sensory orders through the coexistence of different sensations.
+
+    Her major works include 《SE GYE》(2026), 《Sync de Sync》(2025), 《Zzz》(2023), and 《caveae》(2023). She received the Choreography Award at the 27th Dance Arts Awards in 2021 for 《Hmmmm》 and a Commendation from the Minister of Culture, Sports and Tourism in 2020. 《Sense of Darkness》 received the Korean Association of Dance Critics’ Best Work Award for 2019.
+
+
 experience:
   - year: "2026"
     description_kr: "서울시립 서서울미술관 개관특별전 세마 퍼포먼스 《호흡》 초청 작가"
