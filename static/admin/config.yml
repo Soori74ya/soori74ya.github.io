@@ -38,6 +38,10 @@ collections:
     i18n: true
     media_folder: "{{media_folder}}/work/{{slug}}"
     public_folder: "{{public_folder}}/work/{{slug}}"
+    sortable_fields:
+      - title
+      - startDate
+      - endDate
     fields:
       - name: title
         label: 제목
@@ -199,6 +203,10 @@ collections:
       - name: news
         label: News
         file: content/news.md
+        sortable_fields:
+          - title
+          - start_date
+          - end_date
         fields:
           - name: news
             label: 뉴스 목록
