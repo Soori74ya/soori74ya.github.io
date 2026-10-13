@@ -361,7 +361,7 @@ a {
 }
 
 .container.contact p {
-    padding-block: var(--li-padding);
+    padding-block: var(--subtitle-padding);
     border-bottom: var(--border);
 }
 
