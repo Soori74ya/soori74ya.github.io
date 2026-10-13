@@ -5,11 +5,18 @@
             {{ partial "nav.html" . }}
             <main>
                 <p>
-                    <a href="mailto:hwang.soohyun@gmail.com">hwang.soohyun@gmail.com</a>   
+                    <a href="mailto:{{ .Params.email }}">
+                        {{ .Params.email }}
+                    </a>
                 </p>
+                
+                {{ range .Params.sns }}
                 <p>
-                    <a href="https://www.instagram.com/shh_works" target="_blank">@shh_works</a>
+                    <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+                        {{ .username }}
+                    </a>
                 </p>
+                {{ end }}
             </main>
         </div>
     </body>

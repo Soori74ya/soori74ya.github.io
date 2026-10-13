@@ -230,3 +230,24 @@ collections:
                 label: 링크
                 widget: string
                 required: false
+
+  - name: "contact"
+    label: "Contact"
+    files:
+      - name: "contact"
+        label: "Contact"
+        file: "content/contact.md"
+        fields:
+          - label: "Email"
+            name: "email"
+            widget: "string"
+          - label: "SNS"
+            name: "sns"
+            widget: "list"
+            fields:
+              - label: "Username"
+                name: "username"
+                widget: "string"
+              - label: "URL"
+                name: "url"
+                widget: "string"
