@@ -2,9 +2,26 @@
     <meta charset="UTF-8" />
     <!--<meta name="viewport" content="width=1200" />-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+    
+    {{ $bio := site.GetPage "/biography" }}
+    {{ $description := "" }}
+    
+    {{ with $bio }}
+        {{ $kr := replaceRE `(?s)^(.+?\.).*` "$1" (.Params.bio_kr | plainify) }}
+        {{ $en := replaceRE `(?s)^(.+?\.).*` "$1" (.Params.bio_en | plainify) }}
+        {{ $description = printf "%s %s" $kr $en }}
+    {{ end }}
+    
+    <meta name="title" content="{{ .Site.Title }}" />
+    <meta name="description" content="{{ $description }}" />
+    
+    <meta property="og:title" content="{{ .Site.Title }}" />
+    <meta property="og:description" content="{{ $description }}" />
+    
     <title>
-        {{ if .Params.ko.title }}
+        {{ if .IsHome }}
+            {{ .Site.Title }}
+        {{ else if .Params.ko.title }}
             {{ .Params.ko.title }} - {{ .Site.Title }}
         {{ else if .Params.en.title }}
             {{ .Params.en.title }} - {{ .Site.Title }}
@@ -18,3 +35,4 @@
         {{ end }}
      <script defer src="/scripts/script.js"></script>
 </head>
+<p>all params: {{ .Params }}</p>

@@ -292,7 +292,7 @@ a {
 }
 
 .container.work-detail main .left {
-    border-top: var(--border)
+    border-top: var(--border);
 }
 
 .container.work-detail main .left .top-container {
@@ -385,6 +385,10 @@ a {
         height: auto;
         overflow-y: visible;
     }
+    
+    /* .container.work-detail main .left {
+        border-bottom: var(--border)
+    } */
     
     .container.work ul li {
         grid-template-columns: 1fr auto;
