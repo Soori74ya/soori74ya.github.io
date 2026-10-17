@@ -29,6 +29,21 @@
             {{ .Title }} - {{ .Site.Title }}
         {{ end }}
     </title>
+    <link
+      rel="preload"
+      href="/fonts/SM3Tae.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    
+    <link
+      rel="preload"
+      href="/fonts/SangBleu.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
     <link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
         {{ with .OutputFormats.Get "rss" -}}
             {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
