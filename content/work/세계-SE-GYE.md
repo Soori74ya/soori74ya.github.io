@@ -4,7 +4,7 @@ ko:
   workType: Live Performance
   startDate: 2026-03-12
   endDate: 2026-03-15
-  venue: 서서울미술관 전시실1
+  venue: 서서울미술관 전시실
   production: ''
   credit: |-
     컨셉,안무 : 황수현
