@@ -218,6 +218,7 @@ collections:
           - name: news
             label: 뉴스 목록
             widget: list
+            add_to_top: true
             fields:
               - name: start_date
                 label: 시작 날짜
