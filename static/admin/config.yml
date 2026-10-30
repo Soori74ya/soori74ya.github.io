@@ -195,7 +195,7 @@ collections:
             fields:
               - { name: description_kr, label: 국문 내용, required: true, widget: string }
               - { name: description_en, label: 영문 내용, required: false, widget: string }
-              - { name: year, label: 년도, widget: number }
+              - { name: year, label: 년도, widget: string }
               
   - name: news
     label: News
