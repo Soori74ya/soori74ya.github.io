@@ -61,7 +61,7 @@ collections:
     public_folder: "{{public_folder}}/work/{{slug}}"
     sortable_fields:
       - title
-      - startDate
+      - { field: startDate, default_sort: asc }
       - endDate
     fields:
       - name: title
