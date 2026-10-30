@@ -60,9 +60,10 @@ collections:
     media_folder: "{{media_folder}}/work/{{slug}}"
     public_folder: "{{public_folder}}/work/{{slug}}"
     sortable_fields:
-      - title
-      - { field: startDate, default_sort: asc }
-      - endDate
+       fields: [title, startDate, endDate]
+       default:
+         field: startDate
+         direction: ascending
     fields:
       - name: title
         label: 제목
