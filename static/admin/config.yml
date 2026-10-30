@@ -5,7 +5,7 @@ backend:
   base_url: https://sveltia-cms-auth.hwang-soohyun.workers.dev
 
 logo:
-  src: ../assets/logo.jpg
+  src: ../assets/logo.webp
   show_in_header: true
 
 i18n:
@@ -144,6 +144,7 @@ collections:
           - name: experience
             label: 경력
             widget: list
+            add_to_top: true
             fields:
               - { name: description_kr, label: 국문 내용, required: true, widget: string }
               - { name: description_en, label: 영문 내용, required: false, widget: string }
@@ -152,6 +153,7 @@ collections:
           - name: awards
             label: 수상
             widget: list
+            add_to_top: true
             fields:
               - { name: description_kr, label: 국문 내용, required: true, widget: string }
               - { name: description_en, label: 영문 내용, required: false, widget: string }
@@ -160,6 +162,7 @@ collections:
           - name: residencies
             label: 레지던시
             widget: list
+            add_to_top: true
             fields:
               - { name: description_kr, label: 국문 내용, required: true, widget: string }
               - { name: description_en, label: 영문 내용, required: false, widget: string }
@@ -168,6 +171,7 @@ collections:
           - name: education_workshops
             label: 교육 및 워크숍
             widget: list
+            add_to_top: true
             fields:
               - { name: description_kr, label: 국문 내용, required: true, widget: string }
               - { name: description_en, label: 영문 내용, required: false, widget: string }
@@ -176,6 +180,7 @@ collections:
           - name: choreography
             label: 안무작
             widget: list
+            add_to_top: true
             fields:
               - { name: description_kr, label: 국문 내용, required: true, widget: string }
               - { name: description_en, label: 영문 내용, required: false, widget: string }
@@ -184,6 +189,7 @@ collections:
           - name: collaborations
             label: 협업 및 협력 프로젝트
             widget: list
+            add_to_top: true
             fields:
               - { name: description_kr, label: 국문 내용, required: true, widget: string }
               - { name: description_en, label: 영문 내용, required: false, widget: string }
@@ -192,6 +198,7 @@ collections:
           - name: performances
             label: 출연작
             widget: list
+            add_to_top: true
             fields:
               - { name: description_kr, label: 국문 내용, required: true, widget: string }
               - { name: description_en, label: 영문 내용, required: false, widget: string }
@@ -251,6 +258,7 @@ collections:
             widget: "string"
           - label: "SNS"
             name: "sns"
+            hint: "SNS 또는 추가하고 싶은 웹사이트, 순서는 각 리스트 상단의 = 기호를 드래그하여 변경해 주세요."
             widget: "list"
             fields:
               - label: "Username"
