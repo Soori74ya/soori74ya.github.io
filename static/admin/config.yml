@@ -31,6 +31,27 @@ media_libraries:
           optimize: true
 
 collections:
+  - name: backgrounds
+    label: 홈 배경 이미지
+    files:
+      - name: backgrounds
+        label: 홈 배경 이미지
+        file: content/backgrounds.md
+        fields:
+          - name: landscape
+            label: 가로 이미지
+            widget: file
+            accept: image/*
+            multiple: true
+            required: false
+
+          - name: portrait
+            label: 세로 이미지
+            widget: file
+            accept: image/*
+            multiple: true
+            required: false
+            
   - name: work
     label: Work
     folder: /content/work
@@ -122,6 +143,7 @@ collections:
       - name: images
         label: 이미지
         widget: file
+        accept: image/*
         multiple: true
         required: false
         
@@ -247,24 +269,24 @@ collections:
                 widget: string
                 required: false
 
-  - name: "contact"
-    label: "Contact"
+  - name: contact
+    label: Contact
     files:
-      - name: "contact"
-        label: "Contact"
-        file: "content/contact.md"
+      - name: contact
+        label: Contact
+        file: content/contact.md
         fields:
-          - label: "Email"
-            name: "email"
-            widget: "string"
-          - label: "SNS"
-            name: "sns"
+          - label: Email
+            name: email
+            widget: string
+          - label: SNS
+            name: sns
             hint: "SNS 또는 추가하고 싶은 웹사이트, 순서는 각 리스트 상단의 = 기호를 드래그하여 변경해 주세요."
-            widget: "list"
+            widget: list
             fields:
-              - label: "Username"
-                name: "username"
-                widget: "string"
-              - label: "URL"
-                name: "url"
-                widget: "string"
+              - label: Username
+                name: username
+                widget: string
+              - label: URL
+                name: url
+                widget: string

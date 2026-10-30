@@ -23,17 +23,40 @@
             </div>
         </main>
     </div>
-    <script>
-        const isMobile = () => window.innerWidth <= 768 ? true : false;
-
+<script>
+        const backgrounds = {{ with .Site.GetPage "/backgrounds" }}
+            {{ dict
+                "landscape" .Params.landscape
+                "portrait" .Params.portrait
+                | jsonify | safeJS
+            }}
+        {{ else }}
+            {"landscape":[],"portrait":[]}
+        {{ end }};
+    
+        const baseURL = {{ .Site.BaseURL | jsonify | safeJS }};
+    
+        const isMobile = () => window.innerWidth <= 768;
+    
         const setBackground = (mobile) => {
-          const count = 5;
-          const random = Math.floor(Math.random() * count) + 1;
-          document.body.style.backgroundImage =
-            `url("{{ .Site.BaseURL }}/assets/background/${mobile ? "세로" : "가로"}${random}.webp")`;
-          document.body.style.backgroundRepeat = "no-repeat";
-          document.body.style.backgroundPosition = "center";
-          document.body.style.backgroundSize = "cover";
+            const images = mobile
+                ? backgrounds.portrait
+                : backgrounds.landscape;
+    
+            if (!images || images.length === 0) {
+                document.body.style.backgroundImage = "none";
+                document.body.style.backgroundColor = "#fff";
+                return;
+            }
+    
+            const random = Math.floor(Math.random() * images.length);
+            const imageURL = new URL(images[random], baseURL);
+    
+            document.body.style.backgroundImage = `url("${imageURL.href}")`;
+            document.body.style.backgroundColor = "#fff";
+            document.body.style.backgroundRepeat = "no-repeat";
+            document.body.style.backgroundPosition = "center";
+            document.body.style.backgroundSize = "cover";
         }
 
         document.addEventListener("DOMContentLoaded", () => {
