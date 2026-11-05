@@ -300,6 +300,8 @@ collections:
             name: sns
             hint: "SNS 또는 추가하고 싶은 웹사이트, 순서는 각 리스트 상단의 = 기호를 드래그하여 변경해 주세요."
             widget: list
+            collapsed: true
+            summary: "{{username}} - {{url}}"
             fields:
               - label: Username
                 name: username
