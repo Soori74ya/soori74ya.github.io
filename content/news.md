@@ -1,5 +1,10 @@
 ---
 news:
+  - start_date: 2025-08-14
+    end_date: 2025-08-15
+    title: 여기서 저기를 상상하며
+    venue: 베를린
+    link: https://performativewriting.com/?p=64
   - start_date: 2026-11-22
     end_date: 2026-11-22
     title: 아무렇지도 않기에는 아무렇지도 않아서
