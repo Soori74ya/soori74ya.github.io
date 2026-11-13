@@ -27,13 +27,13 @@ ko:
   critics:
     - title: 프로그램 북
       url: https://soohyunhwang.com/syncdesync/
-    - title: 춤웹진 정옥희 무용평론가 [춤을 디싱크 / 디코드하기]
+    - title: 춤웹진_정옥희 무용평론가 [춤을 디싱크 / 디코드하기]
       url: http://www.koreadance.kr/board/board_view.php?view_id=709&board_name=review&page=5
-    - title: 씨네21 김신록 배우 [흐물거리고 흘러넘치는 거대한 요괴의 몸뚱이]
+    - title: 씨네21_김신록 배우 [흐물거리고 흘러넘치는 거대한 요괴의 몸뚱이]
       url: https://cine21.com/news/view/?mag_id=108340&fbclid=PAVERFWANHNfhleHRuA2FlbQIxMQABp8GL2AAW08qgRWoR94Fq3hXg4tx8DiTQ0C7JMJlQlASEfixJpbevuvcIs5Rg_aem_NAleLyLRFw22C5l2NUkwuw
-    - title: 몸지 박성혜 [몸과 공간에 대한 또 다른 사유]
+    - title: 몸지_박성혜 [몸과 공간에 대한 또 다른 사유]
       url: https://docs.google.com/document/d/1j9MZuqxYK-DkqvgLl2yIFt8_lBRdQnn2glSLSNAYyfI/edit?usp=sharing
-    - title: '서울예술지원 정보 포털 박주성 [조율이 어긋날 때, 감각이 공간이 될 때: 황수현 <싱크 디 싱크>]'
+    - title: '서울예술지원 정보 포털_박주성 [조율이 어긋날 때, 감각이 공간이 될 때: 황수현 <싱크 디 싱크>]'
       url: https://spac.sfac.or.kr/reviews?reviewTy=REVIEW&reviewNo=24
   images:
     - /assets/work/sync-de-sync/가로1.webp
