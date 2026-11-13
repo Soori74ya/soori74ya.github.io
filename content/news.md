@@ -1,5 +1,10 @@
 ---
 news:
+  - start_date: 2026-11-21
+    end_date: 2026-11-21
+    title: 히든 씬#6
+    venue: CGV 압구정
+    link: https://www.instagram.com/p/DfjjIh-E7hV/
   - start_date: 2026-10-29
     end_date: 2026-10-29
     title: 영상과 퍼포먼스에 대한 대화
