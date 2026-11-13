@@ -1,5 +1,10 @@
 ---
 news:
+  - start_date: 2026-10-29
+    end_date: 2026-10-29
+    title: 영상과 퍼포먼스에 대한 대화
+    venue: 서울시립미술관 서소문 본관
+    link: https://sema.seoul.go.kr/kr/whatson/event/detail
   - start_date: 2026-10-15
     end_date: 2026-10-17
     title: 히히히스토리
