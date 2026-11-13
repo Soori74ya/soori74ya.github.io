@@ -4,7 +4,7 @@ news:
     end_date: 2026-10-17
     title: 히히히스토리
     venue: 대학로예술극장 소극장
-    link: https://spaf.or.kr/2026/program/program_view10.php
+    link: https://theater.arko.or.kr/product/performance/259564
   - start_date: 2026-08-18
     end_date: 2026-09-15
     title: 동사를 안무하기
