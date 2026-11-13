@@ -25,8 +25,8 @@ ko:
   description: 《Sync de Sync》 조율과 깨짐 사이의 미세한 틈에서 발생하는 감각적 질문 상태에 주목한다. 움직임, 소리, 말은 서로를 설명하지 않고 각각 감각의 밀도로 존재하며, 몸에 밀착된 채 유동한다. 익숙한 감각의 결을 삐끗하게 틀고, 불일치됨을 그대로 두며, 조율되지 않은 상태를 허락한다. 이 작업은 조율되지 않은 감각들이 만들어내는 ‘물리적 관계망’을 형성하며, 비가시적인 것들과 어떻게 동행할 수 있을지를 실천적으로 탐색한다.
   articles: []
   critics:
-    - title: 2025 싱크 디 싱크 비평글
-      url: https://docs.google.com/document/d/1j9MZuqxYK-DkqvgLl2yIFt8_lBRdQnn2glSLSNAYyfI/edit?usp=sharing
+    - title: 프로그램 북 https://soohyunhwang.com/syncdesync/
+      url: https://soohyunhwang.com/syncdesync/
     - title: 춤웹진 정옥희 무용평론가
       url: http://www.koreadance.kr/board/board_view.php?view_id=709&board_name=review&page=5
     - title: 씨네21 김신록 배우
