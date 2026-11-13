@@ -153,7 +153,7 @@ news:
   - start_date: 2020-10-27
     end_date: 2020-10-28
     title: 음------
-    venue: 옵/신 페스티벌
+    venue: 덕수궁 정관헌, 옵/신 페스티벌
     link: https://ob-scene.com/festival-2020/
   - start_date: 2020-07-10
     end_date: 2020-07-12
@@ -163,7 +163,7 @@ news:
   - start_date: 2019-12-18
     end_date: 2019-12-21
     title: 나는 그 사람이 느끼는 것을 생각한다
-    venue: 안민혜 기획
+    venue: 원앤제이 갤러리, 안민혜 기획
     link: https://www.artbava.com/exhibits/%EC%9A%A9%EA%B8%B0%EC%99%80-%EC%8B%9C-courage-and-poem
   - start_date: 2019-10-10
     end_date: ''
@@ -173,27 +173,27 @@ news:
   - start_date: 2019-07-10
     end_date: 2019-07-13
     title: 나는 그 사람이 느끼는 것을 생각한다
-    venue: 변방연극제
+    venue: 신촌극장, 변방연극제
     link: https://www.instagram.com/p/BzP2PCwhrT5/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
   - start_date: 2019-02-13
     end_date: 2019-02-16
     title: 나는 그 사람이 느끼는 것을 생각한다
-    venue: 황수현, 신촌극장
+    venue: 신촌극장
     link: https://www.instagram.com/p/BtX2czHgPhZ/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
   - start_date: 2018-05-02
     end_date: 2018-05-06
     title: 우는 감각
-    venue: 황수현
+    venue: 원앤제이갤러리
     link: https://www.artbava.com/exhibits/%ED%99%A9%EC%88%98%ED%98%84-%EC%9A%B0%EB%8A%94-%EA%B0%90%EA%B0%81-soohyun-hwang-crying-sense
   - start_date: 2017-06-10
     end_date: ''
     title: I want to cry but I'm not sad-Solo version
-    venue: 바림(BARIM)
+    venue: 광주 바림(BARIM)
     link: https://barimart.wordpress.com/archive/
   - start_date: 2017-02-07
     end_date: ''
     title: method of crying
-    venue: Movement research
+    venue: Movement research in New York
     link: ''
   - start_date: 2016-09-24
     end_date: 2016-10-01
@@ -208,12 +208,12 @@ news:
   - start_date: 2015-11-13
     end_date: ''
     title: For it to end
-    venue: Critical Path
+    venue: Critical Path in Sydney
     link: https://interchange.criticalpath.org.au/artists/2015-artists/soo-hyun-hwang/
   - start_date: 2015-10-18
     end_date: ''
     title: Special Combination
-    venue: Melbourne Festival, Asian Creative Labs
+    venue: Melbourne Festival, Asian Creative Labs in Melbourne
     link: ''
   - start_date: 2015-07-24
     end_date: 2015-07-25
@@ -223,22 +223,22 @@ news:
   - start_date: 2015-03-27
     end_date: 2015-04-19
     title: 저장된 실제
-    venue: Festival Bo:m 2015
+    venue: 서울무용센터, Festival Bo:m 2015
     link: https://drive.google.com/file/d/1du2rKBVWAf-Sa9KFHQLjGJb9eZtAXncp/view?usp=drive_link
   - start_date: 2015-01-05
     end_date: 2015-02-05
     title: For it to end
-    venue: Attakkalari Centre for Movement Arts
+    venue: Attakkalari Centre for Movement Arts in Bengaluru
     link: https://www.attakkalari.org/index.php?page=AIB-2015&utm_source=chatgpt.com
   - start_date: 2014-12-18
     end_date: 2014-12-19
     title: 저장된 실제
-    venue: 서울문화재단
+    venue: 서울무용센터
     link: ''
   - start_date: 2014-08-31
     end_date: ''
     title: 혼자 추는 춤은 너무 어려워
-    venue: 국립현대무용단
+    venue: 아르코예술극장 소극장, 국립현대무용단
     link: https://www.artinsight.co.kr/news/view.php?no=5140&utm_source=chatgpt.com
   - start_date: 2014-08-06
     end_date: 2014-08-10
@@ -248,7 +248,7 @@ news:
   - start_date: 2014-05-27
     end_date: ''
     title: 소설화하는 몸
-    venue: 한국현대무용협회, MODAFE
+    venue: 대학로 예술극장 대극장, 한국현대무용협회, MODAFE
     link: ''
   - start_date: 2014-02-15
     end_date: ''
