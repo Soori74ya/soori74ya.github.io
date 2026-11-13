@@ -33,32 +33,32 @@ news:
   - start_date: 2026-07-16
     end_date: 2026-07-19
     title: 싱크 디 싱크
-    venue: 황수현 제작
+    venue: TINC
     link: https://www.instagram.com/p/DZ2FkZhgTH_/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
   - start_date: 2026-05-20
     end_date: 2026-05-28
     title: Attuning Bodies
-    venue: 국립현대무용단
+    venue: 국립현대무용단 댄스하우스
     link: https://www.instagram.com/p/DVKlekhEwkh/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
   - start_date: 2026-03-26
     end_date: 2026-03-29
     title: '극장의 다음: 다가올 낯선 감각들, 파빌리온 72'
-    venue: 국립극단
+    venue: 더 줌아트센터, 국립극단
     link: https://www.ntck.or.kr/ko/content/board/notice/50668/form
   - start_date: 2026-03-12
     end_date: 2026-03-15
     title: 세계
-    venue: 서서울미술관
+    venue: 서서울미술관 전시실1
     link: https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1494700
   - start_date: 2025-10-24
     end_date: ''
-    title: Ai-iA
-    venue: 국립현대무용단
+    title: 무용X 기술랩 Ai-iA
+    venue: 서계동 , 국립현대무용단
     link: https://www.instagram.com/p/DO79Gl8k6Nb/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
   - start_date: 2025-08-14
     end_date: 2025-08-16
     title: 싱크 디 싱크
-    venue: 황수현 제작
+    venue: TINC
     link: https://www.instagram.com/p/DMMwA-ypxh0/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
   - start_date: 2025-04-07
     end_date: 2025-04-17
@@ -68,7 +68,7 @@ news:
   - start_date: 2024-10-11
     end_date: ''
     title: 프로토타입/토크 2024 무용X기술 프로토타입 공유회
-    venue: 서울국제공연예술제
+    venue: 아트코리아랩, 국립현대무용단
     link: https://spaf.or.kr/2024/workshop/workshop_view03.php
   - start_date: 2024-09-28
     end_date: 2024-10-06
