@@ -122,7 +122,7 @@ news:
     link: https://2026archive.jeonjufest.kr/db/movieView.asp?idx=BFE6ADA35B79404AA&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=0&reUrl=%2Fdb%2FmovieList%2Easp%3FsType%3D%26sText%3D%26EP%5FNUM%3D0%26sectionList%3D%26nationList%3D%26genreList%3D%26Page%3D34
   - start_date: 2021-08-18
     end_date: ''
-    title: '-'
+    title: 무용X기술 창작랩
     venue: 국립현대무용단
     link: https://www.instagram.com/p/CTg51laJl_H/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
   - start_date: 2021-07-09
