@@ -110,6 +110,11 @@ news:
     title: 카베에
     venue: 국립현대무용단, 국립극장
     link: https://kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info
+  - start_date: 2022-12-15
+    end_date: ''
+    title: 명사적 안무에서 동사적 안무로 ‘살아있는 순간’을 조직하기
+    venue: 춤인
+    link: http://choomin.sfac.or.kr/zoom/zoom_view.asp?zom_idx=835&div=01&type=VW&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnudyyrI6Nh-xkkKQqxdhqxg0Z3SqH7wcGGkfoqCmncaZTW-XYOzhlFAtUlkg_aem_D_oopHKhmkliW3z2CCPwGA
   - start_date: 2022-07-16
     end_date: 2022-09-04
     title: 느낌안무
