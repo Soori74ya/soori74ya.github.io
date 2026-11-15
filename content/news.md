@@ -63,7 +63,7 @@ news:
   - start_date: 2025-08-14
     end_date: 2025-08-14
     title: 여기서 저기를 상상하며
-    venue: 베를린
+    venue: Performative writing
     link: https://performativewriting.com/?p=64
   - start_date: 2025-04-07
     end_date: 2025-04-17
