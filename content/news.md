@@ -1,5 +1,10 @@
 ---
 news:
+  - start_date: 2026-03-11
+    end_date: ''
+    title: '안무하는 AI, 사유하는 신체: 〈Ai-iA〉가 탐색하는 ‘이분법 너머’의 가능성 -01'
+    venue: 엘리스 온
+    link: https://aliceon.co.kr/%EC%95%88%EB%AC%B4%ED%95%98%EB%8A%94-ai-%EC%82%AC%EC%9C%A0%ED%95%98%EB%8A%94-%EC%8B%A0%EC%B2%B4-%E3%80%88ai-ia%E3%80%89%EA%B0%80-%ED%83%90%EC%83%89%ED%95%98%EB%8A%94-%EC%9D%B4%EB%B6%84/
   - start_date: 2025-08-06
     end_date: ''
     title: Special Feature 몸의 언어, 예술의 문법
