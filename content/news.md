@@ -215,6 +215,11 @@ news:
     title: 저장된 실제
     venue: 서울무용센터
     link: https://www.newsis.com/view/NISX20160408_0014010301?utm_source=chatgpt.com
+  - start_date: 2015-04-01
+    end_date: 2015-04-01
+    title: '표현주의를 넘어서: 폭발적인 몸(explosive body)'
+    venue: K Contemporary 3
+    link: https://docs.google.com/document/d/1LExv6hVVqTlB0KL5FqMfx6ogA52iGDhz1TRirFpoxY4/edit?usp=drive_link
   - start_date: 2015-11-13
     end_date: ''
     title: For it to end
