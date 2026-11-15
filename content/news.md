@@ -1,5 +1,10 @@
 ---
 news:
+  - start_date: 2025-08-06
+    end_date: ''
+    title: Special Feature 몸의 언어, 예술의 문법
+    venue: 월간 퍼블릭 아트
+    link: https://m.artinpost.co.kr/product/detail.html?product_no=5522&cate_no=0&display_group=1
   - start_date: 2026-11-22
     end_date: 2026-11-22
     title: '<농담과 유머: 미학적 작동으로서의 코미디 PART Ⅱ> : 아무렇지도 않기에는 아무렇지도 않아서'
