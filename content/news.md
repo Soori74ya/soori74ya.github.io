@@ -30,6 +30,11 @@ news:
     title: 어긋남에 머무르기
     venue: 리움 미술관
     link: https://www.leeumhoam.org/leeum/edu/program/1690?params=Y
+  - start_date: 2026-07-20
+    end_date: 2026-07-20
+    title: 느린 축적이 빚어낸 감각의 미학
+    venue: 댄스포스트코리아
+    link: https://dancepostkorea.com/new/board/work/dancer_view.php?b_idx=978&page=1&search_part=b_title&search_dancer=
   - start_date: 2026-07-16
     end_date: 2026-07-19
     title: 싱크 디 싱크
