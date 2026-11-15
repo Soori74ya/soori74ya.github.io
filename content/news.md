@@ -125,6 +125,11 @@ news:
     title: 저장된 실제
     venue: 전주국제영화제
     link: https://2026archive.jeonjufest.kr/db/movieView.asp?idx=BFE6ADA35B79404AA&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=0&reUrl=%2Fdb%2FmovieList%2Easp%3FsType%3D%26sText%3D%26EP%5FNUM%3D0%26sectionList%3D%26nationList%3D%26genreList%3D%26Page%3D34
+  - start_date: 2021-12-24
+    end_date: 2021-12-24
+    title: '[2021리딩 땐싱–감각하는 신체] 안무가 황수현의 신체를 감각하고 그것을 공유하는 방식들'
+    venue: 댄스&미디어연구소
+    link: https://www.youtube.com/watch?v=o06aK9TgiUE
   - start_date: 2021-08-18
     end_date: ''
     title: 무용X기술 창작랩
@@ -190,8 +195,13 @@ news:
     title: I want to cry but I'm not sad-Solo version
     venue: 광주 바림(BARIM)
     link: https://barimart.wordpress.com/archive/
+  - start_date: 2017-02-23
+    end_date: 2017-02-23
+    title: 'Walking Talking: 뉴욕 거리 토크 2017 SDC-MR 교환 프로그램, 장혜진- 황수현 대화'
+    venue: 춤인
+    link: http://choomin.sfac.or.kr/zoom/zoom_view.asp?type=OUT&zom_idx=162&div=ZOMIO01001
   - start_date: 2017-02-07
-    end_date: ''
+    end_date: 2017-02-07
     title: method of crying
     venue: Movement research in New York
     link: ''
