@@ -2,7 +2,7 @@
 news:
   - start_date: 2026-11-22
     end_date: 2026-11-22
-    title: 아무렇지도 않기에는 아무렇지도 않아서
+    title: '<농담과 유머: 미학적 작동으로서의 코미디 PART Ⅱ> : 아무렇지도 않기에는 아무렇지도 않아서'
     venue: 로쿠스솔루스
     link: https://www.instagram.com/p/Dfqdl_RkozB/?img_index=1
   - start_date: 2026-11-21
