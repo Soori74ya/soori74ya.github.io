@@ -313,12 +313,12 @@ news:
   - start_date: 2012-01-19
     end_date: ''
     title: 'Co-Lab : Seoul- Berlin'
-    venue: (구)한국공연예술센터(HanPAC)
-    link: ''
-  - start_date: 2011-2012
-    end_date: ''
+    venue: 한국문화예술위원회 (전) 한국공연예술센터
+    link: https://soohyunhwang.wordpress.com/2012/03/12/co-lab-seoul-berlin-2012-hanpac-rising-star/
+  - start_date: 2011-03-01
+    end_date: 2011-12-31
     title: 차세대 안무가 인큐베이팅
-    venue: (구)한국공연예술센터
+    venue: 한국문화예술위원회 (전)한국공연예술센터
     link: ''
 layout: news
 title: News
