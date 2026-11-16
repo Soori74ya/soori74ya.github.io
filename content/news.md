@@ -22,7 +22,7 @@ news:
     link: https://theater.arko.or.kr/product/performance/259564
   - start_date: 2026-08-18
     end_date: 2026-09-15
-    title: 동사를 안무하기
+    title: '[감각LAB_움직임] 동사를 안무하기'
     venue: 이음 예술창작아카데미
     link: https://ac.ieum.or.kr/program/program.php?ptype=view&idx=1156&page=1&code=program&status=A&education=2
   - start_date: 2026-08-05
