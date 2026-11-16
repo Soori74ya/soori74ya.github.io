@@ -40,6 +40,11 @@ news:
     title: 싱크 디 싱크
     venue: TINC
     link: https://www.instagram.com/p/DZ2FkZhgTH_/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
+  - start_date: 2026-06-01
+    end_date: ''
+    title: 랑시에르의 ‘환경(milieu)’ 개념을 통한 안무의 매체성 연구 — 황수현의 작품을 중심으로
+    venue: KISS, 백인경
+    link: https://kiss.kstudy.com/Detail/Ar?key=4259698
   - start_date: 2026-05-20
     end_date: 2026-05-28
     title: Attuning Bodies
@@ -85,6 +90,16 @@ news:
     title: Choreographic Residency 2025
     venue: Footnote company
     link: https://www.footnote.org.nz/news/residency-soohyunhwang
+  - start_date: 2025-02-01
+    end_date: ''
+    title: '무용공연 장소에서 기억의 작동 논의: 황수현의 「음------ 」을 중심으로'
+    venue: KCI, 박성혜
+    link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003181486&utm_source=chatgpt.com
+  - start_date: 2024-12-30
+    end_date: ''
+    title: 신유물론 패러다임 속 춤의 존재론과 정치학
+    venue: KCI, 한석진
+    link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003150228&utm_source=chatgpt.com
   - start_date: 2024-10-11
     end_date: ''
     title: 프로토타입/토크 2024 무용X기술 프로토타입 공유회
@@ -170,6 +185,11 @@ news:
     title: Movement re-search
     venue: 국립현대무용단
     link: https://www.instagram.com/p/CbJR2VRvWBg/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
+  - start_date: 2021-02-01
+    end_date: ''
+    title: 「퍼포먼스 아카이빙 방안 연구」
+    venue: RISS, 주선영
+    link: https://m.riss.kr/search/detail/DetailView.do?control_no=d590a072ad77f04fffe0bdc3ef48d419&p_mat_type=be54d9b8bc7cdb09&utm_source=chatgpt.com
   - start_date: 2020-11-18
     end_date: ''
     title: 나는 그 사람이 느끼는 것을 생각한다
