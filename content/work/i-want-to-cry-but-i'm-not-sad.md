@@ -1,6 +1,6 @@
 ---
 ko:
-  title: 울고 싶은데 슬프지 않아
+  title: 아이 원트 투 크라이, 벗 아임 낫 새드
   workType: Live Performance
   startDate: 2016-09-24
   endDate: 2016-10-01
