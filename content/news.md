@@ -32,7 +32,7 @@ news:
     link: https://www.leeumhoam.org/leeum/edu/program/1690?params=Y
   - start_date: 2026-07-20
     end_date: 2026-07-20
-    title: 느린 축적이 빚어낸 감각의 미학
+    title: 느린 축적이 빚어낸 감각의 미학, 심정민
     venue: 댄스포스트코리아
     link: https://dancepostkorea.com/new/board/work/dancer_view.php?b_idx=978&page=1&search_part=b_title&search_dancer=
   - start_date: 2026-07-16
@@ -42,8 +42,8 @@ news:
     link: https://www.instagram.com/p/DZ2FkZhgTH_/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
   - start_date: 2026-06-01
     end_date: ''
-    title: 랑시에르의 ‘환경(milieu)’ 개념을 통한 안무의 매체성 연구 — 황수현의 작품을 중심으로
-    venue: KISS, 백인경
+    title: 랑시에르의 ‘환경(milieu)’ 개념을 통한 안무의 매체성 연구 — 황수현의 작품을 중심으로, 백인경
+    venue: 한국미학회, 백인경
     link: https://kiss.kstudy.com/Detail/Ar?key=4259698
   - start_date: 2026-05-20
     end_date: 2026-05-28
@@ -77,12 +77,12 @@ news:
     link: https://www.instagram.com/p/DMMwA-ypxh0/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
   - start_date: 2025-08-14
     end_date: 2025-08-14
-    title: 여기서 저기를 상상하며
+    title: 여기서 저기를 상상하며, 남상화
     venue: Performative writing
     link: https://performativewriting.com/?p=64
   - start_date: 2025-08-06
     end_date: ''
-    title: Special Feature 몸의 언어, 예술의 문법
+    title: Special Feature No.3 매체로서의 신체, 관객과 무대 사이, 조형빈
     venue: 월간 퍼블릭 아트
     link: https://m.artinpost.co.kr/product/detail.html?product_no=5522&cate_no=0&display_group=1
   - start_date: 2025-04-07
@@ -92,13 +92,13 @@ news:
     link: https://www.footnote.org.nz/news/residency-soohyunhwang
   - start_date: 2025-02-01
     end_date: ''
-    title: '무용공연 장소에서 기억의 작동 논의: 황수현의 「음------ 」을 중심으로'
-    venue: KCI, 박성혜
+    title: '무용공연 장소에서 기억의 작동 논의: 황수현의 「음------ 」을 중심으로, 박성혜'
+    venue: 대한무용학회
     link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003181486&utm_source=chatgpt.com
   - start_date: 2024-12-30
     end_date: ''
-    title: 신유물론 패러다임 속 춤의 존재론과 정치학
-    venue: KCI, 한석진
+    title: 신유물론 패러다임 속 춤의 존재론과 정치학, 한석진
+    venue: 한국무용예술학회, 한석진
     link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003150228&utm_source=chatgpt.com
   - start_date: 2024-10-11
     end_date: ''
@@ -257,7 +257,7 @@ news:
     link: https://www.newsis.com/view/NISX20160408_0014010301?utm_source=chatgpt.com
   - start_date: 2015-04-01
     end_date: 2015-04-01
-    title: '표현주의를 넘어서: 폭발적인 몸(explosive body)'
+    title: '표현주의를 넘어서: 폭발적인 몸(explosive body) , 김재리'
     venue: K Contemporary 3
     link: https://docs.google.com/document/d/1LExv6hVVqTlB0KL5FqMfx6ogA52iGDhz1TRirFpoxY4/edit?usp=drive_link
   - start_date: 2015-11-13
