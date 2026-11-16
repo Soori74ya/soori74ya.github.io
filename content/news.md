@@ -317,7 +317,7 @@ news:
     link: ''
   - start_date: 2011-05-25
     end_date: 2012-01-31
-    title: 차세대 안무가 인큐베이팅
+    title: 공연예술인큐베이팅프로그램 안무가 분야
     venue: 한국문화예술위원회 (전)한국공연예술센터
     link: https://www.arko.or.kr/board/view/4053?bid&cid=12801&sf_icon_category&utm_source=chatgpt.com
 layout: news
