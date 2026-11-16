@@ -303,12 +303,12 @@ news:
   - start_date: 2012-10-20
     end_date: ''
     title: Face to Face
-    venue: 한국공연예술센터(HanPAC), Yokohama Arts Foundation
+    venue: (전) 한국공연예술센터, Yokohama Arts Foundation
     link: https://ameblo.jp/ydcr/entry-11382328771.html
   - start_date: 2012-03-16
     end_date: 2012-03-17
     title: 'Co-Lab : Seoul- Berlin'
-    venue: (전)한국공연예술센터(HanPAC)
+    venue: 한국문화예술위원회 (전)한국공연예술센터
     link: https://soohyunhwang.wordpress.com/2012/03/12/co-lab-seoul-berlin-2012-hanpac-rising-star/
   - start_date: 2012-01-19
     end_date: ''
