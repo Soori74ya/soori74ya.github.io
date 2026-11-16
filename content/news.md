@@ -2,7 +2,7 @@
 news:
   - start_date: 2026-11-22
     end_date: 2026-11-22
-    title: '[농담과 유머: 미학적 작동으로서의 코미디 PART Ⅱ] : 아무렇지도 않기에는 아무렇지도 않아서'
+    title: 아무렇지도 않기에는 아무렇지도 않아서
     venue: 로쿠스솔루스
     link: https://www.instagram.com/p/Dfqdl_RkozB/?img_index=1
   - start_date: 2026-11-21
@@ -22,7 +22,7 @@ news:
     link: https://theater.arko.or.kr/product/performance/259564
   - start_date: 2026-08-18
     end_date: 2026-09-15
-    title: '[감각LAB_움직임] 동사를 안무하기'
+    title: 동사를 안무하기
     venue: 이음 예술창작아카데미
     link: https://ac.ieum.or.kr/program/program.php?ptype=view&idx=1156&page=1&code=program&status=A&education=2
   - start_date: 2026-08-05
@@ -147,7 +147,7 @@ news:
     link: https://2026archive.jeonjufest.kr/db/movieView.asp?idx=BFE6ADA35B79404AA&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=0&reUrl=%2Fdb%2FmovieList%2Easp%3FsType%3D%26sText%3D%26EP%5FNUM%3D0%26sectionList%3D%26nationList%3D%26genreList%3D%26Page%3D34
   - start_date: 2021-12-24
     end_date: 2021-12-24
-    title: '[2021리딩 땐싱–감각하는 신체] 안무가 황수현의 신체를 감각하고 그것을 공유하는 방식들'
+    title: 안무가 황수현의 신체를 감각하고 그것을 공유하는 방식들
     venue: 댄스&미디어연구소
     link: https://www.youtube.com/watch?v=o06aK9TgiUE
   - start_date: 2021-08-18
