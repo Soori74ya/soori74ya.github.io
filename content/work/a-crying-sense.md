@@ -30,7 +30,7 @@ ko:
     이 작업은 감정의 표현으로 여겨지는 신체 변화의 흐름을 거스르고, 방해하고, 교차시키며 얻어지는 확장된 경로를 통해 감정과 감각의 바깥, 혹은 그 사이의 틈을 탐구한다. 열리거나 닫힌 구조 안에서 무용수들의 확장된 감각과 감정은 움직임, 소리, 그리고 공간의 진동을 통해 관객에게 전달된다. 우리는 그때 전달되는 감각이 어떤 정서적 공감, 혹은 그와는 다른 무엇인가를 일으킬 수 있는지 다시 묻는다.
   articles: []
   critics:
-    - title: 2018 아트신_김민관 기자
+    - title: 2018 아트신_김민관 편집장
       url: https://www.artscene.co.kr/1675
     - title: 2018 몸지_박성혜 무용비평가
       url: https://docs.google.com/document/d/15XzMeIOX9SdE8LxXOmzXtvB-FeMOieih496uO_aOIUY/edit?usp=sharing
