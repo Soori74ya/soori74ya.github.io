@@ -30,7 +30,7 @@ ko:
   critics:
     - title: 2026 몸지_박성혜 무용평론가
       url: https://docs.google.com/document/d/1bm8FFzDsDnryzpvwVVjfT6KVnOJHrWvL_pVtPEV-JX8/edit?usp=sharing
-    - title: 2026 아트신_ 김민관 기자
+    - title: 2026 아트신_ 김민관 편집장
       url: https://www.artscene.co.kr/2095
     - title: 2026 춤웹진_김혜라 무용평론가
       url: http://www.koreadance.kr/board/board_view.php?view_id=742&board_name=review&page=
