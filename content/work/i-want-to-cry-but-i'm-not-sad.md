@@ -19,7 +19,7 @@ ko:
   critics:
     - title: 2016 K contemporary 3_ 방혜진 비평가
       url: https://docs.google.com/document/d/19-19N8zfj1bMhSd-J-uX603tEns7xZfBME9EH7Sz_XY/edit?usp=sharing
-    - title: 2016 아트신_김민관
+    - title: 2016 아트신_김민관 기자
       url: https://www.artscene.co.kr/1620
   images:
     - /assets/work/i-want-to-cry-but-i'm-not-sad/가로1.webp
