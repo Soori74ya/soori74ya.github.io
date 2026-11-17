@@ -54,9 +54,9 @@ ko:
       url: https://artinculture.kr/webzine/performance
   images:
     - /assets/work/sync-de-sync/가로1.webp
-    - /assets/work/sync-de-sync/가로2.webp
-    - /assets/work/sync-de-sync/가로3.webp
     - /assets/work/sync-de-sync/가로4.webp
+    - /assets/work/sync-de-sync/2026싱크디싱크_박지선.webp
+    - /assets/work/sync-de-sync/DSC04787.webp
     - /assets/work/sync-de-sync/가로5.webp
     - /assets/work/sync-de-sync/세로1.webp
     - /assets/work/sync-de-sync/세로2.webp
