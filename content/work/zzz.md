@@ -44,7 +44,7 @@ ko:
       url: https://collectivenull.com/009-2/
     - title: 2023 몸지_박성혜 무용평론가
       url: https://docs.google.com/document/d/1Fflm_b6NPp2guTBrNYTiiOSn0ZBEb2XuIeHtH40twy0/edit?usp=sharing
-    - title: 2023 아트신_김민관
+    - title: 2023 아트신_김민관 편집장
       url: https://www.artscene.co.kr/1942
     - title: 2023 춤웹진_한석진
       url: http://www.koreadance.kr/board/board_view.php?view_id=623&board_name=review&page=
