@@ -39,6 +39,8 @@ ko:
   articles:
     - title: 2023 프로그램 북
       url: https://drive.google.com/file/d/1fUvXFiUdb2O8OeDLx5goNXcy2UA6NlNJ/view?usp=sharing
+    - title: 서울문화재단 극장 쿼드 홈페이지
+      url: https://www.quad.or.kr/product/performance/1117
   critics:
     - title: 2023 널_이혜령
       url: https://collectivenull.com/009-2/
