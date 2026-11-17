@@ -66,18 +66,18 @@ ko:
       url: https://collectivenull.com/006-2/
     - title: 2023 아트신_김민관 기자
       url: https://www.artscene.co.kr/1901
-    - title: 2023 제2회 K’ARTS 젊은 평론가상 전시/공연 부문 우수상_박주성 미술연구자
-      url: http://news.karts.ac.kr/?p=12959
+    - title: 2023 몸지_박성혜 무용평론가
+      url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
     - title: 2023 춤웹진_김혜라 무용평론가
       url: http://www.koreadance.kr/board/board_view.php?view_id=589&board_name=review&page=
     - title: 2023 댄스포스트코리아_윤단우 공연칼럼리스트
       url: https://dancepostkorea.com/new/board/review/pfm_view.php?search_part=b_title&search_pfm=&page=1&b_idx=486
-    - title: 2023 서울신문_류재민 기자
-      url: https://www.seoul.co.kr/news/life/performance/2023/04/11/20230411500002
     - title: 2023 더프리뷰_나수진 무용비평가
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
-    - title: 2023 몸지_박성혜 무용평론가
-      url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
+    - title: 2023 제2회 K’ARTS 젊은 평론가상 전시/공연 부문 우수상_박주성 미술연구자
+      url: http://news.karts.ac.kr/?p=12959
+    - title: 2023 서울신문_류재민 기자
+      url: https://www.seoul.co.kr/news/life/performance/2023/04/11/20230411500002
   images:
     - /assets/work/caveae/가로1.webp
     - /assets/work/caveae/가로2.webp
