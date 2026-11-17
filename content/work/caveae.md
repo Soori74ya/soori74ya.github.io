@@ -76,7 +76,7 @@ ko:
       url: https://www.seoul.co.kr/news/life/performance/2023/04/11/20230411500002
     - title: '[공연리뷰] 경계를 넘어 낯섦을 향해 나아가는 감각의 여정_나수진_더프리뷰'
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
-    - title: 2023 caveae 리뷰
+    - title: 2023 몸지_박성혜 무용평론가
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
     - title: 더프리뷰_나수진 무용평론가
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
