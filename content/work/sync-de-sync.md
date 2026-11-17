@@ -35,8 +35,10 @@ ko:
       url: https://cine21.com/news/view/?mag_id=108340&fbclid=PAVERFWANHNfhleHRuA2FlbQIxMQABp8GL2AAW08qgRWoR94Fq3hXg4tx8DiTQ0C7JMJlQlASEfixJpbevuvcIs5Rg_aem_NAleLyLRFw22C5l2NUkwuw
     - title: 2025 몸지_박성혜
       url: https://docs.google.com/document/d/1j9MZuqxYK-DkqvgLl2yIFt8_lBRdQnn2glSLSNAYyfI/edit?usp=sharing
-    - title: 2026 언어라는 신체성, 그리고 신체성으로서 언어_김민관
+    - title: 2026 아트신_김민관
       url: https://www.artscene.co.kr/2356
+    - title: 2026 아트인컬쳐
+      url: https://artinculture.kr/webzine/performance
   images:
     - /assets/work/sync-de-sync/가로1.webp
     - /assets/work/sync-de-sync/가로2.webp
