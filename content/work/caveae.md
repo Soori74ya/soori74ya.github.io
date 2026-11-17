@@ -49,28 +49,34 @@ ko:
 
     《카베에》는 극장의 무대 위로 관객의 자리를 이동하고, 그 가운데 39인의 무용수가 참여하는 대규모 군무를 선보인다. 존재 각각이 지닌 고유한 리듬과 색채를 기반으로 고안된 군무는 그 연결과 조율 안에서 떨림과 열림, 울림을 일으키며 ‘공동’에 대한 감각의 지형을 펼쳐 낸다. 이러한 하모니가 창출하는 다공적이고 다성적인 공간성은 관객을 미지의 영역으로 안내하는 통로를 마련한다. 그 틈새에서 진동하는 몸의 감각을 통해, 가시적 영역 너머로 도약하는 시선의 가능성을 더듬어 볼 수 있는 공연이다.
   articles:
-    - title: 국립무용단 홈페이지
+    - title: 프로그램 북
+      url: https://drive.google.com/file/d/1nE0nNs3kVyR7Ezht4fm4AEn2-cSlY8Xb/view?usp=sharing
+    - title: 작업기록
+      url: https://blog.naver.com/ntok2010/223751623169
+    - title: 국립현대무용단 홈페이지
       url: https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info#
   critics:
-    - title: 구멍난 몸, 드나드는 춤_하은빈_콜렉티브 널
+    - title: 2023 콜렉티브 널_하은빈
       url: https://collectivenull.com/008-2/
-    - title: 목소리와 말사이에서_하상현_콜렉티브 널
+    - title: 2023 콜렉티브 널_하상현 큐레이터
       url: https://collectivenull.com/007-2/
-    - title: "'저기'의 감각으로 구성된 공동의 정치성, 유령들의 몸_조형빈_콜렉티브 널"
+    - title: 2023 콜렉티브 널_조형빈 무용비평가
       url: https://collectivenull.com/006-2/
-    - title: 소리-신체 어떤 결박_김민관_아트신
+    - title: 2023 아트신_김민관 기자
       url: https://www.artscene.co.kr/1901
-    - title: '[제2회 K’ARTS 젊은 평론가상 전시/공연 부문 우수상] 청각적 무용 : 황수현 <카베에>, 안성수 <ROSE>_박주성'
+    - title: 2023 제2회 K’ARTS 젊은 평론가상 전시/공연 부문 우수상_박주성 미술연구자
       url: http://news.karts.ac.kr/?p=12959
-    - title: 원시적 노스탤지어를 위한 ‘해오름 프로젝트’_김혜라
+    - title: 2023 춤웹진_김혜라 무용평론가
       url: http://www.koreadance.kr/board/board_view.php?view_id=589&board_name=review&page=
-    - title: '감각이 일깨운 질문들: 국립현대무용단 <카베에>_윤단우_댄스포스트코리아'
+    - title: 2023 댄스포스트코리아_윤단우 공연칼럼리스트
       url: https://dancepostkorea.com/new/board/review/pfm_view.php?search_part=b_title&search_pfm=&page=1&b_idx=486
-    - title: 낯선 무대에서 경험하는 공존의 방식… 국립현대무용단 ‘카베에’_류재민 기자_서울신문
+    - title: 2023 서울신문_류재민 기자
       url: https://www.seoul.co.kr/news/life/performance/2023/04/11/20230411500002
     - title: '[공연리뷰] 경계를 넘어 낯섦을 향해 나아가는 감각의 여정_나수진_더프리뷰'
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
     - title: 2023 caveae 리뷰
+      url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
+    - title: 더프리뷰_나수진 무용평론가
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
   images:
     - /assets/work/caveae/가로1.webp
