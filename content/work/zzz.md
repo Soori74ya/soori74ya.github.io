@@ -40,14 +40,16 @@ ko:
     - title: 2023 프로그램 북
       url: https://drive.google.com/file/d/1fUvXFiUdb2O8OeDLx5goNXcy2UA6NlNJ/view?usp=sharing
   critics:
+    - title: 2023 널_이혜령
+      url: https://collectivenull.com/009-2/
+    - title: 2023 몸지_박성혜 무용평론가
+      url: https://docs.google.com/document/d/1Fflm_b6NPp2guTBrNYTiiOSn0ZBEb2XuIeHtH40twy0/edit?usp=sharing
     - title: 2023 아트신_김민관
       url: https://www.artscene.co.kr/1942
     - title: 2023 춤웹진_한석진
       url: http://www.koreadance.kr/board/board_view.php?view_id=623&board_name=review&page=
-    - title: '[M 트렌드 허브] 무대에서 함께 잠들기…퍼포먼스 공연 ‘Zzz’ 현장 리뷰_이승연 기자_매일경제'
+    - title: 2023 매일경제_이승연 기자
       url: https://www.mk.co.kr/news/culture/10865689
-    - title: Zzz 리뷰
-      url: https://docs.google.com/document/d/1Fflm_b6NPp2guTBrNYTiiOSn0ZBEb2XuIeHtH40twy0/edit?usp=sharing
   images:
     - /assets/work/zzz/가로1_오석근.webp
     - /assets/work/zzz/가로10_오석근.webp
