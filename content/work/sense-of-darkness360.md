@@ -33,9 +33,9 @@ ko:
   description: 《검정감각360》은 2019년 초연된 《검정감각》의 확장판으로, 안무가 황수현은 이번 공연에서 소리의 울림과 자취를 통해 공간의 깊이와 무게, 밀도, 텍스처의 층위를 더하고자 한다. 관객은 눈을 감은 퍼포머의 시선으로 무대 공간을 감지하고, 이때 눈이 아니라 피부에 닿는 미세한 촉각 자극으로 감응하는 공연을 제안받는다. 안무가는 극장 공간에 퍼지는 소리와 잔음, 진동을 통해 객석에 기묘한 멀미감이 번지도록 의도하였다. 여기서 관객은 익숙하지만 낯선 ‘검정감각’을 경험하게 된다.
   articles: []
   critics:
-    - title: 춤웹진_김혜라 무용비평가
-      url: http://www.koreadance.kr/board/board_view.php?view_id=443&board_name=review&page=
-    - title: 몸지_김남수 비평가
+    - title: 2021 춤웹진_김혜라 무용비평가
+      url: http://koreadance.kr/board/board_view.php?view_id=486&board_name=review
+    - title: 2021 몸지_김남수 비평가
       url: https://docs.google.com/document/d/1F7qRr1RW5SrFOUwKSTj-fadLRvMMQ6D1BRZeIIYQAYk/edit?usp=sharing
   images:
     - /assets/work/sense-of-darkness360/가로1.webp
