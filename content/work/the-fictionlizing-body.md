@@ -11,14 +11,16 @@ ko:
     출연: 손나예, 장홍석, 황수현
     조명: 류백희
     음악: 남상원
+    의상: 황수현
 
+    제작: 황수현
     주최: 국제현대무용제
   description: 무대 위에서의 몸은 특정한 지시를 부여받은 수행적 역할과 동시에 스스로 기억이나 인식, 감정을 불러 일으키는 주체적 역할로 존재한다. 두개의 역할이 혼돈되어 관객과 마주하게 된다.
   articles: []
   critics:
-    - title: 아트신 김민관
+    - title: 2014 아트신_김민관 편집장
       url: https://www.artscene.co.kr/1540
-    - title: 춤웹진 김민관
+    - title: 2014 춤웹진_김민관
       url: http://koreadance.kr/board/board_view.php?view_id=8&board_name=memory&page=14
   images: []
 en:
