@@ -5,8 +5,9 @@ ko:
   startDate: 2019-02-12
   endDate: 2019-02-16
   venue: 신촌극장
-  production: 황수현
+  production: 2019 신촌극장 라인업, 2019 변방연극제, 2019 전시 용기와시, 2020 서울국제공연예술제, 2023 국립현대미술관
   credit: |-
+    2019
     안무/콘셉트: 황수현
     공동 리서치: 강호정, 박유라, 황다솜
 
@@ -17,9 +18,9 @@ ko:
     관객의 반응은 신체적/생리적 차원에서 출발하여 정서적 공감으로 발전되어 가고, 이러한 일련의 반응 과정 자체가 퍼포먼스가 된다. 관객은 퍼포머의 행동에 직간접적으로 반응하거나 다른 관객의 반응을 지각함으로써 공감과 전이의 피드백 루프에 참여하게 된다.
   articles: []
   critics:
-    - title: '2019 서울변방연극제, 《나는 그 사람이 느끼는 것을 생각한다》: 통제된/되는 감각 - ARTSCENE'
+    - title: 2019 아트신_김민관 기자
       url: https://www.artscene.co.kr/1715
-    - title: 익숙하고 낯선 몸을 경유한 윤리적 탐구 《나는 그 사람이 느끼는 것을 생각한다》 - 인디언밥
+    - title: 2019 독립예술웹진_김윤진
       url: https://indienbob.tistory.com/1141
   images:
     - /assets/work/i-sense-what-they-feel/가로1_MMCA 제공.webp
