@@ -28,11 +28,11 @@ ko:
     - title: 서서울미술관 세마 퍼포먼스 홈페이지
       url: https://sema-performance.kr/title?s=se-gye
   critics:
-    - title: 2026 <세계> 리뷰 박성혜 무용평론가
+    - title: 2026 몸지_박성혜 무용평론가
       url: https://docs.google.com/document/d/1bm8FFzDsDnryzpvwVVjfT6KVnOJHrWvL_pVtPEV-JX8/edit?usp=sharing
-    - title: '황수현, 〈세계〉: 불가능한 소통의 변증법적 귀환'
+    - title: 2026 아트신_ 김민관 기자
       url: https://www.artscene.co.kr/2095
-    - title: 춤웹진 김혜라 무용평론가
+    - title: 2026 춤웹진_김혜라 무용평론가
       url: http://www.koreadance.kr/board/board_view.php?view_id=742&board_name=review&page=
   images:
     - /assets/work/세계-SE-GYE/가로1_최형락.webp
