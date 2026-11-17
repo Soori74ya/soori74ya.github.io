@@ -43,7 +43,7 @@ news:
   - start_date: 2026-06-01
     end_date: ''
     title: 랑시에르의 ‘환경(milieu)’ 개념을 통한 안무의 매체성 연구 — 황수현의 작품을 중심으로, 백인경
-    venue: 한국미학회, 백인경
+    venue: 한국미학회
     link: https://kiss.kstudy.com/Detail/Ar?key=4259698
   - start_date: 2026-05-20
     end_date: 2026-05-28
