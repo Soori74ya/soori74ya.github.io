@@ -5,7 +5,7 @@ ko:
   startDate: 2016-09-24
   endDate: 2016-10-01
   venue: 국립현대미술관
-  production: 국립현대무용단, 국립현대미술관
+  production: '2016 다원예술프로젝트 국립현대미술관 X 국립현대무용단 퍼포먼스 : 예기치 않은'
   credit: |-
     콘셉트/안무: 황수현
     퍼포머: 강호정, 임정하, 최민선, 최승윤, 최영탁, 현지예, 황다솜
@@ -17,9 +17,9 @@ ko:
   description: 감정은 신체와 정신의 연결을 수행하기 위한 방법으로 사용된다. 그리고 개인의 체화된 감정 정보는 외부 자극으로부터 시작하여 내부 자극을 일으키며 동일한 수행성으로 나타난다. 이 작업은 개인의 영역으로 인식되어 있는 감정을 구조화하면서 개인의 감정이 그 구성원과 환경에 어떻게 관련되는지 탐색하고자 한다.
   articles: []
   critics:
-    - title: 2016 I want to cry but I'm not sad 비평
+    - title: 2016 K contemporary 3_ 방혜진 비평가
       url: https://docs.google.com/document/d/19-19N8zfj1bMhSd-J-uX603tEns7xZfBME9EH7Sz_XY/edit?usp=sharing
-    - title: 아트신_김민관
+    - title: 2016 아트신_김민관
       url: https://www.artscene.co.kr/1620
   images:
     - /assets/work/i-want-to-cry-but-i'm-not-sad/가로1.webp
