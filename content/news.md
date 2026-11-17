@@ -7,7 +7,7 @@ news:
     link: https://www.instagram.com/p/Dfqdl_RkozB/?img_index=1
   - start_date: 2026-11-21
     end_date: 2026-11-21
-    title: 히든 씬#6
+    title: 《에디 엘리스 테이크》 히든 씬#6
     venue: CGV 압구정
     link: https://www.instagram.com/p/DfjjIh-E7hV/
   - start_date: 2026-10-29
