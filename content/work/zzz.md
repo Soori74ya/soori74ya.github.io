@@ -42,7 +42,7 @@ ko:
     - title: 서울문화재단 극장 쿼드 홈페이지
       url: https://www.quad.or.kr/product/performance/1117
   critics:
-    - title: 2023 널_이혜령
+    - title: 2023 콜렉티브 널_이혜령
       url: https://collectivenull.com/009-2/
     - title: 2023 몸지_박성혜 무용평론가
       url: https://docs.google.com/document/d/1Fflm_b6NPp2guTBrNYTiiOSn0ZBEb2XuIeHtH40twy0/edit?usp=sharing
