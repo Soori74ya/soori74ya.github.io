@@ -78,8 +78,6 @@ ko:
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
     - title: 2023 몸지_박성혜 무용평론가
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
-    - title: 더프리뷰_나수진 무용평론가
-      url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
   images:
     - /assets/work/caveae/가로1.webp
     - /assets/work/caveae/가로2.webp
