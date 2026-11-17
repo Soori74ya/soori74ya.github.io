@@ -5,7 +5,7 @@ ko:
   startDate: 2025-08-14
   endDate: 2025-08-16
   venue: TINC
-  production: 황수현 제작 / 서울문화재단 후원
+  production: 2025-2026 서울문화재단 다년사업 선정작
   credit: |-
     2025
     컨셉, 안무 : 황수현
