@@ -5,7 +5,7 @@ ko:
   startDate: 2015-10-07
   endDate: 2015-10-08
   venue: 국립아시아문화전당 극장2
-  production: 국립현대무용단
+  production: 아시아무용단 창단기념 공연
   credit: |-
     콘셉트/안무: 황수현
     출연: 강호정, 공영선, Pakhamon Hemachandra, Rady Nget, Ronita Mookerji, Sabbir Ahmed Khan, Wai Shun Poon
