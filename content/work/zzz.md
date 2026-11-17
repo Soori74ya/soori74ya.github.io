@@ -37,12 +37,12 @@ ko:
 
     대학로극장 쿼드 제작 《Zzz》는 잠의 성질을 가지고 ‘감각’과 ‘공동’에 대해 이야기하는 황수현 안무가의 신작이다. 황수현은 잠을 개인적 행위의 영역을 넘어 사회적 행위의 영역에 위치시킨다. 보는 감각이 무화된 잠을 통해 대안적인 감각의 발생과 수용을 실험하고, 공동의 경험을 발생하는 장소인 ‘극장’에서 ‘극장’의 가능성을 탐구한다.
   articles:
-    - title: 대학로극장 쿼드 > [쿼드 제작] 황수현 <Zzz>
-      url: https://www.quad.or.kr/product/performance/1117
+    - title: 2023 프로그램 북
+      url: https://drive.google.com/file/d/1fUvXFiUdb2O8OeDLx5goNXcy2UA6NlNJ/view?usp=sharing
   critics:
-    - title: '황수현 안무가 〈Zzz〉: 잠을 자는 신체의 표현 혹은 상태'
+    - title: 2023 아트신_김민관
       url: https://www.artscene.co.kr/1942
-    - title: 공간, 유령의 몸, 유령의 상태_한석진_춤웹진
+    - title: 2023 춤웹진_한석진
       url: http://www.koreadance.kr/board/board_view.php?view_id=623&board_name=review&page=
     - title: '[M 트렌드 허브] 무대에서 함께 잠들기…퍼포먼스 공연 ‘Zzz’ 현장 리뷰_이승연 기자_매일경제'
       url: https://www.mk.co.kr/news/culture/10865689
