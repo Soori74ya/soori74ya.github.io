@@ -5,7 +5,7 @@ ko:
   startDate: 2014-12-18
   endDate: 2014-12-19
   venue: 서울무용센터 (구 홍은예술창작센터)
-  production: 황수현
+  production: 2014 서울문화재단 유망예술지원사업-무용 dot(dance off-theatre)
   credit: |-
     콘셉트/안무: 황수현
     출연: 강호정, 공영선, 장홍석
@@ -16,13 +16,14 @@ ko:
     무대: 김종석
     그래픽: 황미경
 
+    제작: 황수현
     후원: 서울문화재단
   description: 《저장된 실제》는 춤–공연의 관람 방식에 대한 질문에서 출발하여 공연 형식의 현장성과 일시성을 실험한 작업이다. 이 작품은 세 개의 퍼포먼스와 한 편의 영상으로 이루어져 있다. 현장에 모인 관객은 스튜디오를 이동하면서 임의적인 순서로 각각의 퍼포먼스를 관람하고, 집으로 돌아가는 길에 공연의 이미지들로 구성된 한 편의 영상을 핸드폰으로 전달받는다. 여기에서 공연을 본다는 것은 무엇을 의미하는가? 감각과 상상은 하나의 경험 안에서 어떻게 만나는가? 이미지의 재생(play)과 복원(restore)이라는 순환 고리 안에서 공연의 경계는 모호해진다.
   articles: []
   critics:
-    - title: 세 개의 스튜디오에서 펼쳐진 매력적인 세 가지 퍼포먼스, 황수현의 《저장된 실제》 - 서울무용센터 내부 비평글
+    - title: 2024 서울무용센터_심정민, 조성주, 임일진
       url: https://docs.google.com/document/d/1RV1bPtaLuQ6qU7OhBeiwddZD4z-YKmmZ1zfgIYb9yR8/edit?usp=sharing
-    - title: 아트신 김민관
+    - title: 2014 아트신_김민관
       url: https://www.artscene.co.kr/1564
   images:
     - /assets/work/stored-reality/가로1.webp
