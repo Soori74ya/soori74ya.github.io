@@ -5,7 +5,7 @@ ko:
   startDate: 2020-10-27
   endDate: 2020-10-28
   venue: 덕수궁 정관헌
-  production: 옵/신 페스티벌
+  production: 2021 옵/신 페스티벌
   credit: |-
     콘셉트/안무: 황수현
     퍼포머: 강호정, 김주영, 도윤승, 박유라, 신정민, 이현우, 황다솜
@@ -26,7 +26,9 @@ ko:
     《음 ⎯⎯》은 관객이 바깥 풍경을 내다보면서 해석의 과정을 지연하는 멈춤 상태에 머무를 수 있도록 안내한다. 함께 모여 무언가를 관람하고 의미를 찾는 과정이 잠시 정지된 이 상태는 막연하고 모호한 공백을 만들어낸다. 그 진공 속에서 관객은 불현듯 의미화 너머의 세계를 감지하기 시작한다.
   articles: []
   critics:
-    - title: 2020 음------ 리뷰
+    - title: 2020 옵/신페스티발 책_김신우
+      url: https://docs.google.com/document/d/1e7eSbFYs_0qCIzZrFfUgnsB_zZcoTd1xydPXFtoUQWM/edit?tab=t.0
+    - title: 2021 몸_ 박성혜
       url: https://docs.google.com/document/d/1jA1eMalP5OwFAahp89ZRKpl7DyXiad_uvtBFS1SIMhI/edit?usp=sharing
   images:
     - /assets/work/hmmmm/가로1.webp
