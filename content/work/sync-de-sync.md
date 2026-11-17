@@ -48,7 +48,7 @@ ko:
       url: https://cine21.com/news/view/?mag_id=108340&fbclid=PAVERFWANHNfhleHRuA2FlbQIxMQABp8GL2AAW08qgRWoR94Fq3hXg4tx8DiTQ0C7JMJlQlASEfixJpbevuvcIs5Rg_aem_NAleLyLRFw22C5l2NUkwuw
     - title: 2025 춤웹진_정옥희 무용평론가
       url: http://www.koreadance.kr/board/board_view.php?view_id=709&board_name=review&page=5
-    - title: 2026 아트신_김민관
+    - title: 2026 아트신_김민관 편집장
       url: https://www.artscene.co.kr/2356
     - title: 2026 아트인컬쳐_김지연 미술비평가
       url: https://artinculture.kr/webzine/performance
