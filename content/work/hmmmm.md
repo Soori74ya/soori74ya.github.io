@@ -1,6 +1,6 @@
 ---
 ko:
-  title: 음------
+  title: 음 ⎯⎯
   workType: Live Performance
   startDate: 2020-10-27
   endDate: 2020-10-28
