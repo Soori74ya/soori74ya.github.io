@@ -27,17 +27,17 @@ ko:
     - title: 2026 프로그램 북
       url: https://soohyunhwang.com/syncdesync/
   critics:
-    - title: 2025 서울예술지원 정보 포털_박주성
+    - title: 2025 서울예술지원 정보 포털_박주성 미술연구자
       url: https://spac.sfac.or.kr/reviews?reviewTy=REVIEW&reviewNo=24
     - title: 2025 춤웹진_정옥희 무용평론가
       url: http://www.koreadance.kr/board/board_view.php?view_id=709&board_name=review&page=5
     - title: 2025 씨네21 김신록 배우
       url: https://cine21.com/news/view/?mag_id=108340&fbclid=PAVERFWANHNfhleHRuA2FlbQIxMQABp8GL2AAW08qgRWoR94Fq3hXg4tx8DiTQ0C7JMJlQlASEfixJpbevuvcIs5Rg_aem_NAleLyLRFw22C5l2NUkwuw
-    - title: 2025 몸지_박성혜
+    - title: 2025 몸지_박성혜 무용평론가
       url: https://docs.google.com/document/d/1j9MZuqxYK-DkqvgLl2yIFt8_lBRdQnn2glSLSNAYyfI/edit?usp=sharing
     - title: 2026 아트신_김민관
       url: https://www.artscene.co.kr/2356
-    - title: 2026 아트인컬쳐
+    - title: 2026 아트인컬쳐_김지연 미술비평가
       url: https://artinculture.kr/webzine/performance
   images:
     - /assets/work/sync-de-sync/가로1.webp
