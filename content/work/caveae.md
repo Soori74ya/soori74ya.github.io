@@ -64,7 +64,7 @@ ko:
       url: https://collectivenull.com/007-2/
     - title: 2023 콜렉티브 널_조형빈 무용비평가
       url: https://collectivenull.com/006-2/
-    - title: 2023 아트신_김민관 기자
+    - title: 2023 아트신_김민관 편집장
       url: https://www.artscene.co.kr/1901
     - title: 2023 몸지_박성혜 무용평론가
       url: http://www.thepreview.co.kr/news/articleView.html?idxno=9021
