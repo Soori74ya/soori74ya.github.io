@@ -27,7 +27,9 @@ ko:
     황수현의 신작 《음 ⎯⎯》은 정관헌(靜觀軒)이라는 공간이 함의하고 있는 ‘조용히 내다본다’는 행위를 조명한다. 바라본다는 시각적 감각과 저 너머를 내다본다는 예기적 감각 사이에서 안무가는 ‘본다’는 감각 행위의 의미를 반추한다.
 
     《음 ⎯⎯》은 관객이 바깥 풍경을 내다보면서 해석의 과정을 지연하는 멈춤 상태에 머무를 수 있도록 안내한다. 함께 모여 무언가를 관람하고 의미를 찾는 과정이 잠시 정지된 이 상태는 막연하고 모호한 공백을 만들어낸다. 그 진공 속에서 관객은 불현듯 의미화 너머의 세계를 감지하기 시작한다.
-  articles: []
+  articles:
+    - title: 관객 인터뷰 영상
+      url: https://vimeo.com/527785580?share=copy&fl=cl&fe=ci
   critics:
     - title: 2020 옵/신페스티발 책_김신우
       url: https://docs.google.com/document/d/1e7eSbFYs_0qCIzZrFfUgnsB_zZcoTd1xydPXFtoUQWM/edit?tab=t.0
