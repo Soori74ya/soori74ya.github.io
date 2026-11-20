@@ -8,10 +8,10 @@ news:
     category: ''
   - start_date: 2026-11-21
     end_date: 2026-11-21
-    title: 《에디 엘리스 테이크》 히든 씬#6
+    title: 영화 《에디 엘리스 테이크》 히든 씬#6
     venue: CGV 압구정
     link: https://www.instagram.com/p/DfjjIh-E7hV/
-    category: 관객과의 대화
+    category: GV
   - start_date: 2026-10-29
     end_date: 2026-10-29
     title: 영상과 퍼포먼스에 대한 대화
@@ -23,7 +23,7 @@ news:
     title: 히히히스토리
     venue: 대학로예술극장 소극장
     link: https://theater.arko.or.kr/product/performance/259564
-    category: ''
+    category: 신작
   - start_date: 2026-08-18
     end_date: 2026-09-15
     title: 동사를 안무하기
