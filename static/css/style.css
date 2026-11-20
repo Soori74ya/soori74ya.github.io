@@ -272,6 +272,10 @@ a {
     /* text-overflow: ellipsis; */
 }
 
+.container.news ul li div:last-child {
+    text-align: end;
+}
+
 .container.work-detail main {
     grid-area: "main";
     display: grid;
