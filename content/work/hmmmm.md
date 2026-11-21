@@ -29,7 +29,7 @@ ko:
     《음 ⎯⎯》은 관객이 바깥 풍경을 내다보면서 해석의 과정을 지연하는 멈춤 상태에 머무를 수 있도록 안내한다. 함께 모여 무언가를 관람하고 의미를 찾는 과정이 잠시 정지된 이 상태는 막연하고 모호한 공백을 만들어낸다. 그 진공 속에서 관객은 불현듯 의미화 너머의 세계를 감지하기 시작한다.
   articles:
     - title: 관객 인터뷰 영상
-      url: https://vimeo.com/527785580?share=copy&fl=cl&fe=ci
+      url: https://drive.google.com/file/d/1SPGdWjaaHZv7-z7URhrz9ppC9ewI8MeO/view?usp=sharing
   critics:
     - title: 2020 옵/신페스티발 책_김신우
       url: https://docs.google.com/document/d/1e7eSbFYs_0qCIzZrFfUgnsB_zZcoTd1xydPXFtoUQWM/edit?tab=t.0
