@@ -5,19 +5,19 @@ news:
     title: 아무렇지도 않기에는 아무렇지도 않아서
     venue: 로쿠스솔루스
     link: https://www.instagram.com/p/Dfqdl_RkozB/?img_index=1
-    category: 아티스트 토크
+    category: 토크
   - start_date: 2026-11-21
     end_date: 2026-11-21
     title: 영화 《에디 엘리스 테이크》 히든 씬#6
     venue: CGV 압구정
     link: https://www.instagram.com/p/DfjjIh-E7hV/
-    category: GV
+    category: 토크
   - start_date: 2026-10-29
     end_date: 2026-10-29
     title: 영상과 퍼포먼스에 대한 대화
     venue: 서울시립미술관 서소문 본관
-    link: https://sema.seoul.go.kr/kr/whatson/landing?whenType=PAST_DAY&utm_source=chatgpt.com
-    category: 토크 프로그램
+    link: https://sema.seoul.go.kr/kr/whatson/event/detail
+    category: 토크
   - start_date: 2026-10-15
     end_date: 2026-10-17
     title: 히히히스토리
@@ -62,7 +62,7 @@ news:
     category: 워크숍
   - start_date: 2026-03-26
     end_date: 2026-03-29
-    title: '극장의 다음: 다가올 낯선 감각들, 파빌리온 72 - 협업작'
+    title: '《파빌리온 72》 - 극장의 다음: 다가올 낯선 감각들,'
     venue: 더 줌아트센터, 국립극단
     link: https://www.ntck.or.kr/ko/content/board/notice/50668/form
     category: 쇼케이스
@@ -117,7 +117,7 @@ news:
   - start_date: 2024-12-30
     end_date: ''
     title: 신유물론 패러다임 속 춤의 존재론과 정치학 - 한석진
-    venue: 한국무용예술학회, 한석진
+    venue: 한국무용예술학회
     link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003150228&utm_source=chatgpt.com
     category: 논문
   - start_date: 2024-10-11
@@ -152,7 +152,7 @@ news:
     category: 신작
   - start_date: 2023-10-31
     end_date: ''
-    title: '카베에 『카베에: 언/아카이브』'
+    title: '『카베에: 언/아카이브』'
     venue: 국립현대무용단
     link: https://kncdc.kr/ko/news/noticeDetail?boardMasterSeq=5&boardSeq=1845&pgm=notice
     category: 출판
@@ -170,7 +170,7 @@ news:
     category: 신작
   - start_date: 2022-12-15
     end_date: ''
-    title: 명사적 안무에서 동사적 안무로 ‘살아있는 순간’을 조직하기 - 글 황수현
+    title: 명사적 안무에서 동사적 안무로 ‘살아있는 순간’을 조직하기 - 황수현
     venue: 춤인
     link: http://choomin.sfac.or.kr/zoom/zoom_view.asp?zom_idx=835&div=01&type=VW&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnudyyrI6Nh-xkkKQqxdhqxg0Z3SqH7wcGGkfoqCmncaZTW-XYOzhlFAtUlkg_aem_D_oopHKhmkliW3z2CCPwGA
     category: 기고
@@ -183,7 +183,7 @@ news:
   - start_date: 2022-06-21
     end_date: ''
     title: 검정감각
-    venue: Korean Cultural Centre UK
+    venue: Korean Cultural Centre UK, The Place, 런던
     link: https://londonkoreanlinks.net/2022/03/29/k-dance-2022-soo-hyun-hwang-sense-of-darkness-yun-jung-lee-tongue-gymnastics/
     category: 재공연
   - start_date: 2022-04-30
