@@ -62,7 +62,7 @@ news:
     category: 워크숍
   - start_date: 2026-03-26
     end_date: 2026-03-29
-    title: '《파빌리온 72》 - 극장의 다음: 다가올 낯선 감각들,'
+    title: '《파빌리온 72》 - 극장의 다음: 다가올 낯선 감각들'
     venue: 더 줌아트센터, 국립극단
     link: https://www.ntck.or.kr/ko/content/board/notice/50668/form
     category: 쇼케이스
@@ -80,8 +80,8 @@ news:
     category: 인터뷰
   - start_date: 2025-10-24
     end_date: ''
-    title: 무용X 기술랩 Ai-iA
-    venue: 서계동 , 국립현대무용단
+    title: 무용X기술랩 Ai-iA
+    venue: 서계동,국립현대무용단
     link: https://www.instagram.com/p/DO79Gl8k6Nb/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 퍼포먼스+렉처
   - start_date: 2025-08-14
@@ -92,13 +92,13 @@ news:
     category: 신작
   - start_date: 2025-08-14
     end_date: 2025-08-14
-    title: 여기서 저기를 상상하며, 남상화
+    title: 여기서 저기를 상상하며 · 남상화
     venue: Performative writing
     link: https://performativewriting.com/?p=64
     category: 인터뷰
   - start_date: 2025-08-06
     end_date: ''
-    title: Special Feature No.3 매체로서의 신체, 관객과 무대 사이 - 조형빈
+    title: Special Feature No.3 매체로서의 신체, 관객과 무대 사이 · 조형빈
     venue: 월간 퍼블릭 아트
     link: https://m.artinpost.co.kr/product/detail.html?product_no=5522&cate_no=0&display_group=1
     category: 비평
@@ -110,13 +110,13 @@ news:
     category: 레지던시
   - start_date: 2025-02-01
     end_date: ''
-    title: '무용공연 장소에서 기억의 작동 논의: 황수현의 「음------ 」을 중심으로 - 박성혜'
+    title: '무용공연 장소에서 기억의 작동 논의: 황수현의 「음------ 」을 중심으로 · 박성혜'
     venue: 대한무용학회
     link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003181486&utm_source=chatgpt.com
     category: 논문
   - start_date: 2024-12-30
     end_date: ''
-    title: 신유물론 패러다임 속 춤의 존재론과 정치학 - 한석진
+    title: 신유물론 패러다임 속 춤의 존재론과 정치학 · 한석진
     venue: 한국무용예술학회
     link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003150228&utm_source=chatgpt.com
     category: 논문
@@ -170,7 +170,7 @@ news:
     category: 신작
   - start_date: 2022-12-15
     end_date: ''
-    title: 명사적 안무에서 동사적 안무로 ‘살아있는 순간’을 조직하기 - 황수현
+    title: 명사적 안무에서 동사적 안무로 ‘살아있는 순간’을 조직하기 · 황수현
     venue: 춤인
     link: http://choomin.sfac.or.kr/zoom/zoom_view.asp?zom_idx=835&div=01&type=VW&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnudyyrI6Nh-xkkKQqxdhqxg0Z3SqH7wcGGkfoqCmncaZTW-XYOzhlFAtUlkg_aem_D_oopHKhmkliW3z2CCPwGA
     category: 기고
@@ -224,8 +224,8 @@ news:
     category: 워크숍
   - start_date: 2021-02-01
     end_date: ''
-    title: 「퍼포먼스 아카이빙 방안 연구」 - 주선영
-    venue: RISS
+    title: 「퍼포먼스 아카이빙 방안 연구」 · 주선영
+    venue: 명지대학교 기록정보과학전문대학원
     link: https://m.riss.kr/search/detail/DetailView.do?control_no=d590a072ad77f04fffe0bdc3ef48d419&p_mat_type=be54d9b8bc7cdb09&utm_source=chatgpt.com
     category: 논문
   - start_date: 2020-11-18
@@ -249,7 +249,7 @@ news:
   - start_date: 2019-12-18
     end_date: 2019-12-21
     title: 나는 그 사람이 느끼는 것을 생각한다
-    venue: 원앤제이 갤러리, 안민혜 기획
+    venue: 원앤제이 갤러리
     link: https://www.artbava.com/exhibits/%EC%9A%A9%EA%B8%B0%EC%99%80-%EC%8B%9C-courage-and-poem
     category: 재공연
   - start_date: 2019-10-10
@@ -273,18 +273,18 @@ news:
   - start_date: 2018-05-02
     end_date: 2018-05-06
     title: 우는 감각
-    venue: 원앤제이갤러리
+    venue: 원앤제이 갤러리
     link: https://www.artbava.com/exhibits/%ED%99%A9%EC%88%98%ED%98%84-%EC%9A%B0%EB%8A%94-%EA%B0%90%EA%B0%81-soohyun-hwang-crying-sense
     category: 신작
   - start_date: 2017-06-10
     end_date: ''
-    title: I want to cry but I'm not sad-Solo version
+    title: I want to cry, but I'm not sad-Solo version
     venue: 광주 바림(BARIM)
     link: https://barimart.wordpress.com/archive/
     category: 레지던시
   - start_date: 2017-02-23
     end_date: 2017-02-23
-    title: 'Walking Talking: 뉴욕 거리 토크 2017 SDC-MR 교환 프로그램, 장혜진- 황수현 대화'
+    title: 'Walking Talking: 뉴욕 거리 토크 2017 SDC-MR 교환 프로그램 · 장혜진- 황수현 대화'
     venue: 춤인
     link: http://choomin.sfac.or.kr/zoom/zoom_view.asp?type=OUT&zom_idx=162&div=ZOMIO01001
     category: 대담
@@ -306,12 +306,6 @@ news:
     venue: 서울무용센터
     link: https://www.newsis.com/view/NISX20160408_0014010301?utm_source=chatgpt.com
     category: 재공연
-  - start_date: 2015-04-01
-    end_date: 2015-04-01
-    title: '표현주의를 넘어서: 폭발적인 몸(explosive body) - 글 김재리'
-    venue: K Contemporary 3
-    link: https://docs.google.com/document/d/1LExv6hVVqTlB0KL5FqMfx6ogA52iGDhz1TRirFpoxY4/edit?usp=drive_link
-    category: 비평
   - start_date: 2015-11-13
     end_date: ''
     title: For it to end
@@ -327,9 +321,15 @@ news:
   - start_date: 2015-07-24
     end_date: 2015-07-25
     title: For it to end
-    venue: ''
+    venue: ST Spot, 요코하마
     link: https://www.nibroll.com/dance-in-asia_2015_en.html?utm_source=chatgpt.com
     category: 재공연
+  - start_date: 2015-04-01
+    end_date: 2015-04-01
+    title: '표현주의를 넘어서: 폭발적인 몸(explosive body) · 김재리'
+    venue: K Contemporary 3
+    link: https://docs.google.com/document/d/1LExv6hVVqTlB0KL5FqMfx6ogA52iGDhz1TRirFpoxY4/edit?usp=drive_link
+    category: 비평
   - start_date: 2015-03-27
     end_date: 2015-04-19
     title: 저장된 실제
@@ -380,32 +380,32 @@ news:
     category: 재공연
   - start_date: 2012-11-10
     end_date: 2012-11-12
-    title: 'Co-Lab : Seoul- Berlin'
+    title: 'Co-Lab: Seoul-Berlin'
     venue: Festival Tokyo
     link: https://www.festival-tokyo.jp/12/koubo_result_1st/?utm_source=chatgpt.com
     category: 재공연
   - start_date: 2012-10-20
     end_date: ''
     title: Face to Face
-    venue: (전) 한국공연예술센터, Yokohama Arts Foundation
+    venue: 한국공연예술센터, Yokohama Arts Foundation
     link: https://ameblo.jp/ydcr/entry-11382328771.html
     category: 재공연
   - start_date: 2012-03-16
     end_date: 2012-03-17
-    title: 'Co-Lab : Seoul- Berlin'
-    venue: 한국문화예술위원회 (전)한국공연예술센터
+    title: 'Co-Lab: Seoul-Berlin'
+    venue: 한국공연예술센터
     link: https://soohyunhwang.wordpress.com/2012/03/12/co-lab-seoul-berlin-2012-hanpac-rising-star/
     category: 재공연
   - start_date: 2012-01-19
     end_date: ''
-    title: 'Co-Lab : Seoul- Berlin'
-    venue: 한국문화예술위원회 (전) 한국공연예술센터
+    title: 'Co-Lab: Seoul-Berlin'
+    venue: 한국공연예술센터
     link: http://www.newstage.co.kr/news/articleView.html?idxno=13944
     category: 신작
   - start_date: 2011-05-25
     end_date: 2012-01-31
-    title: 공연예술인큐베이팅프로그램 안무가 분야
-    venue: 한국문화예술위원회 (전)한국공연예술센터
+    title: 차세대 안무가 클래스
+    venue: 한국공연예술센터·문화예술기획 이오공감
     link: https://www.arko.or.kr/board/view/4053?bid&cid=12801&sf_icon_category&utm_source=chatgpt.com
     category: 인큐베이팅
 layout: news
