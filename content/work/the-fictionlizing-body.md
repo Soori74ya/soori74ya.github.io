@@ -22,6 +22,8 @@ ko:
       url: https://www.artscene.co.kr/1540
     - title: 2014 춤웹진_김민관
       url: http://koreadance.kr/board/board_view.php?view_id=8&board_name=memory&page=14
+    - title: 2014 춤웹진_김인아
+      url: https://blog.naver.com/dancewebzine/220020674241
   images: []
 en:
   title: The Fictionalizing Body
