@@ -63,7 +63,7 @@ news:
   - start_date: 2026-03-26
     end_date: 2026-03-29
     title: '《파빌리온 72》 - 극장의 다음: 다가올 낯선 감각들'
-    venue: 더 줌아트센터, 국립극단
+    venue: 더 줌아트센터 · 국립극단
     link: https://www.ntck.or.kr/ko/content/board/notice/50668/form
     category: 쇼케이스
   - start_date: 2026-03-12
@@ -81,7 +81,7 @@ news:
   - start_date: 2025-10-24
     end_date: ''
     title: 무용X기술랩 Ai-iA
-    venue: 서계동,국립현대무용단
+    venue: 서계동 · 국립현대무용단
     link: https://www.instagram.com/p/DO79Gl8k6Nb/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 퍼포먼스+렉처
   - start_date: 2025-08-14
@@ -98,7 +98,7 @@ news:
     category: 인터뷰
   - start_date: 2025-08-06
     end_date: ''
-    title: Special Feature No.3 매체로서의 신체, 관객과 무대 사이 · 조형빈
+    title: Special Feature No.3 - 매체로서의 신체, 관객과 무대 사이 · 조형빈
     venue: 월간 퍼블릭 아트
     link: https://m.artinpost.co.kr/product/detail.html?product_no=5522&cate_no=0&display_group=1
     category: 비평
@@ -129,7 +129,7 @@ news:
   - start_date: 2024-09-28
     end_date: 2024-10-06
     title: P와 함께 춤을
-    venue: LG아트센터, 크리에이티브 VaQi
+    venue: LG아트센터 · 크리에이티브 VaQi
     link: https://www.lgart.com/product/performance/252821
     category: 출연
   - start_date: 2024-08-28
@@ -159,13 +159,13 @@ news:
   - start_date: 2023-09-20
     end_date: 2023-09-24
     title: 나는 그 사람이 느끼는 것을 생각한다
-    venue: 국립현대미술관
+    venue: 서울 지하1층, MMCA 다원공간 · 국립현대미술관
     link: https://www.mmca.go.kr/events/eventsDetail.do?menuId=0000000000&eduId=202309050000347
     category: 재공연
   - start_date: 2023-04-07
     end_date: 2023-04-09
     title: 카베에
-    venue: 국립현대무용단, 국립극장
+    venue: 국립극장 · 국립현대무용단 ·
     link: https://kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info
     category: 신작
   - start_date: 2022-12-15
@@ -189,7 +189,7 @@ news:
   - start_date: 2022-04-30
     end_date: 2022-05-03
     title: 저장된 실제
-    venue: 전주국제영화제
+    venue: 전주 CGV · 전주국제영화제
     link: https://2026archive.jeonjufest.kr/db/movieView.asp?idx=BFE6ADA35B79404AA&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=0&reUrl=%2Fdb%2FmovieList%2Easp%3FsType%3D%26sText%3D%26EP%5FNUM%3D0%26sectionList%3D%26nationList%3D%26genreList%3D%26Page%3D34
     category: 상영
   - start_date: 2021-12-24
@@ -207,7 +207,7 @@ news:
   - start_date: 2021-07-09
     end_date: 2021-07-11
     title: 검정감각360
-    venue: 국립현대무용단
+    venue: 예술의전당 자유소극장 · 국립현대무용단
     link: https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1305&pgm=info#
     category: 재공연
   - start_date: 2021-06-06
@@ -236,14 +236,14 @@ news:
     category: 재공연
   - start_date: 2020-10-27
     end_date: 2020-10-28
-    title: 음------
-    venue: 덕수궁 정관헌, 옵/신 페스티벌
+    title: 음 ───
+    venue: 덕수궁 정관헌 · 옵/신 페스티벌
     link: https://ob-scene.com/festival-2020/
     category: 신작
   - start_date: 2020-07-10
     end_date: 2020-07-12
     title: 검정감각360
-    venue: 국립현대무용단
+    venue: 예술의전당 자유소극장 · 국립현대무용단
     link: https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1182&pgm=info#
     category: 재공연
   - start_date: 2019-12-18
@@ -255,13 +255,13 @@ news:
   - start_date: 2019-10-10
     end_date: ''
     title: 검정감각
-    venue: 서울국제공연예술제
+    venue: 대학로예술극장 소극장 · 서울국제공연예술제
     link: https://spaf.or.kr/2026/spaf/past.php
     category: 신작
   - start_date: 2019-07-10
     end_date: 2019-07-13
     title: 나는 그 사람이 느끼는 것을 생각한다
-    venue: 신촌극장, 변방연극제
+    venue: 신촌극장 · 변방연극제
     link: https://www.instagram.com/p/BzP2PCwhrT5/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 재공연
   - start_date: 2019-02-13
@@ -296,8 +296,8 @@ news:
     category: 레지던시
   - start_date: 2016-09-24
     end_date: 2016-10-01
-    title: I want to cry but I'm not sad
-    venue: 국립현대무용단, 국립현대미술관
+    title: I want to cry, but I'm not sad
+    venue: 국립현대무용단· 국립현대미술관
     link: https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?menuId=1030000000&exhId=201608020000472&exhFlag=2
     category: 신작
   - start_date: 2016-04-06
@@ -313,9 +313,9 @@ news:
     link: https://interchange.criticalpath.org.au/artists/2015-artists/soo-hyun-hwang/
     category: 레지던시
   - start_date: 2015-10-18
-    end_date: ''
-    title: Special Combination
-    venue: Melbourne Festival, Asian Creative Labs in Melbourne
+    end_date: 2015-10-24
+    title: Special Combination — Asian Creative Labs
+    venue: Arts Centre Melbourne · Melbourne Festival
     link: ''
     category: 워크숍
   - start_date: 2015-07-24
