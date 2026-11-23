@@ -5,7 +5,7 @@ news:
     title: 아무렇지도 않기에는 아무렇지도 않아서
     venue: 로쿠스솔루스
     link: https://www.instagram.com/p/Dfqdl_RkozB/?img_index=1
-    category: ''
+    category: 아티스트 토크
   - start_date: 2026-11-21
     end_date: 2026-11-21
     title: 영화 《에디 엘리스 테이크》 히든 씬#6
@@ -17,7 +17,7 @@ news:
     title: 영상과 퍼포먼스에 대한 대화
     venue: 서울시립미술관 서소문 본관
     link: https://sema.seoul.go.kr/kr/whatson/landing?whenType=PAST_DAY&utm_source=chatgpt.com
-    category: ''
+    category: 토크 프로그램
   - start_date: 2026-10-15
     end_date: 2026-10-17
     title: 히히히스토리
@@ -29,73 +29,73 @@ news:
     title: 동사를 안무하기
     venue: 이음 예술창작아카데미
     link: https://ac.ieum.or.kr/program/program.php?ptype=view&idx=1156&page=1&code=program&status=A&education=2
-    category: ''
+    category: 워크숍
   - start_date: 2026-08-05
     end_date: 2026-08-13
     title: 어긋남에 머무르기
     venue: 리움 미술관
     link: https://www.leeumhoam.org/leeum/edu/program/1690?params=Y
-    category: ''
+    category: 워크숍
   - start_date: 2026-07-20
     end_date: 2026-07-20
     title: 느린 축적이 빚어낸 감각의 미학, 심정민
     venue: 댄스포스트코리아
     link: https://dancepostkorea.com/new/board/work/dancer_view.php?b_idx=978&page=1&search_part=b_title&search_dancer=
-    category: ''
+    category: 작가론
   - start_date: 2026-07-16
     end_date: 2026-07-19
     title: 싱크 디 싱크
     venue: TINC
     link: https://www.instagram.com/p/DZ2FkZhgTH_/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
-    category: ''
+    category: 재공연
   - start_date: 2026-06-01
     end_date: ''
     title: 랑시에르의 ‘환경(milieu)’ 개념을 통한 안무의 매체성 연구 — 황수현의 작품을 중심으로, 백인경
     venue: 한국미학회
     link: https://kiss.kstudy.com/Detail/Ar?key=4259698
-    category: ''
+    category: 논문
   - start_date: 2026-05-20
     end_date: 2026-05-28
     title: Attuning Bodies
     venue: 국립현대무용단 댄스하우스
     link: https://www.instagram.com/p/DVKlekhEwkh/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
-    category: ''
+    category: 워크숍
   - start_date: 2026-03-26
     end_date: 2026-03-29
     title: '극장의 다음: 다가올 낯선 감각들, 파빌리온 72'
     venue: 더 줌아트센터, 국립극단
     link: https://www.ntck.or.kr/ko/content/board/notice/50668/form
-    category: ''
+    category: 협력작
   - start_date: 2026-03-12
     end_date: 2026-03-15
     title: 세계
     venue: 서서울미술관 전시실1
     link: https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1494700
-    category: ''
+    category: 신작
   - start_date: 2026-03-11
     end_date: ''
     title: '안무하는 AI, 사유하는 신체: 〈Ai-iA〉가 탐색하는 ‘이분법 너머’의 가능성 -01'
     venue: 엘리스 온
     link: https://aliceon.co.kr/%EC%95%88%EB%AC%B4%ED%95%98%EB%8A%94-ai-%EC%82%AC%EC%9C%A0%ED%95%98%EB%8A%94-%EC%8B%A0%EC%B2%B4-%E3%80%88ai-ia%E3%80%89%EA%B0%80-%ED%83%90%EC%83%89%ED%95%98%EB%8A%94-%EC%9D%B4%EB%B6%84/
-    category: ''
+    category: 인터뷰
   - start_date: 2025-10-24
     end_date: ''
     title: 무용X 기술랩 Ai-iA
     venue: 서계동 , 국립현대무용단
     link: https://www.instagram.com/p/DO79Gl8k6Nb/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
-    category: ''
+    category: 퍼포먼스+렉처
   - start_date: 2025-08-14
     end_date: 2025-08-16
     title: 싱크 디 싱크
     venue: TINC
     link: https://www.instagram.com/p/DMMwA-ypxh0/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
-    category: ''
+    category: 신작
   - start_date: 2025-08-14
     end_date: 2025-08-14
     title: 여기서 저기를 상상하며, 남상화
     venue: Performative writing
     link: https://performativewriting.com/?p=64
-    category: ''
+    category: 인터뷰
   - start_date: 2025-08-06
     end_date: ''
     title: Special Feature No.3 매체로서의 신체, 관객과 무대 사이, 조형빈
@@ -107,13 +107,13 @@ news:
     title: Choreographic Residency 2025
     venue: Footnote company
     link: https://www.footnote.org.nz/news/residency-soohyunhwang
-    category: ''
+    category: 레지던시
   - start_date: 2025-02-01
     end_date: ''
-    title: '무용공연 장소에서 기억의 작동 논의: 황수현의 「음------ 」을 중심으로, 박성혜'
+    title: '무용공연 장소에서 기억의 작동 논의: 황수현의 「음------ 」을 중심으로 - 글 박성혜'
     venue: 대한무용학회
     link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003181486&utm_source=chatgpt.com
-    category: ''
+    category: 논문
   - start_date: 2024-12-30
     end_date: ''
     title: 신유물론 패러다임 속 춤의 존재론과 정치학, 한석진
