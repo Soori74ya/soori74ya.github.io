@@ -62,10 +62,10 @@ news:
     category: 워크숍
   - start_date: 2026-03-26
     end_date: 2026-03-29
-    title: '극장의 다음: 다가올 낯선 감각들, 파빌리온 72'
+    title: '극장의 다음: 다가올 낯선 감각들, 파빌리온 72 - 협업작'
     venue: 더 줌아트센터, 국립극단
     link: https://www.ntck.or.kr/ko/content/board/notice/50668/form
-    category: 협력작
+    category: 쇼케이스
   - start_date: 2026-03-12
     end_date: 2026-03-15
     title: 세계
@@ -98,7 +98,7 @@ news:
     category: 인터뷰
   - start_date: 2025-08-06
     end_date: ''
-    title: Special Feature No.3 매체로서의 신체, 관객과 무대 사이, 조형빈
+    title: Special Feature No.3 매체로서의 신체, 관객과 무대 사이 - 조형빈
     venue: 월간 퍼블릭 아트
     link: https://m.artinpost.co.kr/product/detail.html?product_no=5522&cate_no=0&display_group=1
     category: 비평
@@ -125,7 +125,7 @@ news:
     title: 프로토타입/토크 2024 무용X기술 프로토타입 공유회
     venue: 아트코리아랩, 국립현대무용단
     link: https://spaf.or.kr/2024/workshop/workshop_view03.php
-    category: 렉처
+    category: 발표
   - start_date: 2024-09-28
     end_date: 2024-10-06
     title: P와 함께 춤을
