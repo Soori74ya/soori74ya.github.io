@@ -316,7 +316,7 @@ news:
     end_date: 2015-10-24
     title: Special Combination — Asian Creative Labs
     venue: Arts Centre Melbourne · Melbourne Festival
-    link: ''
+    link: https://drive.google.com/file/d/1YAScRPH3n-zLLyfMbWkcPeg4d7UaXd6w/view?usp=drive_link
     category: 워크숍
   - start_date: 2015-07-24
     end_date: 2015-07-25
