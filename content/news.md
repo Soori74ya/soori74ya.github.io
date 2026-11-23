@@ -16,7 +16,7 @@ news:
     end_date: 2026-10-29
     title: 영상과 퍼포먼스에 대한 대화
     venue: 서울시립미술관 서소문 본관
-    link: https://sema.seoul.go.kr/kr/whatson/event/detail
+    link: https://sema.seoul.go.kr/kr/whatson/event/detail?evtNo=1597684
     category: 토크
   - start_date: 2026-10-15
     end_date: 2026-10-17
@@ -38,7 +38,7 @@ news:
     category: 워크숍
   - start_date: 2026-07-20
     end_date: 2026-07-20
-    title: 느린 축적이 빚어낸 감각의 미학 - 심정민
+    title: 느린 축적이 빚어낸 감각의 미학 · 심정민
     venue: 댄스포스트코리아
     link: https://dancepostkorea.com/new/board/work/dancer_view.php?b_idx=978&page=1&search_part=b_title&search_dancer=
     category: 작가론
@@ -50,7 +50,7 @@ news:
     category: 재공연
   - start_date: 2026-06-01
     end_date: ''
-    title: 랑시에르의 ‘환경(milieu)’ 개념을 통한 안무의 매체성 연구 — 황수현의 작품을 중심으로 - 백인경
+    title: 랑시에르의 ‘환경(milieu)’ 개념을 통한 안무의 매체성 연구 — 황수현의 작품을 중심으로 · 백인경
     venue: 한국미학회
     link: https://kiss.kstudy.com/Detail/Ar?key=4259698
     category: 논문
