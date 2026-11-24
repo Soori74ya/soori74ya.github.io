@@ -37,7 +37,7 @@ ko:
   critics:
     - title: 2020 옵/신페스티발 책_김신우
       url: https://docs.google.com/document/d/1e7eSbFYs_0qCIzZrFfUgnsB_zZcoTd1xydPXFtoUQWM/edit?tab=t.0
-    - title: 2021 몸_ 박성혜
+    - title: 2021 몸_박성혜
       url: https://docs.google.com/document/d/1jA1eMalP5OwFAahp89ZRKpl7DyXiad_uvtBFS1SIMhI/edit?usp=sharing
   images:
     - /assets/work/hmmmm/가로1.webp
