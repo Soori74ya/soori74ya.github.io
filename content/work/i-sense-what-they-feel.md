@@ -17,8 +17,10 @@ ko:
 
     관객의 반응은 신체적/생리적 차원에서 출발하여 정서적 공감으로 발전되어 가고, 이러한 일련의 반응 과정 자체가 퍼포먼스가 된다. 관객은 퍼포머의 행동에 직간접적으로 반응하거나 다른 관객의 반응을 지각함으로써 공감과 전이의 피드백 루프에 참여하게 된다.
   articles:
-    - title: 2020 온라인 공연 하이라이트
+    - title: 2020 온라인 공연 하이라이트 영상
       url: https://www.youtube.com/watch?v=HzoMrPEU-RM
+    - title: 2020 온라인 공연 사전예고 영상
+      url: https://www.youtube.com/watch?v=-l71wj89qyQ
   critics:
     - title: 2019 아트신_김민관 편집장
       url: https://www.artscene.co.kr/1715
