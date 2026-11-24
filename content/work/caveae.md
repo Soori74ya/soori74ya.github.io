@@ -51,18 +51,18 @@ ko:
   articles:
     - title: 프로그램 북
       url: https://drive.google.com/file/d/1nE0nNs3kVyR7Ezht4fm4AEn2-cSlY8Xb/view?usp=sharing
-    - title: 작업기록
+    - title: 작업기록 글
       url: https://blog.naver.com/ntok2010/223751623169
     - title: '카베에: 언/아카이브 책'
       url: https://drive.google.com/file/d/1-fIKdaunB3K7ujtixdZqv3tCZB9SZhS_/view?usp=sharing
-    - title: 국립현대무용단 홈페이지
-      url: https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info#
     - title: 티저 영상
-      url: https://youtu.be/FDZYaedD2-s?si=Qq-3UPPsw0CAn77T
+      url: https://www.youtube.com/watch?v=FDZYaedD2-s
     - title: 무대 스케치 영상
       url: https://www.youtube.com/watch?v=ZSwNLB0c-w0
     - title: 공연 하이라이트 영상
       url: https://drive.google.com/file/d/1uSzExLN6UQpyu9N-7_caf4gVI-t9DS5c/view?usp=drive_link
+    - title: 국립현대무용단 홈페이지
+      url: https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info#
   critics:
     - title: 2023 콜렉티브 널_하은빈
       url: https://collectivenull.com/008-2/
