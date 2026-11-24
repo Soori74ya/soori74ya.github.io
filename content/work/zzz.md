@@ -37,6 +37,8 @@ ko:
       url: https://drive.google.com/file/d/1fUvXFiUdb2O8OeDLx5goNXcy2UA6NlNJ/view?usp=sharing
     - title: SFAC Theater QUAD Homepage
       url: https://www.quad.or.kr/product/performance/1117
+    - title: Artist interview
+      url: https://www.youtube.com/watch?v=s39og7eaaCs
   critics:
     - title: 2023 콜렉티브 널_이혜령
       url: https://collectivenull.com/009-2/
