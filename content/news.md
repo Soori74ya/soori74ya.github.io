@@ -41,7 +41,7 @@ news:
     title: 느린 축적이 빚어낸 감각의 미학 · 심정민
     venue: 댄스포스트코리아
     link: https://dancepostkorea.com/new/board/work/dancer_view.php?b_idx=978&page=1&search_part=b_title&search_dancer=
-    category: 작가론
+    category: 비평
   - start_date: 2026-07-16
     end_date: 2026-07-19
     title: 싱크 디 싱크
@@ -57,7 +57,7 @@ news:
   - start_date: 2026-05-20
     end_date: 2026-05-28
     title: Attuning Bodies
-    venue: 국립현대무용단 댄스하우스
+    venue: 댄스하우스, 국립현대무용단
     link: https://www.instagram.com/p/DVKlekhEwkh/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 워크숍
   - start_date: 2026-03-26
@@ -74,7 +74,7 @@ news:
     category: 신작
   - start_date: 2026-03-11
     end_date: ''
-    title: '안무하는 AI, 사유하는 신체: 〈Ai-iA〉가 탐색하는 ‘이분법 너머’의 가능성 -01'
+    title: "안무하는 AI, 사유하는 신체: 〈Ai-iA〉가 탐색하는 ‘이분법 너머’의 가능성'"
     venue: 엘리스 온
     link: https://aliceon.co.kr/%EC%95%88%EB%AC%B4%ED%95%98%EB%8A%94-ai-%EC%82%AC%EC%9C%A0%ED%95%98%EB%8A%94-%EC%8B%A0%EC%B2%B4-%E3%80%88ai-ia%E3%80%89%EA%B0%80-%ED%83%90%EC%83%89%ED%95%98%EB%8A%94-%EC%9D%B4%EB%B6%84/
     category: 인터뷰
