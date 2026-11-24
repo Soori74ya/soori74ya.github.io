@@ -111,7 +111,7 @@ residencies:
 education_workshops:
   - description_kr: 한국예술종합학교 무용원 창작과 강사
     description_en: Instructor, Department of Choreography, School of Dance, Korea National University of Arts
-    year: '2026'
+    year: 2026–
   - description_kr: '이:음 예술창작아카데미 《감각LAB_움직임: 동사를 안무하기》 워크숍 진행'
     description_en: 'Workshop Leader, “Sensory LAB—Movement: Choreographing Verbs”, I:EUM Creative Academy'
     year: '2026'
