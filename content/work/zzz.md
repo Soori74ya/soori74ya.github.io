@@ -35,12 +35,10 @@ ko:
 
     대학로극장 쿼드 제작인 \<Zzz>는 잠의 성질을 가지고 ‘감각’과 ‘공동’에 대해 이야기하는 황수현 안무가의 신작이다. 잠은 인간뿐 아니라 비인간 개체들이 생명을 유지하기 위해 수행하는 필수적인 활동이며, 인간은 잠을 자는 동안 신체를 재구성하고, 경험했던 세계의 기억을 저장하며 세계와의 연결성을 구축해 나간다. 안무가는 잠자는 행위의 취약성, 무방향성, 비선형적, 비가시적 특성에 주목하며, 약해진 의식 안에서 몸의 경직성을 풀고 타인의 몸을 만나는 경험을 만들어 낸다. 지극히 사적 영역의 행위인 잠은 ‘함께 잠자기'의 공동 경험을 통해 사회적 행위로 확장된다. 또한, 보는 행위와 감각의 수용을 연습하는 장소로서 극장의 가능성을 탐구해 왔던 안무가는 \<Zzz>에서 관객의 보는 행위를 무화(無化)시키고, 적극적으로 잠의 세계로 이끌며, 대안의 감각을 넘어 공동의 감각을 구축해나간다.
   articles:
-    - title: 2023 프로그램 북
+    - title: 프로그램 북
       url: https://drive.google.com/file/d/1fUvXFiUdb2O8OeDLx5goNXcy2UA6NlNJ/view?usp=sharing
     - title: 서울문화재단 극장 쿼드 홈페이지
       url: https://www.quad.or.kr/product/performance/1117
-    - title: 인터뷰 영상
-      url: https://www.youtube.com/watch?v=s39og7eaaCs
   critics:
     - title: 2023 콜렉티브 널_이혜령
       url: https://collectivenull.com/009-2/
