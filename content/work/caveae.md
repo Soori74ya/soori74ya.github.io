@@ -57,6 +57,10 @@ ko:
       url: https://drive.google.com/file/d/1-fIKdaunB3K7ujtixdZqv3tCZB9SZhS_/view?usp=sharing
     - title: 국립현대무용단 홈페이지
       url: https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info#
+    - title: 티저 영상
+      url: https://youtu.be/FDZYaedD2-s?si=Qq-3UPPsw0CAn77T
+    - title: 무대 스케치 영상
+      url: https://www.youtube.com/watch?v=ZSwNLB0c-w0
     - title: 공연 하이라이트 영상
       url: https://drive.google.com/file/d/1uSzExLN6UQpyu9N-7_caf4gVI-t9DS5c/view?usp=drive_link
   critics:
