@@ -23,7 +23,7 @@ ko:
     사진 이지영, 이동웅, 서울시립 서서울미술관
   description: 《세계》는 기류와 에너지처럼 보이지 않는 대상을 다룹니다. 미술관의 공간을 따라 흐르는 신체들은 불안정한 환경 속에서 물질과 비가시적인 감각의 흐름을 조율하며, 그 사이에서 관객은 익숙한 지형에서 벗어난 세계를 사유합니다.
   articles:
-    - title: Seo-Seoul Museum of Art Opening Exhibition SeMA Performance Breathing
+    - title: SeMa Performance Homepage
       url: https://sema-performance.kr/title?s=se-gye
   critics:
     - title: 2026 춤웹진_김혜라 무용평론가
