@@ -4,8 +4,8 @@ ko:
   workType: Live Performance
   startDate: 2023-10-31
   endDate: 2023-11-12
-  venue: 서울문화재단 극장쿼드
-  production: 대학로극장 쿼드 제작
+  venue: 대학로 극장 쿼드
+  production: 서울문화재단 대학로극장 쿼드
   credit: |-
     컨셉·안무 : 황수현
     공동 리서치·퍼포먼스 : 강호정, 김주영, 김현우, 문형수, 정한별, 황다솜, 황수현
@@ -25,8 +25,6 @@ ko:
     무대팀 : 김학준, 정지훈
     리허설 보조 : 정나원
     사진 : 오석근
-
-    제작 : 서울문화재단 극장 쿼드
   description: |-
     잠의 공동 감각
     함께 잠자기
