@@ -31,7 +31,19 @@ ko:
 
     제작: 국립현대무용단
   description: 《검정감각360》은 2019년 초연된 《검정감각》의 확장판으로, 안무가 황수현은 이번 공연에서 소리의 울림과 자취를 통해 공간의 깊이와 무게, 밀도, 텍스처의 층위를 더하고자 한다. 관객은 눈을 감은 퍼포머의 시선으로 무대 공간을 감지하고, 이때 눈이 아니라 피부에 닿는 미세한 촉각 자극으로 감응하는 공연을 제안받는다. 안무가는 극장 공간에 퍼지는 소리와 잔음, 진동을 통해 객석에 기묘한 멀미감이 번지도록 의도하였다. 여기서 관객은 익숙하지만 낯선 ‘검정감각’을 경험하게 된다.
-  articles: []
+  articles:
+    - title: 2020 프로그램 북
+      url: https://drive.google.com/file/d/1q02mHnRuCjbzkrc73LsZd8n3Qh4LRZJ8/view?usp=drive_link
+    - title: 2020 인터뷰 영상
+      url: https://www.youtube.com/watch?v=Nmlwpbm0tCU
+    - title: 2020 공연 하이라이트 영상
+      url: https://youtu.be/2iGBKKnAzi8?si=Xm3pvIwPHpOUHVlA
+    - title: 2021 프로그램 북
+      url: https://drive.google.com/file/d/1rEZy5S0l4QQvS1Si4tfYIff63t-zlS_0/view?usp=sharing
+    - title: 2021 트레일러 영상
+      url: https://youtu.be/6nw29uTmpOY?si=HhBzdXSaVA9LZoR0
+    - title: 2021 공연 하이라이트 영상
+      url: https://youtu.be/5ctVvh6ULX0?si=DscaBwTeiMTAZUhj
   critics:
     - title: 2021 춤웹진_김혜라 무용비평가
       url: http://koreadance.kr/board/board_view.php?view_id=486&board_name=review
