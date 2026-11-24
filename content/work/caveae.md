@@ -49,19 +49,19 @@ ko:
 
     《카베에》는 극장의 무대 위로 관객의 자리를 이동하고, 그 가운데 39인의 무용수가 참여하는 대규모 군무를 선보인다. 존재 각각이 지닌 고유한 리듬과 색채를 기반으로 고안된 군무는 그 연결과 조율 안에서 떨림과 열림, 울림을 일으키며 ‘공동’에 대한 감각의 지형을 펼쳐 낸다. 이러한 하모니가 창출하는 다공적이고 다성적인 공간성은 관객을 미지의 영역으로 안내하는 통로를 마련한다. 그 틈새에서 진동하는 몸의 감각을 통해, 가시적 영역 너머로 도약하는 시선의 가능성을 더듬어 볼 수 있는 공연이다.
   articles:
-    - title: 프로그램 북
+    - title: Program book
       url: https://drive.google.com/file/d/1nE0nNs3kVyR7Ezht4fm4AEn2-cSlY8Xb/view?usp=sharing
-    - title: 작업기록 글
+    - title: Process Documentation
       url: https://blog.naver.com/ntok2010/223751623169
-    - title: '카베에: 언/아카이브 책'
+    - title: 'Publication - caveae: un/archive'
       url: https://drive.google.com/file/d/1-fIKdaunB3K7ujtixdZqv3tCZB9SZhS_/view?usp=sharing
-    - title: 티저 영상
+    - title: Teaser
       url: https://www.youtube.com/watch?v=FDZYaedD2-s
-    - title: 무대 스케치 영상
+    - title: Stage Preview
       url: https://www.youtube.com/watch?v=ZSwNLB0c-w0
-    - title: 공연 하이라이트 영상
+    - title: Performance Highlights
       url: https://drive.google.com/file/d/1uSzExLN6UQpyu9N-7_caf4gVI-t9DS5c/view?usp=drive_link
-    - title: 국립현대무용단 홈페이지
+    - title: KNCDC Hompage
       url: https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1684&pgm=info#
   critics:
     - title: 2023 콜렉티브 널_하은빈
