@@ -20,9 +20,9 @@ ko:
     후원: 서울문화재단
   description: 《저장된 실제》는 춤–공연의 관람 방식에 대한 질문에서 출발하여 공연 형식의 현장성과 일시성을 실험한 작업이다. 이 작품은 세 개의 퍼포먼스와 한 편의 영상으로 이루어져 있다. 현장에 모인 관객은 스튜디오를 이동하면서 임의적인 순서로 각각의 퍼포먼스를 관람하고, 집으로 돌아가는 길에 공연의 이미지들로 구성된 한 편의 영상을 핸드폰으로 전달받는다. 여기에서 공연을 본다는 것은 무엇을 의미하는가? 감각과 상상은 하나의 경험 안에서 어떻게 만나는가? 이미지의 재생(play)과 복원(restore)이라는 순환 고리 안에서 공연의 경계는 모호해진다.
   articles:
-    - title: 2015 페스티벌 봄 트레일러
+    - title: 2015 Festival Bo:m Trailer
       url: https://www.youtube.com/watch?v=peiJs_zEFjo
-    - title: 2022 전주국제영화제 트레일러
+    - title: 2022 Jeonju International Film Festival Trailer
       url: https://www.youtube.com/watch?v=nEyNl_juGDw
   critics:
     - title: 2024 서울무용센터_심정민, 조성주, 임일진
