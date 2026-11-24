@@ -140,6 +140,9 @@ education_workshops:
     description_en: Instructor, Department of Theater Arts, Anyang Arts High School
     year: 2000–2006
 choreography:
+  - description_kr: 《히히히스토리》, 서울국제공연예술제 초청작, 대학로예술극장 소극장
+    description_en: ''
+    year: '2026'
   - description_kr: 〈sync de sync〉, 서울문화재단 예술창작활동지원(다년) 선정 프로젝트, TINC (This Is Not a Church)
     description_en: “Sync de Sync” — Selected for the Seoul Foundation for Arts and Culture’s multi-year Arts Creation Support program, TINC (This Is Not a Church)
     year: '2026'
