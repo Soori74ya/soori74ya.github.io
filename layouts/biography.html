@@ -7,19 +7,23 @@
                 <section class="biography-title">
                     <p>황수현 Hwang Soo Hyun</p>
                 </section>
-                
+
                 <section>
                     <div>
-                        <span data-lang="ko">{{ .Params.bio_kr | markdownify }}</span>
-                        <span data-lang="en">{{ .Params.bio_en | markdownify }}</span>
+                        <span data-lang="ko"
+                            >{{ .Params.bio_kr | markdownify }}</span
+                        >
+                        <span data-lang="en"
+                            >{{ .Params.bio_en | markdownify }}</span
+                        >
                     </div>
                 </section>
-                
+
                 <section>
                     <p>
                         <span data-lang="ko">경력</span>
                         <span data-lang="en">Professional Experience</span>
-                    </p>   
+                    </p>
                     <hr />
                     <ul>
                         {{ range .Params.experience }}
@@ -40,7 +44,7 @@
                     <p>
                         <span data-lang="ko">수상</span>
                         <span data-lang="en">Awards</span>
-                    </p>                    
+                    </p>
                     <hr />
                     <ul>
                         {{ range .Params.awards }}
@@ -59,7 +63,7 @@
 
                 <section>
                     <p>
-                        <span data-lang="ko">레지던시숍</span>
+                        <span data-lang="ko">레지던시</span>
                         <span data-lang="en">Residencies</span>
                     </p>
                     <hr />
@@ -123,7 +127,9 @@
                 <section>
                     <p>
                         <span data-lang="ko">협업 및 협력 프로젝트</span>
-                        <span data-lang="en">Collaborative & Cooperative Projects</span>
+                        <span data-lang="en"
+                            >Collaborative & Cooperative Projects</span
+                        >
                     </p>
                     <hr />
                     <ul>

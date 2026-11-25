@@ -354,7 +354,8 @@ a {
 }
 
 .container.biography .description {
-    white-space: wrap overflow: hidden;
+    white-space: wrap;
+    overflow: hidden;
 }
 
 .biography-title {

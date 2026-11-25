@@ -8,53 +8,79 @@
                     <div class="top-container">
                         <div>
                             <p class="title">
-                                {{ .Params.ko.title }}{{ if ne .Params.ko.title .Params.en.title }} {{ .Params.en.title }}{{ end }}
+                                {{ .Params.ko.title }}{{ if ne .Params.ko.title .Params.en.title }}
+                                    {{ .Params.en.title }}
+                                {{ end }}
                             </p>
-                            <p class="workType" data-lang="ko">{{ .Params.ko.workType }}</p>
-                            <p class="workType" data-lang="en">{{ .Params.en.workType }}</p>    
+                            <p class="workType" data-lang="ko">
+                                {{ .Params.ko.workType }}
+                            </p>
+                            <p class="workType" data-lang="en">
+                                {{ .Params.en.workType }}
+                            </p>
                             <p class="date">
-                                {{ time .Params.ko.startDate | time.Format "2006.01.02" }}{{ with .Params.ko.endDate }}{{ if ne ($.Params.ko.startDate | time.Format "2006.01.02") (time.Format "2006.01.02" .) }}-{{ time.Format "02" . }}{{ end }}{{ end }}
+                                {{ time .Params.ko.startDate | time.Format "2006.01.02" }}{{ with .Params.ko.endDate }}
+                                    {{ if ne ($.Params.ko.startDate | time.Format "2006.01.02") (time.Format "2006.01.02" .) }}
+                                        -{{ time.Format "02" . }}
+                                    {{ end }}
+                                {{ end }}
                             </p>
-                            <p class="venue" data-lang="ko">{{ .Params.ko.venue }}</p>
-                            <p class="venue" data-lang="en">{{ .Params.en.venue }}</p>
-                            <p class="production" data-lang="ko">{{ .Params.ko.production }}</p>
-                            <p class="production" data-lang="en">{{ .Params.en.production }}</p>
+                            <p class="venue" data-lang="ko">
+                                {{ .Params.ko.venue }}
+                            </p>
+                            <p class="venue" data-lang="en">
+                                {{ .Params.en.venue }}
+                            </p>
+                            <p class="production" data-lang="ko">
+                                {{ .Params.ko.production }}
+                            </p>
+                            <p class="production" data-lang="en">
+                                {{ .Params.en.production }}
+                            </p>
                         </div>
 
                         <div>
-                            <span class="description" data-lang="ko">{{ .Params.ko.description | markdownify }}</span>
-                            <span class="description" data-lang="en">{{ .Params.en.description | markdownify }}</span>
+                            <span class="description" data-lang="ko"
+                                >{{ .Params.ko.description | markdownify }}</span
+                            >
+                            <span class="description" data-lang="en"
+                                >{{ .Params.en.description | markdownify }}</span
+                            >
                         </div>
 
                         <div>
-                            <span class="credit" data-lang="ko">{{ .Params.ko.credit | markdownify }}</span>
-                            <span class="credit" data-lang="en">{{ .Params.en.credit | markdownify }}</span>
+                            <span class="credit" data-lang="ko"
+                                >{{ .Params.ko.credit | markdownify }}</span
+                            >
+                            <span class="credit" data-lang="en"
+                                >{{ .Params.en.credit | markdownify }}</span
+                            >
                         </div>
                     </div>
 
-                {{ if .Params.ko.articles }}
-                <div class="articles-container">
-                    <ul>
-                        {{ range .Params.ko.articles }}
-                            <li>
-                                <a href="{{ .url }}">{{ .title }}</a>
-                            </li>
-                        {{ end }}
-                    </ul>
-                </div>
-                {{ end }}
+                    {{ if .Params.ko.articles }}
+                        <div class="articles-container">
+                            <ul>
+                                {{ range .Params.ko.articles }}
+                                    <li>
+                                        <a href="{{ .url }}">{{ .title }}</a>
+                                    </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    {{ end }}
 
-                {{ if .Params.ko.critics }}
-                <div class="critics-container">
-                    <ul>
-                        {{ range .Params.ko.critics }}
-                            <li>
-                                <a href="{{ .url }}">{{ .title }}</a>
-                            </li>
-                        {{ end }}
-                    </ul>
-                </div>
-                {{ end }}
+                    {{ if .Params.ko.critics }}
+                        <div class="critics-container">
+                            <ul>
+                                {{ range .Params.ko.critics }}
+                                    <li>
+                                        <a href="{{ .url }}">{{ .title }}</a>
+                                    </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    {{ end }}
                 </div>
                 <div class="right">
                     {{ range .Params.ko.images }}
