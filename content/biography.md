@@ -16,11 +16,11 @@ bio_en: |-
 
   Her major works include 《SE GYE》(2026), 《Sync de Sync》(2025), 《Zzz》(2023), and 《caveae》(2023). She received the Choreography Award at the 27th Dance Arts Awards in 2021 for 《Hmmmm》 and a Commendation from the Minister of Culture, Sports and Tourism in 2020. 《Sense of Darkness》 received the Korean Association of Dance Critics’ Best Work Award for 2019.
 experience:
-  - description_kr: 2026 spaf 협력 아티스트
-    description_en: 2026 spaf
-    year: '2026'
+  - description_kr: 2025-2026 spaf 협력 아티스트
+    description_en: 2025–2026 Associate Artist, Seoul Performing Arts Festival (SPAF)
+    year: 2025-2026
   - description_kr: 서울시립 서서울미술관 개관특별전 세마 퍼포먼스 《호흡》 초청 작가
-    description_en: ''
+    description_en: Gallery 1, B1, Seo-Seoul Museum of Art  Seo-Seoul Museum of Art Opening Exhibition SeMA Performance Breathing
     year: '2026'
   - description_kr: 서울문화재단 대학로극장쿼드 제작 초청 안무가
     description_en: Invited Choreographer — Daehangno Theater QUAD Production, Seoul Foundation for Arts & Culture, Seoul
