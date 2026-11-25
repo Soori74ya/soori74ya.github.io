@@ -5,10 +5,7 @@ ko:
   startDate: 2020-10-27
   endDate: 2020-10-28
   venue: 덕수궁 정관헌
-  production: |-
-    2020 옵/신 페스티벌 / 
-
-    제27회 무용예술상 안무상 수상작
+  production: 2020 옵/신 페스티벌 /
   awards: 제27회 무용예술상 안무상 수상작
   credit: |-
     콘셉트/안무: 황수현
