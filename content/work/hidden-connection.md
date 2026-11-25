@@ -6,6 +6,7 @@ ko:
   endDate: 2015-10-08
   venue: 국립아시아문화전당 극장2
   production: 아시아무용단 창단기념 공연
+  awards: 아시아무용단 창단기념 공연
   credit: |-
     콘셉트/안무: 황수현
     출연: 강호정, 공영선, Pakhamon Hemachandra, Rady Nget, Ronita Mookerji, Sabbir Ahmed Khan, Wai Shun Poon
@@ -37,6 +38,7 @@ ko:
     - /assets/work/hidden-connection/세로3.webp
     - /assets/work/hidden-connection/세로4.webp
     - /assets/work/hidden-connection/세로5.webp
+  videos: []
 en:
   title: Hidden Connection
   workType: Live Performance
@@ -44,6 +46,7 @@ en:
   endDate: 2015-10-08
   venue: 국립아시아문화전당 극장2
   production: Korea National Contemporary Dance Company
+  awards: ''
   credit: |-
     Concept/Choreography: Hwang Soohyun
     Performers: Kang Hojung, Gong Youngsun, Pakhamon Hemachandra, Rady Nget, Ronita Mookerji, Sabbir Ahmed Khan, Wai Shun Poon
