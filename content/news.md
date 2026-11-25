@@ -81,7 +81,7 @@ news:
   - start_date: 2025-10-24
     end_date: ''
     title: KNCDC 무용X기술랩 Ai-iA
-    venue: 서계동
+    venue: 서계동 옛 국립극단 사무동 3층
     link: https://www.instagram.com/p/DO79Gl8k6Nb/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 퍼포먼스+렉처
   - start_date: 2025-08-14
@@ -120,18 +120,18 @@ news:
     venue: 한국무용예술학회
     link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003150228&utm_source=chatgpt.com
     category: 논문
-  - start_date: 2024-10-11
-    end_date: ''
-    title: KNCDC 프로토타입/토크 2024 무용X기술 프로토타입 공유회
-    venue: 아트코리아랩
-    link: https://spaf.or.kr/2024/workshop/workshop_view03.php
-    category: 발표
   - start_date: 2024-09-28
     end_date: 2024-10-06
     title: P와 함께 춤을
     venue: LG아트센터 · 크리에이티브 VaQi
     link: https://www.lgart.com/product/performance/252821
     category: 출연
+  - start_date: 2024-10-11
+    end_date: ''
+    title: KNCDC 프로토타입/토크 2024 무용X기술 프로토타입 공유회
+    venue: 아트코리아랩
+    link: https://spaf.or.kr/2024/workshop/workshop_view03.php
+    category: 발표
   - start_date: 2024-08-28
     end_date: ''
     title: 'KNCDC 무용X기술 창작랩 프로토타입: AI 콜라보레이터 X Archive'
@@ -404,8 +404,8 @@ news:
     category: 신작
   - start_date: 2011-05-25
     end_date: 2012-01-31
-    title: 차세대 안무가 클래스
-    venue: 한국공연예술센터·문화예술기획 이오공감
+    title: '공연예술인큐베이팅프로그램 : 차세대 안무가 클래스'
+    venue: 한국공연예술센터
     link: https://www.arko.or.kr/board/view/4053?bid&cid=12801&sf_icon_category&utm_source=chatgpt.com
     category: 인큐베이팅
 layout: news
