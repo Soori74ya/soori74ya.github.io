@@ -5,7 +5,7 @@ ko:
   startDate: 2020-07-10
   endDate: 2020-07-12
   venue: 예술의 전당 자유소극장
-  production: 국립현대무용단 스텝업
+  production: 국립현대무용단
   awards: 스텝업 프로그램
   credit: |-
     콘셉트/안무: 황수현
