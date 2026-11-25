@@ -6,6 +6,7 @@ ko:
   endDate: 2020-07-12
   venue: 예술의 전당 자유소극장
   production: 국립현대무용단 스텝업
+  awards: 스텝업 프로그램
   credit: |-
     콘셉트/안무: 황수현
     출연: 강호정, 나연우, 박유라, 황다솜
@@ -60,6 +61,7 @@ ko:
     - /assets/work/sense-of-darkness360/세로2.webp
     - /assets/work/sense-of-darkness360/세로3.webp
     - /assets/work/sense-of-darkness360/세로4.webp
+  videos: []
 en:
   title: Sense of Darkness 360
   workType: Live Performance
@@ -67,6 +69,7 @@ en:
   endDate: 2020-07-12
   venue: Seoul Arts Center Jayu Theater
   production: Korea National Contemporary Dance Company
+  awards: ''
   credit: |-
     Choreography: Hwang Soohyun
     Dance: Kang Hojung, Na Yeonwoo, Park Yura, Hwang Dasom
