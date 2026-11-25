@@ -5,7 +5,8 @@ ko:
   startDate: 2023-10-31
   endDate: 2023-11-12
   venue: 대학로 극장 쿼드
-  production: 서울문화재단 대학로극장 쿼드
+  production: 서울문화재단 대학로극장 쿼드 제작
+  awards: ''
   credit: |-
     컨셉·안무 : 황수현
     공동 리서치·퍼포먼스 : 강호정, 김주영, 김현우, 문형수, 정한별, 황다솜, 황수현
@@ -61,6 +62,7 @@ ko:
     - /assets/work/zzz/가로7_서울문화재단 제공.webp
     - /assets/work/zzz/가로8_서울문화재단 제공.webp
     - /assets/work/zzz/가로9_오석근.webp
+  videos: []
 en:
   title: Zzz
   workType: Live Performance
@@ -70,6 +72,7 @@ en:
   production: |-
     Co-Sponsors: Korea National Contemporary Dance Company, National Theater of Korea
     Produced by: Korea National Contemporary Dance Company
+  awards: ''
   credit: |-
     Concept / Choreography: Hwang Soo Hyun
     Collaborative Research / Performance: Kang Hojung, Kim Jooyoung, Kim Hyunwoo, Moon Hyungsoo, Jeong Hanbyeol, Hwang Dasom, Hwang Soohyun
