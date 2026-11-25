@@ -6,6 +6,7 @@ ko:
   endDate: 2019-10-10
   venue: 대학로예술극장 소극장
   production: 2019 서울국제공연예술제 / 2019 한국춤비평가협회 베스트 작품상
+  awards: ''
   credit: |-
     2019
     콘셉트/안무: 황수현
@@ -25,9 +26,9 @@ ko:
     콘셉트/안무: 황수현
     크리에이티브 어시스턴트: 손나예
     출연: 강호정, 나연우, 박유라, 황다솜
-    무대감독: 이율
     사운드: 강안나
     조명 디자인: 공연화
+    무대감독: 이율
     프로듀서: 박초아
   description: 개인의 경험으로 저장된 신체감각이 타인의 신체를 통해 공유될 수 있는지 실험하는 작업이다. 퍼포머들은 시각을 차단하고 소리를 사용해 공간과 자신들의 위치를 감지한다. 이들의 움직임과 소리는 관객의 신체적 경험을 자극하며, 타인의 감각적 경험이 개인의 경험과 어떻게 연결될 수 있는지 탐구한다.
   articles:
@@ -47,6 +48,7 @@ ko:
     - /assets/work/sense-of-darkness/세로1_Festival of Korean Dance_ ⓒKIN YUM.webp
     - /assets/work/sense-of-darkness/세로2_2019 SPAF _ ⓒ옥상훈.webp
     - /assets/work/sense-of-darkness/세로3_2019 SPAF _ ⓒ옥상훈.webp
+  videos: []
 en:
   title: Sense of Darkness
   workType: Live Performance
@@ -54,6 +56,7 @@ en:
   endDate: 2019-10-10
   venue: Daehakro Arts Theater Small Theater
   production: Seoul Performing Arts Festival 2019
+  awards: ''
   credit: |-
     Concept/Choreography: Hwang Soohyun
     Creative Assistant: Son Naye
