@@ -5,7 +5,8 @@ ko:
   startDate: 2026-03-12
   endDate: 2026-03-15
   venue: 서서울미술관 전시실1
-  production: 서울시립 서서울미술관 개관특별전 세마 퍼포먼스 《호흡》
+  production: 서울시립 서서울미술관
+  awards: 서울시립 서서울미술관 개관특별전 세마 퍼포먼스 《호흡》 초청작
   credit: |-
     컨셉,안무 : 황수현
     조안무 : 강호정
@@ -46,6 +47,7 @@ ko:
     - /assets/work/세계-SE-GYE/세로2_이동웅.webp
     - /assets/work/세계-SE-GYE/세로3_이지영.webp
     - /assets/work/세계-SE-GYE/세로4_최형락.webp
+  videos: []
 en:
   title: SE GYE
   workType: Live Performance
@@ -53,6 +55,7 @@ en:
   endDate: 2026-03-15
   venue: Gallery 1, B1, Seo-Seoul Museum of Art
   production: Seo-Seoul Museum of Art Opening Exhibition SeMA Performance Breathing
+  awards: ''
   credit: |-
     Choreography/Concept : Hwang Soohyun
     Assistant Choreography : Kang Hojung
