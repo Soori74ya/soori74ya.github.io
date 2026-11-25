@@ -5,7 +5,12 @@ ko:
   startDate: 2019-02-12
   endDate: 2019-02-16
   venue: 신촌극장
-  production: '2019 신촌극장 라인업, 2019 변방연극제, 2019 전시 용기와시, 2020 서울국제공연예술제, 국립현대미술관 다원예술 2023: 전자적 숲; 소진된 인간'
+  production: 2019 신촌극장 라인업
+  awards: |-
+    2019 변방연극제
+    2019 전시 용기와시
+    2020 서울국제공연예술제
+    2023 국립현대미술관 다원예술 2023: 전자적 숲; 소진된 인간
   credit: |-
     2019 신촌라인업
     안무/콘셉트: 황수현
@@ -62,6 +67,7 @@ ko:
     - /assets/work/i-sense-what-they-feel/세로1_조현우.webp
     - /assets/work/i-sense-what-they-feel/세로2_조현우.webp
     - /assets/work/i-sense-what-they-feel/세로4_조현우.webp
+  videos: []
 en:
   title: I Sense What They Feel
   workType: Live Performance
@@ -69,6 +75,7 @@ en:
   endDate: 2019-02-16
   venue: Sinchon Theater
   production: Hwang Soohyun
+  awards: ''
   credit: |-
     Choreography/Concept: Hwang Soohyun
     Collaborative Research: Kang Hojung, Park Yura, Hwang Dasom
