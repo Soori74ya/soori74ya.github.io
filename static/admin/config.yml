@@ -154,6 +154,17 @@ collections:
         multiple: true
         required: false
 
+      - name: videos
+        label: 영상
+        hint: YouTube 영상 URL을 입력하세요.
+        widget: list
+        required: false
+        field:
+          name: url
+          label: URL
+          widget: string
+          type: text
+
   - name: biography
     label: Biography
     files:

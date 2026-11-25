@@ -109,6 +109,24 @@
                     {{ range .Params.ko.images }}
                         <img src="{{ . }}" alt="" />
                     {{ end }}
+                    {{ range .Params.ko.videos }}
+                        {{ $url := urls.Parse . }}
+                        {{ $videoID := "" }}
+
+                        {{ if eq $url.Hostname "youtu.be" }}
+                            {{ $videoID = strings.TrimPrefix "/" $url.Path }}
+                        {{ else }}
+                            {{ $videoID = $url.Query.Get "v" }}
+                        {{ end }}
+
+                        {{ if $videoID }}
+                            <iframe
+                                src="https://www.youtube.com/embed/{{ $videoID }}"
+                                allowfullscreen
+                            >
+                            </iframe>
+                        {{ end }}
+                    {{ end }}
                 </div>
             </main>
         </div>
