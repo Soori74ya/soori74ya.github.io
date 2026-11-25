@@ -2,7 +2,7 @@
 news:
   - start_date: 2026-11-22
     end_date: 2026-11-22
-    title: 아무렇지도 않기에는 아무렇지도 않아서
+    title: '<농담과 유머: 미학적 작동으로서의 코미디 PART Ⅱ> 아무렇지도 않기에는 아무렇지도 않아서'
     venue: 로쿠스솔루스
     link: https://www.instagram.com/p/Dfqdl_RkozB/?img_index=1
     category: 토크
@@ -14,25 +14,25 @@ news:
     category: 토크
   - start_date: 2026-10-29
     end_date: 2026-10-29
-    title: 영상과 퍼포먼스에 대한 대화
+    title: '2026-27 SeMA 비평연구 프로젝트 토크 프로그램: 영상과 퍼포먼스에 대한 대화'
     venue: 서울시립미술관 서소문 본관
     link: https://sema.seoul.go.kr/kr/whatson/event/detail?evtNo=1597684
     category: 토크
   - start_date: 2026-10-15
     end_date: 2026-10-17
-    title: 히히히스토리
+    title: SPAF 히히히스토리
     venue: 대학로예술극장 소극장
     link: https://theater.arko.or.kr/product/performance/259564
     category: 신작
   - start_date: 2026-08-18
     end_date: 2026-09-15
-    title: 동사를 안무하기
+    title: '[감각LAB_움직임] 동사를 안무하기'
     venue: 이음 예술창작아카데미
     link: https://ac.ieum.or.kr/program/program.php?ptype=view&idx=1156&page=1&code=program&status=A&education=2
     category: 워크숍
   - start_date: 2026-08-05
     end_date: 2026-08-13
-    title: 어긋남에 머무르기
+    title: 감각 너머 2026 워크숍 <어긋남에 머무르기>
     venue: 리움 미술관
     link: https://www.leeumhoam.org/leeum/edu/program/1690?params=Y
     category: 워크숍
@@ -56,19 +56,19 @@ news:
     category: 논문
   - start_date: 2026-05-20
     end_date: 2026-05-28
-    title: Attuning Bodies
-    venue: 댄스하우스, 국립현대무용단
+    title: 국립현대무용단 전문 무용수 대상 오픈 클래스 <Attuning Bodies>
+    venue: KNCDC 댄스하우스
     link: https://www.instagram.com/p/DVKlekhEwkh/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 워크숍
   - start_date: 2026-03-26
     end_date: 2026-03-29
-    title: '《파빌리온 72》 - 극장의 다음: 다가올 낯선 감각들'
-    venue: 더 줌아트센터 · 국립극단
+    title: '국립극단 [창작트랙 180°]의 세 번째 프로젝트 《파빌리온 72》 - 극장의 다음: 다가올 낯선 감각들'
+    venue: 더 줌아트센터
     link: https://www.ntck.or.kr/ko/content/board/notice/50668/form
     category: 쇼케이스
   - start_date: 2026-03-12
     end_date: 2026-03-15
-    title: 세계
+    title: '서울시립 서서울미술관 개관특별전 세마 퍼포먼스 《호흡》 : 세계'
     venue: 서서울미술관 전시실1
     link: https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1494700
     category: 신작
@@ -80,8 +80,8 @@ news:
     category: 인터뷰
   - start_date: 2025-10-24
     end_date: ''
-    title: 무용X기술랩 Ai-iA
-    venue: 서계동 · 국립현대무용단
+    title: KNCDC 무용X기술랩 Ai-iA
+    venue: 서계동
     link: https://www.instagram.com/p/DO79Gl8k6Nb/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 퍼포먼스+렉처
   - start_date: 2025-08-14
@@ -122,8 +122,8 @@ news:
     category: 논문
   - start_date: 2024-10-11
     end_date: ''
-    title: 프로토타입/토크 2024 무용X기술 프로토타입 공유회
-    venue: 아트코리아랩, 국립현대무용단
+    title: KNCDC 프로토타입/토크 2024 무용X기술 프로토타입 공유회
+    venue: 아트코리아랩
     link: https://spaf.or.kr/2024/workshop/workshop_view03.php
     category: 발표
   - start_date: 2024-09-28
@@ -134,19 +134,19 @@ news:
     category: 출연
   - start_date: 2024-08-28
     end_date: ''
-    title: AI 콜라보레이터 X Archive
-    venue: 국립현대무용단
+    title: 'KNCDC 무용X기술 창작랩 프로토타입: AI 콜라보레이터 X Archive'
+    venue: KNCDC 댄스하우스
     link: https://www.instagram.com/p/C-of6pLyIqk/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 렉처
   - start_date: 2024-06-18
     end_date: ''
-    title: '리허설의 발견: 꿈틀대는 레퍼런스 붙들기'
+    title: '<Open References> 리허설의 발견: 꿈틀대는 레퍼런스 붙들기'
     venue: d/p 갤러리
     link: https://www.instagram.com/p/C8EkL_Lph45/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 발표
   - start_date: 2023-10-31
     end_date: 2023-11-12
-    title: Zzz
+    title: '[쿼드 제작] Zzz'
     venue: 서울문화재단 대학로극장 쿼드
     link: https://www.quad.or.kr/product/performance/1117
     category: 신작
@@ -158,9 +158,9 @@ news:
     category: 출판
   - start_date: 2023-09-20
     end_date: 2023-09-24
-    title: 나는 그 사람이 느끼는 것을 생각한다
+    title: 다원예술 2023 «전자적 숲; 소진된 인간» 나는 그 사람이 느끼는 것을 생각한다
     venue: 서울 지하1층, MMCA 다원공간 · 국립현대미술관
-    link: https://www.mmca.go.kr/events/eventsDetail.do?menuId=0000000000&eduId=202309050000347
+    link: https://www.mmca.go.kr/events/eventsDetail.do?menuId=0000000000&eduId=202308300000343
     category: 재공연
   - start_date: 2023-04-07
     end_date: 2023-04-09
@@ -170,13 +170,13 @@ news:
     category: 신작
   - start_date: 2022-12-15
     end_date: ''
-    title: 명사적 안무에서 동사적 안무로 ‘살아있는 순간’을 조직하기 · 황수현
+    title: '상설기획: 안무론_동시대 안무 개념의 형상들: 명사적 안무에서 동사적 안무로 ‘살아있는 순간’을 조직하기 · 황수현'
     venue: 춤인
     link: http://choomin.sfac.or.kr/zoom/zoom_view.asp?zom_idx=835&div=01&type=VW&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnudyyrI6Nh-xkkKQqxdhqxg0Z3SqH7wcGGkfoqCmncaZTW-XYOzhlFAtUlkg_aem_D_oopHKhmkliW3z2CCPwGA
     category: 기고
   - start_date: 2022-07-16
     end_date: 2022-09-04
-    title: 느낌안무
+    title: '[창작랩] 느낌안무'
     venue: 서울무용센터
     link: https://www.instagram.com/p/CcNBHTEpSK1/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 워크숍
