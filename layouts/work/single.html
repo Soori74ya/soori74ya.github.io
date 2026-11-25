@@ -25,18 +25,41 @@
                                     {{ end }}
                                 {{ end }}
                             </p>
-                            <p class="venue" data-lang="ko">
-                                {{ .Params.ko.venue }}
-                            </p>
-                            <p class="venue" data-lang="en">
-                                {{ .Params.en.venue }}
-                            </p>
-                            <p class="production" data-lang="ko">
-                                {{ .Params.ko.production }}
-                            </p>
-                            <p class="production" data-lang="en">
-                                {{ .Params.en.production }}
-                            </p>
+
+                            {{ if .Params.ko.venue }}
+                                <p class="venue" data-lang="ko">
+                                    {{ .Params.ko.venue }}
+                                </p>
+                            {{ end }}
+
+                            {{ if .Params.en.venue }}
+                                <p class="venue" data-lang="en">
+                                    {{ .Params.en.venue }}
+                                </p>
+                            {{ end }}
+
+                            {{ if .Params.ko.production }}
+                                <p class="production" data-lang="ko">
+                                    {{ .Params.ko.production }}
+                                </p>
+                            {{ end }}
+
+                            {{ if .Params.en.production }}
+                                <p class="production" data-lang="en">
+                                    {{ .Params.en.production }}
+                                </p>
+                            {{ end }}
+
+                            {{ if .Params.ko.awards }}
+                                <p class="awards" data-lang="ko">
+                                    {{ .Params.ko.awards }}
+                                </p>
+                            {{ end }}
+                            {{ if .Params.en.awards }}
+                                <p class="awards" data-lang="en">
+                                    {{ .Params.en.awards }}
+                                </p>
+                            {{ end }}
                         </div>
 
                         <div>

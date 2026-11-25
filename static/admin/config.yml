@@ -103,6 +103,12 @@ collections:
         required: false
         i18n: true
 
+      - name: awards
+        label: 수상 내역
+        widget: text
+        required: false
+        i18n: true
+
       - name: credit
         label: 크레딧
         widget: richtext
