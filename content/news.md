@@ -170,7 +170,7 @@ news:
     category: 신작
   - start_date: 2022-12-15
     end_date: ''
-    title: '상설기획: 안무론_동시대 안무 개념의 형상들: 명사적 안무에서 동사적 안무로 ‘살아있는 순간’을 조직하기 · 황수현'
+    title: '안무론_동시대 안무 개념의 형상들: 명사적 안무에서 동사적 안무로 ‘살아있는 순간’을 조직하기 · 황수현'
     venue: 춤인
     link: http://choomin.sfac.or.kr/zoom/zoom_view.asp?zom_idx=835&div=01&type=VW&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnudyyrI6Nh-xkkKQqxdhqxg0Z3SqH7wcGGkfoqCmncaZTW-XYOzhlFAtUlkg_aem_D_oopHKhmkliW3z2CCPwGA
     category: 기고
@@ -182,43 +182,43 @@ news:
     category: 워크숍
   - start_date: 2022-06-21
     end_date: ''
-    title: 검정감각
+    title: A Festival of Korean Dance 2022 《검정감각》
     venue: Korean Cultural Centre UK, The Place, 런던
     link: https://londonkoreanlinks.net/2022/03/29/k-dance-2022-soo-hyun-hwang-sense-of-darkness-yun-jung-lee-tongue-gymnastics/
     category: 재공연
   - start_date: 2022-04-30
     end_date: 2022-05-03
-    title: 저장된 실제
-    venue: 전주 CGV · 전주국제영화제
+    title: 전주국제영화제 《저장된 실제》
+    venue: 전주 CGV
     link: https://2026archive.jeonjufest.kr/db/movieView.asp?idx=BFE6ADA35B79404AA&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=0&reUrl=%2Fdb%2FmovieList%2Easp%3FsType%3D%26sText%3D%26EP%5FNUM%3D0%26sectionList%3D%26nationList%3D%26genreList%3D%26Page%3D34
     category: 상영
   - start_date: 2021-12-24
     end_date: 2021-12-24
-    title: 안무가 황수현의 신체를 감각하고 그것을 공유하는 방식들
+    title: '[2021리딩 땐싱–감각하는 신체] 안무가 황수현의 신체를 감각하고 그것을 공유하는 방식들'
     venue: 댄스&미디어연구소
     link: https://www.youtube.com/watch?v=o06aK9TgiUE
     category: 인터뷰
   - start_date: 2021-08-18
     end_date: ''
-    title: 무용X기술 창작랩
+    title: KNCDC 무용X기술 창작랩
     venue: 국립현대무용단
     link: https://www.instagram.com/p/CTg51laJl_H/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 발표
   - start_date: 2021-07-09
     end_date: 2021-07-11
-    title: 검정감각360
-    venue: 예술의전당 자유소극장 · 국립현대무용단
+    title: KNCDC Step up 《검정감각360》
+    venue: 예술의전당 자유소극장
     link: https://www.kncdc.kr/ko/performance/detail?boardMasterSeq=1&boardSeq=1305&pgm=info#
     category: 재공연
   - start_date: 2021-06-06
     end_date: 2021-09-12
-    title: 느낌-안무
+    title: 서울국제안무워크숍X안무렉처시리즈 《느낌-안무》
     venue: 서울무용센터
     link: https://www.instagram.com/p/CO1WRNnJLMi/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 워크숍
   - start_date: 2021-03-10
     end_date: 2021-03-18
-    title: Movement re-search
+    title: '[상반기] 전문 무용수 대상 오픈 클래스 : Movement re-search'
     venue: 국립현대무용단
     link: https://www.instagram.com/p/CbJR2VRvWBg/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
     category: 워크숍
@@ -230,8 +230,8 @@ news:
     category: 논문
   - start_date: 2020-11-18
     end_date: ''
-    title: 나는 그 사람이 느끼는 것을 생각한다
-    venue: 서울국제공연예술제
+    title: SPAF 나는 그 사람이 느끼는 것을 생각한다
+    venue: 온라인
     link: https://spaf.or.kr/2020_eng/program/program_view06.php
     category: 재공연
   - start_date: 2020-10-27
