@@ -5,7 +5,8 @@ ko:
   startDate: 2012-01-19
   endDate: 2012-01-19
   venue: 아르코소극장
-  production: 한국문화예술위원회, 한팩 라이징스타, 2012 도쿄페스티벌 초청작
+  production: 2012 한팩 라이징스타
+  awards: 2012 도쿄페스티벌 초청작
   credit: |-
     기획: 황수현
     공동안무: 임지애, 황수현
@@ -29,6 +30,7 @@ ko:
     - /assets/work/co-lab-seoul-berlin/세로3_옥상훈.webp
     - /assets/work/co-lab-seoul-berlin/세로4_옥상훈.webp
     - /assets/work/co-lab-seoul-berlin/세로5_옥상훈.webp
+  videos: []
 en:
   title: 'Co-Lab : Seoul-Berlin'
   workType: Collaborative Work
@@ -36,6 +38,7 @@ en:
   endDate: 2012-01-19
   venue: Arko Arts Theater Small Theater
   production: Hwang Soohyun
+  awards: ''
   credit: |-
     Project Concept: Hwang Soohyun
     Co-Choreography: Jeeae Lim, Hwang Soohyun
