@@ -253,7 +253,7 @@ a {
 
 .container.work ul li {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr auto;
+    grid-template-columns: 1.5fr 0.8fr 1.3fr auto;
     padding-block: var(--subtitle-padding);
     gap: 7px;
 }
