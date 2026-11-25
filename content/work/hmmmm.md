@@ -9,6 +9,7 @@ ko:
     2020 옵/신 페스티벌 / 
 
     제27회 무용예술상 안무상 수상작
+  awards: 제27회 무용예술상 안무상 수상작
   credit: |-
     콘셉트/안무: 황수현
     퍼포머: 강호정, 김주영, 도윤승, 박유라, 신정민, 이현우, 황다솜
@@ -50,6 +51,7 @@ ko:
     - /assets/work/hmmmm/세로2.webp
     - /assets/work/hmmmm/세로3.webp
     - /assets/work/hmmmm/세로4.webp
+  videos: []
 en:
   title: Hmmmm
   workType: Live Performance
@@ -57,6 +59,7 @@ en:
   endDate: 2020-10-28
   venue: Deoksugung Palace Jeonggwanheon
   production: Ob/Scene Festival
+  awards: ''
   credit: |-
     Concept / Choreography: Hwang Soohyun
     Performers: Kang Hojung, Kim Jooyoung, Do Yunseung, Park Yura, Shin Jungmin, Lee Hyunwoo, Hwang Dasom
