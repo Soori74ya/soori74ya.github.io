@@ -5,8 +5,8 @@ ko:
   startDate: 2019-10-10
   endDate: 2019-10-10
   venue: 대학로예술극장 소극장
-  production: 2019 서울국제공연예술제 / 2019 한국춤비평가협회 베스트 작품상
-  awards: ''
+  production: 2019 서울국제공연예술제
+  awards: 2019 한국춤비평가협회 베스트 작품상
   credit: |-
     2019
     콘셉트/안무: 황수현
