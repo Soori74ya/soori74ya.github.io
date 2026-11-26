@@ -122,8 +122,8 @@ news:
     category: 논문
   - start_date: 2024-09-28
     end_date: 2024-10-06
-    title: P와 함께 춤을
-    venue: LG아트센터 · 크리에이티브 VaQi
+    title: 연극 《P와 함께 춤을》 - 크리에이티브 VaQi
+    venue: LG아트센터
     link: https://www.lgart.com/product/performance/252821
     category: 출연
   - start_date: 2024-10-11
